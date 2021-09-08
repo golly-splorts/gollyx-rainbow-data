@@ -30,7 +30,7 @@
     {
         "teamAbbr": "TB",
         "teamName": "Tucson Butchers",
-        "teamColor": "#BB0000",
+        "teamColor": "#bb0000",
         "league": "West League",
         "division": "Southwest Division"
     },
@@ -119,8 +119,8 @@
         "division": "South Division"
     },
     {
-        "teamAbbr": "FWPT",
-        "teamName": "Ft. Worth Piano Tuners",
+        "teamAbbr": "LIL",
+        "teamName": "Louisville Illusionists",
         "teamColor": "#ef6f6c",
         "league": "Unwest League",
         "division": "South Division"
@@ -161,8 +161,8 @@
         "division": "Cold Division"
     },
     {
-        "teamAbbr": "BTX",
-        "teamName": "Baltimore Texas",
+        "teamAbbr": "BPT",
+        "teamName": "Baltimore Piano Tuners",
         "teamColor": "#3e92cc",
         "league": "Unwest League",
         "division": "Cold Division"
