@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "randommethuselahs",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 4,
+                "id": "6b165df1-f4d4-42cf-aae7-dced50b12d54",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "quadgaussian",
+                "description": "Game 1, West League Championship Series",
+                "season": 4,
+                "id": "137332e6-2553-403b-b7b2-57f295465752",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "justyna",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 4,
+                "id": "45ff3cdc-ee02-4597-8e62-f2d3b8a9a42e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "timebombredux",
+                "description": "Game 2, West League Championship Series",
+                "season": 4,
+                "id": "fd312e36-9603-46bc-aeaf-6e73d51ddd07",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "orchard",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 4,
+                "id": "7ba80f06-67fc-4793-8c09-6d05e794316c",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "timebomb",
+                "description": "Game 3, West League Championship Series",
+                "season": 4,
+                "id": "17978d78-5328-4fec-8996-36340f75ab89",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "crabs",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 4,
+                "id": "9615670c-0cf5-40a9-b0b2-6acb5508d150",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "random",
+                "description": "Game 4, West League Championship Series",
+                "season": 4,
+                "id": "811d447d-9b6f-4205-891c-2eb681b32259",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "randommethuselahs",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 4,
+                "id": "7b3bfcb8-2464-4045-85d9-7c0103abd33c",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "rainbowmath",
+                "description": "Game 5, West League Championship Series",
+                "season": 4,
+                "id": "4c3ca226-563f-46e0-b8fe-1874e8b1f65c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "eights",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 4,
+                "id": "5aae0f7f-ef39-47c1-8d3f-d95b59573e66",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "rabbits",
+                "description": "Game 6, West League Championship Series",
+                "season": 4,
+                "id": "ccb1ebad-b7d5-4fce-b6f2-fb279c7ec111",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "random",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 4,
+                "id": "0655fae9-0d82-4e8b-b4f0-a62e40c8ed91",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "timebombredux",
+                "description": "Game 7, West League Championship Series",
+                "season": 4,
+                "id": "7dfb0797-da85-4304-8423-d65fb6f9cdbb",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "justyna",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 4,
+                "id": "e2fc0527-e756-4e61-91dd-8a5f625b6679",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "random",
+                "description": "Game 8, West League Championship Series",
+                "season": 4,
+                "id": "5d733be3-bd43-48b8-832e-4fa10e2757d9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "timebombredux",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 4,
+                "id": "4aabf9b9-410d-40dd-b4e8-6867bb85592b",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "eights",
+                "description": "Game 9, West League Championship Series",
+                "season": 4,
+                "id": "2430152f-30b9-420f-aa33-c5bd01e21858",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 4,
+                "id": "3babb9b5-8226-4f52-bfa2-af2157ca9881",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 4,
+                "id": "126765d1-c9f2-4e2a-a97e-a71e9a8dec9e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 4,
+                "id": "5ece8db2-0b81-46d1-9b83-c9f362343604",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 4,
+                "id": "31151479-72bd-4823-860b-bdd95270c7a3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 4,
+                "id": "51ae498c-4ea4-4ee8-9308-f27edc2de970",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 4,
+                "id": "c1e1a409-c2d8-48a6-baf8-1cd586e8ba18",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 4,
+                "id": "5399960a-21f1-44ab-931c-9ff3ec9b29a9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 4,
+                "id": "730a800d-f240-4598-98fc-64863c53e53f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 4,
+                "id": "7cfe0036-0ce9-4c80-8e4f-0b4cfca74a41",
+                "isPostseason": true
+            }
+        ]
+    ]
+}

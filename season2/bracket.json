@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Jersey OSHA Violations",
+                "team2Abbr": "OSHA",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "eights",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 2,
+                "id": "764d329a-2540-44c8-a19b-48efcc8fa94a",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "eights",
+                "description": "Game 1, West League Championship Series",
+                "season": 2,
+                "id": "163f640d-2a3f-418f-9232-2d81877e5b02",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Jersey OSHA Violations",
+                "team2Abbr": "OSHA",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "rainbow",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 2,
+                "id": "b2b5550e-0357-4ffa-a2f9-fdc48ea7e208",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "crabs",
+                "description": "Game 2, West League Championship Series",
+                "season": 2,
+                "id": "39f8d891-604c-41d7-a27f-197d5399ebf0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Jersey OSHA Violations",
+                "team2Abbr": "OSHA",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "sunburst",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 2,
+                "id": "097f6ecb-7c43-4159-aa9a-a785296e5b5a",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "random",
+                "description": "Game 3, West League Championship Series",
+                "season": 2,
+                "id": "9c544016-176c-468b-96bd-08cef4fef784",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Jersey OSHA Violations",
+                "team2Abbr": "OSHA",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "crabs",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 2,
+                "id": "7ac012a0-71dd-47cf-9987-fe95fb53d931",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "patiolights",
+                "description": "Game 4, West League Championship Series",
+                "season": 2,
+                "id": "926647a4-4a39-4b03-8617-41f878644701",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Jersey OSHA Violations",
+                "team2Abbr": "OSHA",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "orchard",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 2,
+                "id": "2751446c-f8f8-42c7-9667-0eb167aa3571",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "patiolights",
+                "description": "Game 5, West League Championship Series",
+                "season": 2,
+                "id": "a5ae7b66-2e85-40a1-9f31-f3344bf078be",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Jersey OSHA Violations",
+                "team2Abbr": "OSHA",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "eights",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 2,
+                "id": "7f8025b8-0d44-468a-96bc-a09c2e31b325",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "randommethuselahs",
+                "description": "Game 6, West League Championship Series",
+                "season": 2,
+                "id": "e326ba38-4343-4edc-96c6-0e71a11865bf",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Jersey OSHA Violations",
+                "team2Abbr": "OSHA",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "rainbowmath",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 2,
+                "id": "68b1e4d2-cee2-43da-ba80-8d8ffad0edb5",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "multum",
+                "description": "Game 7, West League Championship Series",
+                "season": 2,
+                "id": "e7c1e765-41d5-4c6d-812c-6143a7c68dd1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Jersey OSHA Violations",
+                "team2Abbr": "OSHA",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "multum",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 2,
+                "id": "3285b61f-bdfe-4176-bfad-5df63d24cfb5",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "timebomb",
+                "description": "Game 8, West League Championship Series",
+                "season": 2,
+                "id": "18c89f37-308d-40b7-a0c9-7da7b3d8bf2d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Jersey OSHA Violations",
+                "team2Abbr": "OSHA",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "quadgaussian",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 2,
+                "id": "5436cc7a-c8d3-4533-a167-c88537354bc4",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "rainbowmath",
+                "description": "Game 9, West League Championship Series",
+                "season": 2,
+                "id": "1d33eee4-0d3a-4f70-a3c7-adbf8b061a8e",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 2,
+                "id": "5bf6abe5-7d06-4cac-9cb9-adabf0291ef4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 2,
+                "id": "28f86a98-ca95-4c14-bb92-183a1eca0b6c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 2,
+                "id": "869c5562-5293-4b71-bc54-238d78fb0a2d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 2,
+                "id": "8331473d-1ac8-405e-81a3-3274dbcd5f26",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 2,
+                "id": "a08a6aaf-981e-4a04-949f-a991f270975b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 2,
+                "id": "e87cce46-e627-4245-b8fb-2d8e5c9af5d1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 2,
+                "id": "9463dc6d-28ea-4991-b436-06b7f050a528",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 2,
+                "id": "814d932f-cd81-4d81-acce-2810d7080c42",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 2,
+                "id": "0c7741c4-2cd7-4a04-a3a6-77e2213e663d",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
