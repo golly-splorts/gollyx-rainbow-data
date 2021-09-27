@@ -13,7 +13,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 1, Unwest League Championship Series",
                 "season": 3,
-                "id": "53f414c0-8ed6-4e91-904a-0f9dc0b2d70b",
+                "gameid": "53f414c0-8ed6-4e91-904a-0f9dc0b2d70b",
                 "isPostseason": true,
                 "map": {
                     "patternName": "orchard",
@@ -85,7 +85,7 @@
                 "team4Abbr": "GJC",
                 "description": "Game 1, West League Championship Series",
                 "season": 3,
-                "id": "2a78d305-d941-4368-a220-822c7e0c6fec",
+                "gameid": "2a78d305-d941-4368-a220-822c7e0c6fec",
                 "isPostseason": true,
                 "map": {
                     "patternName": "timebomb",
@@ -159,7 +159,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 2, Unwest League Championship Series",
                 "season": 3,
-                "id": "519cb1d2-8e16-41b5-88f8-0fca5625a5f2",
+                "gameid": "519cb1d2-8e16-41b5-88f8-0fca5625a5f2",
                 "isPostseason": true,
                 "map": {
                     "patternName": "eights",
@@ -231,7 +231,7 @@
                 "team4Abbr": "GJC",
                 "description": "Game 2, West League Championship Series",
                 "season": 3,
-                "id": "a121f178-9ecb-4e7a-8a62-e556454a143e",
+                "gameid": "a121f178-9ecb-4e7a-8a62-e556454a143e",
                 "isPostseason": true,
                 "map": {
                     "patternName": "orchard",
@@ -305,7 +305,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 3, Unwest League Championship Series",
                 "season": 3,
-                "id": "c2dc9002-9247-4222-adcc-1242ceaa2b7f",
+                "gameid": "c2dc9002-9247-4222-adcc-1242ceaa2b7f",
                 "isPostseason": true,
                 "map": {
                     "patternName": "rabbits",
@@ -377,7 +377,7 @@
                 "team4Abbr": "GJC",
                 "description": "Game 3, West League Championship Series",
                 "season": 3,
-                "id": "8a4ddb6e-0f9d-4702-ad36-527ee31aa480",
+                "gameid": "8a4ddb6e-0f9d-4702-ad36-527ee31aa480",
                 "isPostseason": true,
                 "map": {
                     "patternName": "timebombredux",
@@ -451,7 +451,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 4, Unwest League Championship Series",
                 "season": 3,
-                "id": "f079e09e-336e-437e-a087-797b77fa1863",
+                "gameid": "f079e09e-336e-437e-a087-797b77fa1863",
                 "isPostseason": true,
                 "map": {
                     "patternName": "quadgaussian",
@@ -523,7 +523,7 @@
                 "team4Abbr": "GJC",
                 "description": "Game 4, West League Championship Series",
                 "season": 3,
-                "id": "a6493106-a341-4819-922e-8fb289d902c6",
+                "gameid": "a6493106-a341-4819-922e-8fb289d902c6",
                 "isPostseason": true,
                 "map": {
                     "patternName": "justyna",
@@ -597,7 +597,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 5, Unwest League Championship Series",
                 "season": 3,
-                "id": "d1e6e687-26a2-4131-92a6-9dd1eda9ce8a",
+                "gameid": "d1e6e687-26a2-4131-92a6-9dd1eda9ce8a",
                 "isPostseason": true,
                 "map": {
                     "patternName": "timebomb",
@@ -669,7 +669,7 @@
                 "team4Abbr": "GJC",
                 "description": "Game 5, West League Championship Series",
                 "season": 3,
-                "id": "64dc65ec-01cf-4b0e-ad27-b761e0b0e95b",
+                "gameid": "64dc65ec-01cf-4b0e-ad27-b761e0b0e95b",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",
@@ -743,7 +743,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 6, Unwest League Championship Series",
                 "season": 3,
-                "id": "2d2fff05-b494-472d-aaab-a5167bbc85e0",
+                "gameid": "2d2fff05-b494-472d-aaab-a5167bbc85e0",
                 "isPostseason": true,
                 "map": {
                     "patternName": "timebombredux",
@@ -815,7 +815,7 @@
                 "team4Abbr": "GJC",
                 "description": "Game 6, West League Championship Series",
                 "season": 3,
-                "id": "d6e1a2d3-fa97-4e19-9802-ae7d1a6f4511",
+                "gameid": "d6e1a2d3-fa97-4e19-9802-ae7d1a6f4511",
                 "isPostseason": true,
                 "map": {
                     "patternName": "rabbits",
@@ -889,7 +889,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 7, Unwest League Championship Series",
                 "season": 3,
-                "id": "83a383b6-3cd5-4727-a84c-db47afcc67ee",
+                "gameid": "83a383b6-3cd5-4727-a84c-db47afcc67ee",
                 "isPostseason": true,
                 "map": {
                     "patternName": "randommethuselahs",
@@ -961,7 +961,7 @@
                 "team4Abbr": "GJC",
                 "description": "Game 7, West League Championship Series",
                 "season": 3,
-                "id": "7ee8cc95-2795-4044-a702-8801d1732a39",
+                "gameid": "7ee8cc95-2795-4044-a702-8801d1732a39",
                 "isPostseason": true,
                 "map": {
                     "patternName": "patiolights",
@@ -1035,7 +1035,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 8, Unwest League Championship Series",
                 "season": 3,
-                "id": "f107bca5-ffa4-404e-86bb-51c0226c1363",
+                "gameid": "f107bca5-ffa4-404e-86bb-51c0226c1363",
                 "isPostseason": true,
                 "map": {
                     "patternName": "timebombredux",
@@ -1107,7 +1107,7 @@
                 "team4Abbr": "GJC",
                 "description": "Game 8, West League Championship Series",
                 "season": 3,
-                "id": "790e1cde-a4a7-4710-818d-d3d7cc8a2fd8",
+                "gameid": "790e1cde-a4a7-4710-818d-d3d7cc8a2fd8",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -1181,7 +1181,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 9, Unwest League Championship Series",
                 "season": 3,
-                "id": "66f08c64-cfa4-4cda-a198-cfa848f535cf",
+                "gameid": "66f08c64-cfa4-4cda-a198-cfa848f535cf",
                 "isPostseason": true,
                 "map": {
                     "patternName": "timebombredux",
@@ -1253,7 +1253,7 @@
                 "team4Abbr": "GJC",
                 "description": "Game 9, West League Championship Series",
                 "season": 3,
-                "id": "ef7f47fd-f2bc-4e14-bd82-2a729175b51f",
+                "gameid": "ef7f47fd-f2bc-4e14-bd82-2a729175b51f",
                 "isPostseason": true,
                 "map": {
                     "patternName": "randommethuselahs",
@@ -1328,7 +1328,7 @@
                 "team4Abbr": "SS",
                 "description": "Game 1, Rainbow Cup Series",
                 "season": 3,
-                "id": "927127cb-d459-4289-9e1b-f2cff467cf46",
+                "gameid": "927127cb-d459-4289-9e1b-f2cff467cf46",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",
@@ -1401,7 +1401,7 @@
                 "team4Abbr": "SS",
                 "description": "Game 2, Rainbow Cup Series",
                 "season": 3,
-                "id": "ed9262fd-21f6-484d-8494-2345b37762be",
+                "gameid": "ed9262fd-21f6-484d-8494-2345b37762be",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",
@@ -1474,7 +1474,7 @@
                 "team4Abbr": "SS",
                 "description": "Game 3, Rainbow Cup Series",
                 "season": 3,
-                "id": "40245fc4-aad1-48a9-accc-684450cb6388",
+                "gameid": "40245fc4-aad1-48a9-accc-684450cb6388",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",
@@ -1547,7 +1547,7 @@
                 "team4Abbr": "SS",
                 "description": "Game 4, Rainbow Cup Series",
                 "season": 3,
-                "id": "fc25a1aa-e7f8-403a-bd06-b4c2e4506208",
+                "gameid": "fc25a1aa-e7f8-403a-bd06-b4c2e4506208",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",
@@ -1620,7 +1620,7 @@
                 "team4Abbr": "SS",
                 "description": "Game 5, Rainbow Cup Series",
                 "season": 3,
-                "id": "1c3133fc-9cfe-49d6-8f70-0d306cacc92c",
+                "gameid": "1c3133fc-9cfe-49d6-8f70-0d306cacc92c",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",
@@ -1693,7 +1693,7 @@
                 "team4Abbr": "SS",
                 "description": "Game 6, Rainbow Cup Series",
                 "season": 3,
-                "id": "e745fad4-32de-467e-ad11-d8d2bf763f1c",
+                "gameid": "e745fad4-32de-467e-ad11-d8d2bf763f1c",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",
@@ -1766,7 +1766,7 @@
                 "team4Abbr": "SS",
                 "description": "Game 7, Rainbow Cup Series",
                 "season": 3,
-                "id": "bdb862cd-fdb8-4ed5-b6b8-2b2f8218cbb5",
+                "gameid": "bdb862cd-fdb8-4ed5-b6b8-2b2f8218cbb5",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",
@@ -1839,7 +1839,7 @@
                 "team4Abbr": "SS",
                 "description": "Game 8, Rainbow Cup Series",
                 "season": 3,
-                "id": "6d09e87a-009c-4937-8d45-3858fdcc88e7",
+                "gameid": "6d09e87a-009c-4937-8d45-3858fdcc88e7",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",
@@ -1912,7 +1912,7 @@
                 "team4Abbr": "SS",
                 "description": "Game 9, Rainbow Cup Series",
                 "season": 3,
-                "id": "a5e1fc77-b104-4a20-a129-f0611598008f",
+                "gameid": "a5e1fc77-b104-4a20-a129-f0611598008f",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",

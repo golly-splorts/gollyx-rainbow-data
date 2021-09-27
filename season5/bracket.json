@@ -14,7 +14,7 @@
                 "patternName": "rabbits",
                 "description": "Game 1, Unwest League Championship Series",
                 "season": 5,
-                "id": "ddfc1446-2012-4870-ac60-51da92bc675b",
+                "gameid": "ddfc1446-2012-4870-ac60-51da92bc675b",
                 "isPostseason": true
             },
             {
@@ -30,7 +30,7 @@
                 "patternName": "timebombredux",
                 "description": "Game 1, West League Championship Series",
                 "season": 5,
-                "id": "dc7f2e8d-2f04-42ee-8b27-154d76590c48",
+                "gameid": "dc7f2e8d-2f04-42ee-8b27-154d76590c48",
                 "isPostseason": true
             }
         ],
@@ -48,7 +48,7 @@
                 "patternName": "multum",
                 "description": "Game 2, Unwest League Championship Series",
                 "season": 5,
-                "id": "45f948a7-9910-4de5-be5a-50cd34c04159",
+                "gameid": "45f948a7-9910-4de5-be5a-50cd34c04159",
                 "isPostseason": true
             },
             {
@@ -64,7 +64,7 @@
                 "patternName": "rabbits",
                 "description": "Game 2, West League Championship Series",
                 "season": 5,
-                "id": "f76de6d3-8d5f-42ea-bac1-8ded3997be97",
+                "gameid": "f76de6d3-8d5f-42ea-bac1-8ded3997be97",
                 "isPostseason": true
             }
         ],
@@ -82,7 +82,7 @@
                 "patternName": "random",
                 "description": "Game 3, Unwest League Championship Series",
                 "season": 5,
-                "id": "a4784d0d-f23f-4196-9506-14192867f04a",
+                "gameid": "a4784d0d-f23f-4196-9506-14192867f04a",
                 "isPostseason": true
             },
             {
@@ -98,7 +98,7 @@
                 "patternName": "multum",
                 "description": "Game 3, West League Championship Series",
                 "season": 5,
-                "id": "d05725bd-f7d8-4df9-9e37-900f6ab84cdc",
+                "gameid": "d05725bd-f7d8-4df9-9e37-900f6ab84cdc",
                 "isPostseason": true
             }
         ],
@@ -116,7 +116,7 @@
                 "patternName": "orchard",
                 "description": "Game 4, Unwest League Championship Series",
                 "season": 5,
-                "id": "7aed6d2d-83d5-4aa2-bf63-35a1182dd03f",
+                "gameid": "7aed6d2d-83d5-4aa2-bf63-35a1182dd03f",
                 "isPostseason": true
             },
             {
@@ -132,7 +132,7 @@
                 "patternName": "randommethuselahs",
                 "description": "Game 4, West League Championship Series",
                 "season": 5,
-                "id": "953c7623-4bd4-4277-aeab-9cd4ecbae70e",
+                "gameid": "953c7623-4bd4-4277-aeab-9cd4ecbae70e",
                 "isPostseason": true
             }
         ],
@@ -150,7 +150,7 @@
                 "patternName": "rainbow",
                 "description": "Game 5, Unwest League Championship Series",
                 "season": 5,
-                "id": "0fb581b5-85e0-4dc3-b974-8c2dfed7c357",
+                "gameid": "0fb581b5-85e0-4dc3-b974-8c2dfed7c357",
                 "isPostseason": true
             },
             {
@@ -166,7 +166,7 @@
                 "patternName": "timebomb",
                 "description": "Game 5, West League Championship Series",
                 "season": 5,
-                "id": "40ed5d08-171d-489d-bfca-badd254eec5b",
+                "gameid": "40ed5d08-171d-489d-bfca-badd254eec5b",
                 "isPostseason": true
             }
         ],
@@ -184,7 +184,7 @@
                 "patternName": "orchard",
                 "description": "Game 6, Unwest League Championship Series",
                 "season": 5,
-                "id": "9adb15d0-57e7-4036-b78d-3e75acbae59b",
+                "gameid": "9adb15d0-57e7-4036-b78d-3e75acbae59b",
                 "isPostseason": true
             },
             {
@@ -200,7 +200,7 @@
                 "patternName": "rainbow",
                 "description": "Game 6, West League Championship Series",
                 "season": 5,
-                "id": "51487fad-22f1-4340-aabf-98defcaccaaa",
+                "gameid": "51487fad-22f1-4340-aabf-98defcaccaaa",
                 "isPostseason": true
             }
         ],
@@ -218,7 +218,7 @@
                 "patternName": "justyna",
                 "description": "Game 7, Unwest League Championship Series",
                 "season": 5,
-                "id": "16e0c2ec-fe94-4d8b-9792-3f0ad613788a",
+                "gameid": "16e0c2ec-fe94-4d8b-9792-3f0ad613788a",
                 "isPostseason": true
             },
             {
@@ -234,7 +234,7 @@
                 "patternName": "random",
                 "description": "Game 7, West League Championship Series",
                 "season": 5,
-                "id": "06057656-bf94-4392-bef6-ed01a0c07d22",
+                "gameid": "06057656-bf94-4392-bef6-ed01a0c07d22",
                 "isPostseason": true
             }
         ],
@@ -252,7 +252,7 @@
                 "patternName": "quadgaussian",
                 "description": "Game 8, Unwest League Championship Series",
                 "season": 5,
-                "id": "1d63989b-469b-4162-88fb-9bae56048258",
+                "gameid": "1d63989b-469b-4162-88fb-9bae56048258",
                 "isPostseason": true
             },
             {
@@ -268,7 +268,7 @@
                 "patternName": "rainbow",
                 "description": "Game 8, West League Championship Series",
                 "season": 5,
-                "id": "6f0eb19a-caf7-4ff9-b69c-d8954e77ceb5",
+                "gameid": "6f0eb19a-caf7-4ff9-b69c-d8954e77ceb5",
                 "isPostseason": true
             }
         ],
@@ -286,7 +286,7 @@
                 "patternName": "justyna",
                 "description": "Game 9, Unwest League Championship Series",
                 "season": 5,
-                "id": "31ce2ecf-2a65-4660-869b-83a4560661f0",
+                "gameid": "31ce2ecf-2a65-4660-869b-83a4560661f0",
                 "isPostseason": true
             },
             {
@@ -302,7 +302,7 @@
                 "patternName": "quadgaussian",
                 "description": "Game 9, West League Championship Series",
                 "season": 5,
-                "id": "07205491-2c1c-4743-83bd-10f55ef9a16f",
+                "gameid": "07205491-2c1c-4743-83bd-10f55ef9a16f",
                 "isPostseason": true
             }
         ]
@@ -321,7 +321,7 @@
                 "patternName": "rainbowmath",
                 "description": "Game 1, Rainbow Cup Series",
                 "season": 5,
-                "id": "b40383d9-0040-4081-92c5-5fb5baf947a7",
+                "gameid": "b40383d9-0040-4081-92c5-5fb5baf947a7",
                 "isPostseason": true
             }
         ],
@@ -338,7 +338,7 @@
                 "patternName": "rainbowmath",
                 "description": "Game 2, Rainbow Cup Series",
                 "season": 5,
-                "id": "4cb139a6-ae53-433c-8784-396d0b32e8f0",
+                "gameid": "4cb139a6-ae53-433c-8784-396d0b32e8f0",
                 "isPostseason": true
             }
         ],
@@ -355,7 +355,7 @@
                 "patternName": "rainbowmath",
                 "description": "Game 3, Rainbow Cup Series",
                 "season": 5,
-                "id": "b0bc110f-6a73-4af0-ae7e-8570ab9ef363",
+                "gameid": "b0bc110f-6a73-4af0-ae7e-8570ab9ef363",
                 "isPostseason": true
             }
         ],
@@ -372,7 +372,7 @@
                 "patternName": "rainbowmath",
                 "description": "Game 4, Rainbow Cup Series",
                 "season": 5,
-                "id": "b164c484-760c-4567-8c37-ac162b88e560",
+                "gameid": "b164c484-760c-4567-8c37-ac162b88e560",
                 "isPostseason": true
             }
         ],
@@ -389,7 +389,7 @@
                 "patternName": "rainbowmath",
                 "description": "Game 5, Rainbow Cup Series",
                 "season": 5,
-                "id": "9df8f379-2da3-40ed-85c0-8b1d9c4aa4d4",
+                "gameid": "9df8f379-2da3-40ed-85c0-8b1d9c4aa4d4",
                 "isPostseason": true
             }
         ],
@@ -406,7 +406,7 @@
                 "patternName": "rainbowmath",
                 "description": "Game 6, Rainbow Cup Series",
                 "season": 5,
-                "id": "803c190d-35d3-4575-ad91-eecad71c0e53",
+                "gameid": "803c190d-35d3-4575-ad91-eecad71c0e53",
                 "isPostseason": true
             }
         ],
@@ -423,7 +423,7 @@
                 "patternName": "rainbowmath",
                 "description": "Game 7, Rainbow Cup Series",
                 "season": 5,
-                "id": "1028b448-43fb-4146-a8d5-3808fb927cd8",
+                "gameid": "1028b448-43fb-4146-a8d5-3808fb927cd8",
                 "isPostseason": true
             }
         ],
@@ -440,7 +440,7 @@
                 "patternName": "rainbowmath",
                 "description": "Game 8, Rainbow Cup Series",
                 "season": 5,
-                "id": "426be35c-9e55-4b15-ad11-f85fe85f1e99",
+                "gameid": "426be35c-9e55-4b15-ad11-f85fe85f1e99",
                 "isPostseason": true
             }
         ],
@@ -457,7 +457,7 @@
                 "patternName": "rainbowmath",
                 "description": "Game 9, Rainbow Cup Series",
                 "season": 5,
-                "id": "136f0261-8c0e-449b-89d9-2ef85ef36fd0",
+                "gameid": "136f0261-8c0e-449b-89d9-2ef85ef36fd0",
                 "isPostseason": true
             }
         ]
