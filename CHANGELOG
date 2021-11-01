@@ -1,3 +1,7 @@
+Version 49:
+
+* Fix backend randomization and potential bias issues
+
 Version 42:
 
 * replace id with gameid
