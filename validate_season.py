@@ -2,7 +2,7 @@ import os
 import json
 
 
-LAST_SEASON0 = 5
+LAST_SEASON0 = 3
 
 SERIES_GPD = {"LCS": 2, "RCS": 1}
 
@@ -170,8 +170,9 @@ for iseason in range(LAST_SEASON0 + 1):
             summ = sum(game[rk])
             if summ != iseriesday:
                 print(game)
+                import pdb; pdb.set_trace()
                 raise Exception(
-                    f"Error in game {game['gameid']} of season {game['season']} day {game['day']}: win loss record for team {i+1} sums to {summ}, should sum to {iseriesday}"
+                    f"Error in game {game['gameid']} of season {game['season']} day {game['day']}: win loss record for {rk} sums to {summ}, should sum to {iseriesday}"
                 )
 
     def check_game_season(game, correct_season):

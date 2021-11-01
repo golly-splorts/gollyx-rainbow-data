@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
+                "team2Name": "Orlando Business Majors",
+                "team2Abbr": "ORL",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Detroit Grape Chews",
+                "team4Abbr": "DET",
+                "patternName": "crabs",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "232bc16c-1456-49b1-a61b-20adacff9a82",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Francisco Boat Shoes",
+                "team1Abbr": "SFBS",
+                "team2Name": "Albuquerque Solarpunks",
+                "team2Abbr": "ABQ",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "sunburst",
+                "description": "Game 1, West League Championship Series",
+                "season": 3,
+                "gameid": "458e48c9-81dd-496c-a9a5-b8855b5b99d0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Orlando Business Majors",
+                "team2Abbr": "ORL",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "timebomb",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "e9485f71-8de4-47cb-9ae0-a9853cf0d852",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Francisco Boat Shoes",
+                "team1Abbr": "SFBS",
+                "team2Name": "Albuquerque Solarpunks",
+                "team2Abbr": "ABQ",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "crabs",
+                "description": "Game 2, West League Championship Series",
+                "season": 3,
+                "gameid": "56c23df1-8eb5-4e3b-9eb2-363fd181550f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Orlando Business Majors",
+                "team2Abbr": "ORL",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "crabs",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "2dd85c1c-e4e2-4f97-8c36-bdd44e2f3776",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Francisco Boat Shoes",
+                "team1Abbr": "SFBS",
+                "team2Name": "Vegas Vampires",
+                "team2Abbr": "VV",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "quadgaussian",
+                "description": "Game 3, West League Championship Series",
+                "season": 3,
+                "gameid": "85605a34-5332-4292-a9cb-c4528bfc7c25",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
+                "team3Name": "Orlando Business Majors",
+                "team3Abbr": "ORL",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "timebomb",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "696ef11c-20cd-409a-b097-6513dd899a44",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Vegas Vampires",
+                "team2Abbr": "VV",
+                "team3Name": "Albuquerque Solarpunks",
+                "team3Abbr": "ABQ",
+                "team4Name": "San Francisco Boat Shoes",
+                "team4Abbr": "SFBS",
+                "patternName": "randommethuselahs",
+                "description": "Game 4, West League Championship Series",
+                "season": 3,
+                "gameid": "9b88d94a-8f46-4d36-bc81-098e13b60260",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Orlando Business Majors",
+                "team4Abbr": "ORL",
+                "patternName": "rabbits",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "996d6844-3aab-4bb5-aec8-ed724e2eee70",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Vegas Vampires",
+                "team2Abbr": "VV",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "crabs",
+                "description": "Game 5, West League Championship Series",
+                "season": 3,
+                "gameid": "31c6df3a-62bc-4f89-a42f-40a3702d7084",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Orlando Business Majors",
+                "team3Abbr": "ORL",
+                "team4Name": "Detroit Grape Chews",
+                "team4Abbr": "DET",
+                "patternName": "rabbits",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "d47cb2f8-0180-4836-8613-ac7d7341dfdf",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Albuquerque Solarpunks",
+                "team1Abbr": "ABQ",
+                "team2Name": "San Francisco Boat Shoes",
+                "team2Abbr": "SFBS",
+                "team3Name": "Vegas Vampires",
+                "team3Abbr": "VV",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "patiolights",
+                "description": "Game 6, West League Championship Series",
+                "season": 3,
+                "gameid": "6ef256e0-fef4-4f8c-be91-28c40d0e63bf",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
+                "team3Name": "Orlando Business Majors",
+                "team3Abbr": "ORL",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "sunburst",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "ca6ec079-ce64-4693-a210-3b4429b17f01",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "San Francisco Boat Shoes",
+                "team2Abbr": "SFBS",
+                "team3Name": "Albuquerque Solarpunks",
+                "team3Abbr": "ABQ",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "rainbow",
+                "description": "Game 7, West League Championship Series",
+                "season": 3,
+                "gameid": "8c9f2369-46ce-4cfd-9dc5-95325bce434f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Orlando Business Majors",
+                "team2Abbr": "ORL",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "randommethuselahs",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "d59affa0-39aa-4257-a341-4cba5816147d",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Albuquerque Solarpunks",
+                "team1Abbr": "ABQ",
+                "team2Name": "San Francisco Boat Shoes",
+                "team2Abbr": "SFBS",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "crabs",
+                "description": "Game 8, West League Championship Series",
+                "season": 3,
+                "gameid": "586ee75b-77d5-4d40-ad58-8698786d14f9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Orlando Business Majors",
+                "team1Abbr": "ORL",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team2Abbr": "SGE",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Detroit Grape Chews",
+                "team4Abbr": "DET",
+                "patternName": "eights",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "de470aa7-9e05-4568-8670-e2ac9ae34fc2",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Albuquerque Solarpunks",
+                "team2Abbr": "ABQ",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "patiolights",
+                "description": "Game 9, West League Championship Series",
+                "season": 3,
+                "gameid": "6df14639-9c4e-4320-bd56-667acf621124",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "f80774c7-a4ec-42e5-b0ca-3084073227f8",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "62a12d0c-1542-4354-86c7-aa98a77cf7c3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "fe4dcf08-86d2-4ea7-9dfb-e8822ca95db5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "a202f2f5-e80a-4b13-95b3-6412382c57d8",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "830d3590-77a2-459f-b371-a51eed86894e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "714c0622-502c-4e2c-80b3-e15c990390ed",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "2531c559-0354-4b73-a03e-71af9c86ce3a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "ca588ce3-17b3-4abe-8f53-2fd274aa8fd0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "e15a4e06-2e81-4c44-baff-1ae59efdf9fa",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
