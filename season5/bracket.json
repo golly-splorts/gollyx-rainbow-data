@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
+                "team2Name": "Mobile Wheels",
+                "team2Abbr": "MW",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "orchard",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 5,
+                "gameid": "b9b8c342-3824-4ac4-b789-624ba92cbd3d",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Sacramento Boot Lickers",
+                "team2Abbr": "SAC",
+                "team3Name": "Albuquerque Solarpunks",
+                "team3Abbr": "ABQ",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "eights",
+                "description": "Game 1, West League Championship Series",
+                "season": 5,
+                "gameid": "5f2b5d58-1f6a-4312-be72-8bd6d088df9e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Boylston Boogers",
+                "team2Abbr": "BB",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
+                "team4Name": "Mobile Wheels",
+                "team4Abbr": "MW",
+                "patternName": "patiolights",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 5,
+                "gameid": "6f5bedce-5e2b-48e3-8b51-b881d66c7c96",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Seattle Sneakers",
+                "team1Abbr": "SS",
+                "team2Name": "Sacramento Boot Lickers",
+                "team2Abbr": "SAC",
+                "team3Name": "Albuquerque Solarpunks",
+                "team3Abbr": "ABQ",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "rainbowmath",
+                "description": "Game 2, West League Championship Series",
+                "season": 5,
+                "gameid": "450ed0f5-75dd-4076-8f9f-5525a74732ba",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Mobile Wheels",
+                "team2Abbr": "MW",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "random",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 5,
+                "gameid": "fc4fab7c-e443-4f15-a1da-3184ecfedf78",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Albuquerque Solarpunks",
+                "team1Abbr": "ABQ",
+                "team2Name": "Seattle Sneakers",
+                "team2Abbr": "SS",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "crabs",
+                "description": "Game 3, West League Championship Series",
+                "season": 5,
+                "gameid": "220811e5-3f4e-4619-9dd1-2070c3a31c01",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Boylston Boogers",
+                "team1Abbr": "BB",
+                "team2Name": "Mobile Wheels",
+                "team2Abbr": "MW",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
+                "team4Name": "Detroit Grape Chews",
+                "team4Abbr": "DET",
+                "patternName": "random",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 5,
+                "gameid": "7b0758ed-fa0a-4af9-9bdc-69b0fcce1c56",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Seattle Sneakers",
+                "team1Abbr": "SS",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Albuquerque Solarpunks",
+                "team3Abbr": "ABQ",
+                "team4Name": "Sacramento Boot Lickers",
+                "team4Abbr": "SAC",
+                "patternName": "timebombredux",
+                "description": "Game 4, West League Championship Series",
+                "season": 5,
+                "gameid": "6636f5f9-0952-4123-a981-8fdfc4abc1eb",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Mobile Wheels",
+                "team1Abbr": "MW",
+                "team2Name": "Boylston Boogers",
+                "team2Abbr": "BB",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "randommethuselahs",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 5,
+                "gameid": "6f40655c-5249-4f50-9ce0-2c50f95e1064",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Albuquerque Solarpunks",
+                "team2Abbr": "ABQ",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Sacramento Boot Lickers",
+                "team4Abbr": "SAC",
+                "patternName": "rainbow",
+                "description": "Game 5, West League Championship Series",
+                "season": 5,
+                "gameid": "e62d807a-ceff-4d08-9cf3-7122aa289b53",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Mobile Wheels",
+                "team1Abbr": "MW",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team2Abbr": "SGE",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "rabbits",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 5,
+                "gameid": "66e963e6-0a0b-4e31-91f6-0f1ddfe8c902",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Albuquerque Solarpunks",
+                "team1Abbr": "ABQ",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "patiolights",
+                "description": "Game 6, West League Championship Series",
+                "season": 5,
+                "gameid": "730eb542-757c-439c-aff4-a9ec6968b35e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
+                "team2Name": "Mobile Wheels",
+                "team2Abbr": "MW",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "random",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 5,
+                "gameid": "a2579ff9-e82b-4f62-90a5-20faf4d51a29",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Seattle Sneakers",
+                "team1Abbr": "SS",
+                "team2Name": "Albuquerque Solarpunks",
+                "team2Abbr": "ABQ",
+                "team3Name": "San Diego Balloon Animals",
+                "team3Abbr": "SDBA",
+                "team4Name": "Sacramento Boot Lickers",
+                "team4Abbr": "SAC",
+                "patternName": "rabbits",
+                "description": "Game 7, West League Championship Series",
+                "season": 5,
+                "gameid": "289a4f7b-cfb4-4cc3-b073-7846b6fc3419",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Boylston Boogers",
+                "team1Abbr": "BB",
+                "team2Name": "Mobile Wheels",
+                "team2Abbr": "MW",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
+                "team4Name": "Detroit Grape Chews",
+                "team4Abbr": "DET",
+                "patternName": "rainbow",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 5,
+                "gameid": "6f5cc5a2-7937-4cef-b266-c3f9d7486f23",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Seattle Sneakers",
+                "team1Abbr": "SS",
+                "team2Name": "Sacramento Boot Lickers",
+                "team2Abbr": "SAC",
+                "team3Name": "Albuquerque Solarpunks",
+                "team3Abbr": "ABQ",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "rainbowmath",
+                "description": "Game 8, West League Championship Series",
+                "season": 5,
+                "gameid": "55fe881a-c1b3-4bf9-bdd2-340bb6499b0c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Boylston Boogers",
+                "team1Abbr": "BB",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
+                "team3Name": "Mobile Wheels",
+                "team3Abbr": "MW",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "timebomb",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 5,
+                "gameid": "4e5c71fc-7ced-4f5a-80ab-d6988e697d02",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Sacramento Boot Lickers",
+                "team1Abbr": "SAC",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "rainbowmath",
+                "description": "Game 9, West League Championship Series",
+                "season": 5,
+                "gameid": "7c98c166-8853-4c52-89ce-af7ce459c8d5",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 5,
+                "gameid": "b9fdaaca-d1ec-44b2-aee2-9c0212d8304e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 5,
+                "gameid": "e45698ee-a7be-4540-88bc-3795aa3202ff",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 5,
+                "gameid": "a1c9be48-fe5d-4e14-8ff9-fdb60d8fc854",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 5,
+                "gameid": "efd7e882-5598-47a3-9f4c-121407e543df",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 5,
+                "gameid": "0ff94ba1-3f9c-4776-a7cb-27570687b5e2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 5,
+                "gameid": "8e09f973-c470-4575-b629-bbbfa3398935",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 5,
+                "gameid": "1e85fffa-f590-4c56-8fc3-b53955542219",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 5,
+                "gameid": "1995a67b-becc-4f9d-b89c-80ba9a605ab7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 5,
+                "gameid": "ef1d5dbd-5a2e-48c9-b50b-6159195f1b6c",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
