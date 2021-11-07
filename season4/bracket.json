@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Fargo Flea Flickers",
+                "team1Abbr": "FFF",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "random",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 4,
+                "gameid": "853038d8-6803-4e47-b927-e4524b8748fa",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Sacramento Boot Lickers",
+                "team1Abbr": "SAC",
+                "team2Name": "Phoenix Freshrolls",
+                "team2Abbr": "FF",
+                "team3Name": "San Diego Balloon Animals",
+                "team3Abbr": "SDBA",
+                "team4Name": "Salt Lake Turbulence",
+                "team4Abbr": "SLC",
+                "patternName": "orchard",
+                "description": "Game 1, West League Championship Series",
+                "season": 4,
+                "gameid": "bdf76621-0cb0-48ac-8d03-4fadfe16ecb7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Louisville Illusionists",
+                "team1Abbr": "LIL",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
+                "patternName": "rainbowmath",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 4,
+                "gameid": "dce944c0-9614-43c3-9961-39aaeab82e96",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Salt Lake Turbulence",
+                "team2Abbr": "SLC",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "orchard",
+                "description": "Game 2, West League Championship Series",
+                "season": 4,
+                "gameid": "723df9d9-c7fa-4861-a197-d3709c25f145",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "quadgaussian",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 4,
+                "gameid": "49058e39-5db4-4c7d-a2b4-28694692d15c",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Sacramento Boot Lickers",
+                "team1Abbr": "SAC",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Salt Lake Turbulence",
+                "team4Abbr": "SLC",
+                "patternName": "crabs",
+                "description": "Game 3, West League Championship Series",
+                "season": 4,
+                "gameid": "c2f6cf3a-f528-4daa-8c6a-54b7d257b332",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Fargo Flea Flickers",
+                "team1Abbr": "FFF",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
+                "patternName": "rainbowmath",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 4,
+                "gameid": "0c73faa0-d9c1-4bbb-8500-23f1345e7ac9",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Sacramento Boot Lickers",
+                "team2Abbr": "SAC",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Salt Lake Turbulence",
+                "team4Abbr": "SLC",
+                "patternName": "orchard",
+                "description": "Game 4, West League Championship Series",
+                "season": 4,
+                "gameid": "01c4cc5b-3de1-4a1a-a9f8-62fd91daca56",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Fargo Flea Flickers",
+                "team1Abbr": "FFF",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "rabbits",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 4,
+                "gameid": "5b7a3c7a-329b-40bc-8129-1eaef1023f92",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Salt Lake Turbulence",
+                "team2Abbr": "SLC",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "rabbits",
+                "description": "Game 5, West League Championship Series",
+                "season": 4,
+                "gameid": "706efae2-4ae1-4d4c-b766-9777985f317f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Fargo Flea Flickers",
+                "team1Abbr": "FFF",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
+                "patternName": "orchard",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 4,
+                "gameid": "c7828a05-f4ef-4416-a29d-29d516d160d0",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Sacramento Boot Lickers",
+                "team2Abbr": "SAC",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Salt Lake Turbulence",
+                "team4Abbr": "SLC",
+                "patternName": "sunburst",
+                "description": "Game 6, West League Championship Series",
+                "season": 4,
+                "gameid": "c3aaea25-e260-4ac0-9b8b-081c98b93ea9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "crabs",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 4,
+                "gameid": "a1d6697a-4420-4f30-959b-428d79d1090d",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Sacramento Boot Lickers",
+                "team1Abbr": "SAC",
+                "team2Name": "Phoenix Freshrolls",
+                "team2Abbr": "FF",
+                "team3Name": "Salt Lake Turbulence",
+                "team3Abbr": "SLC",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "timebombredux",
+                "description": "Game 7, West League Championship Series",
+                "season": 4,
+                "gameid": "072162a5-7918-41ea-98c4-83a5d39df2d9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Fargo Flea Flickers",
+                "team1Abbr": "FFF",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "random",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 4,
+                "gameid": "176bf347-213c-44d0-a65b-75ad5ea0c99e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Sacramento Boot Lickers",
+                "team1Abbr": "SAC",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Salt Lake Turbulence",
+                "team4Abbr": "SLC",
+                "patternName": "multum",
+                "description": "Game 8, West League Championship Series",
+                "season": 4,
+                "gameid": "09f83082-4d02-48a3-afc9-5e90b33d24d3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Louisville Illusionists",
+                "team1Abbr": "LIL",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
+                "patternName": "justyna",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 4,
+                "gameid": "ca2bbea2-8e86-4f66-b7b7-8f9ad64c9e4b",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Sacramento Boot Lickers",
+                "team2Abbr": "SAC",
+                "team3Name": "Salt Lake Turbulence",
+                "team3Abbr": "SLC",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "rabbits",
+                "description": "Game 9, West League Championship Series",
+                "season": 4,
+                "gameid": "dcc18835-c669-44fb-aac0-30d37adc8823",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 4,
+                "gameid": "06b65c1b-3d80-4901-8ae8-0f30a0c5a1bb",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 4,
+                "gameid": "3b9e76fb-d7e4-4f0a-a98f-6635f742c3e1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 4,
+                "gameid": "d1a67416-2ab6-4269-aba7-3e63e84bcc53",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 4,
+                "gameid": "1bcdd555-e60d-4053-9d32-04deca2a9c3a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 4,
+                "gameid": "7922d628-4299-4d4d-aacb-c12b4268a12b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 4,
+                "gameid": "68d40097-a640-4675-a328-f6ca8a999198",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 4,
+                "gameid": "f237b3d1-4766-4013-bedb-6532778d094d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 4,
+                "gameid": "1a905587-3903-48ae-94bc-1a76ac23d4b5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 4,
+                "gameid": "c8469f82-8a86-4c6a-a42b-3b95caa6aba7",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
