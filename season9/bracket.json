@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Louisville Illusionists",
+                "team1Abbr": "LIL",
+                "team2Name": "Boylston Boogers",
+                "team2Abbr": "BB",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "timebomb",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "f3c4724d-399a-4fe0-a2b3-664b42d95b25",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Elko Astronauts",
+                "team4Abbr": "EA",
+                "patternName": "randommethuselahs",
+                "description": "Game 1, West League Championship Series",
+                "season": 9,
+                "gameid": "0fe4fd2d-a5d2-4c66-a19a-9997ce186d98",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Louisville Illusionists",
+                "team1Abbr": "LIL",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "rainbow",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "666a2c0b-234d-4d24-97b8-76d36c95db40",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Elko Astronauts",
+                "team2Abbr": "EA",
+                "team3Name": "San Diego Balloon Animals",
+                "team3Abbr": "SDBA",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "crabs",
+                "description": "Game 2, West League Championship Series",
+                "season": 9,
+                "gameid": "8ce5af33-cbb9-4908-9a7a-455e734b1f46",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Boylston Boogers",
+                "team3Abbr": "BB",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "rainbow",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "c26e2ffa-0815-486c-a366-448ccf92e8d3",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Elko Astronauts",
+                "team2Abbr": "EA",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "random",
+                "description": "Game 3, West League Championship Series",
+                "season": 9,
+                "gameid": "c37b45da-b6cd-4293-bf52-941343b2c71c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "rainbowmath",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "ff372be0-363b-43f7-85d6-9a6f8624000d",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Seattle Sneakers",
+                "team2Abbr": "SS",
+                "team3Name": "Elko Astronauts",
+                "team3Abbr": "EA",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "eights",
+                "description": "Game 4, West League Championship Series",
+                "season": 9,
+                "gameid": "599ea999-4c5e-4ae8-9658-d9f0c443be78",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Boylston Boogers",
+                "team3Abbr": "BB",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "randommethuselahs",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "c5fb3068-c51f-4c97-a218-22876a0b4082",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Elko Astronauts",
+                "team1Abbr": "EA",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "timebomb",
+                "description": "Game 5, West League Championship Series",
+                "season": 9,
+                "gameid": "4a980b6e-7f4a-4f51-9517-fb31d9a6e461",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Boylston Boogers",
+                "team1Abbr": "BB",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
+                "patternName": "eights",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "94bcb6d6-dd3c-49fa-ac45-738065e7a22e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Seattle Sneakers",
+                "team1Abbr": "SS",
+                "team2Name": "Elko Astronauts",
+                "team2Abbr": "EA",
+                "team3Name": "San Diego Balloon Animals",
+                "team3Abbr": "SDBA",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "multum",
+                "description": "Game 6, West League Championship Series",
+                "season": 9,
+                "gameid": "36718cbc-d92d-4e97-8ab8-c83ac23a2d8d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Louisville Illusionists",
+                "team1Abbr": "LIL",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "randommethuselahs",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "3359415c-e861-4100-bf97-63102e60b6f7",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Seattle Sneakers",
+                "team2Abbr": "SS",
+                "team3Name": "San Diego Balloon Animals",
+                "team3Abbr": "SDBA",
+                "team4Name": "Elko Astronauts",
+                "team4Abbr": "EA",
+                "patternName": "eights",
+                "description": "Game 7, West League Championship Series",
+                "season": 9,
+                "gameid": "e47b7288-3000-4641-a0a0-5d8eabdb53ad",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Louisville Illusionists",
+                "team1Abbr": "LIL",
+                "team2Name": "Boylston Boogers",
+                "team2Abbr": "BB",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "quadgaussian",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "9662ee71-6ab5-4538-beed-f4592816b85c",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Elko Astronauts",
+                "team2Abbr": "EA",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "multum",
+                "description": "Game 8, West League Championship Series",
+                "season": 9,
+                "gameid": "9aee8d74-941f-43bc-8352-594f79e14223",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "multum",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "6fe92b8b-b6bd-40c4-8553-394b5a4c2cfe",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Seattle Sneakers",
+                "team1Abbr": "SS",
+                "team2Name": "Elko Astronauts",
+                "team2Abbr": "EA",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "multum",
+                "description": "Game 9, West League Championship Series",
+                "season": 9,
+                "gameid": "4354371c-a0ec-4efa-974a-b7fa43cc9824",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "02eee8e0-dc25-4798-a845-8cd21d504b2a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "6dee5c3f-d88e-4934-84be-00fd40871e90",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "e1586932-8877-4c6f-8a11-435244b87f90",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "d86dfd9d-f5c5-4dd3-9c60-ef6018d8302e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "d5c41ac5-8b2e-4ae3-8b77-3ea37e9aefef",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "9e7e7f2b-c09e-48b7-8bc7-d13bb2044ea9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "61459482-e80a-4a41-9a5e-5d730352e1a2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "a9e1ea2f-ec53-4459-a9f5-2cd94bef99b2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "0b4f761b-dd47-4aa8-94c1-b851b0d9a373",
+                "isPostseason": true
+            }
+        ]
+    ]
+}

@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Alewife Arsonists",
+                "team4Abbr": "AA",
+                "patternName": "timebombredux",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 8,
+                "gameid": "69938683-689d-4809-bfbe-dd0cd57c5819",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salt Lake Turbulence",
+                "team1Abbr": "SLC",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "random",
+                "description": "Game 1, West League Championship Series",
+                "season": 8,
+                "gameid": "f9392288-d1ae-44e3-a3bd-7c6d1ea3df3e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Milwaukee Flamingos",
+                "team1Abbr": "MILF",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Alewife Arsonists",
+                "team4Abbr": "AA",
+                "patternName": "patiolights",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 8,
+                "gameid": "e366746a-e7f1-448c-8aee-8e6a36efc7a9",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Salt Lake Turbulence",
+                "team2Abbr": "SLC",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "eights",
+                "description": "Game 2, West League Championship Series",
+                "season": 8,
+                "gameid": "28aedfed-8b80-486a-8386-1601b1ea0e6b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Milwaukee Flamingos",
+                "team2Abbr": "MILF",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Alewife Arsonists",
+                "team4Abbr": "AA",
+                "patternName": "rabbits",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 8,
+                "gameid": "0afaff15-7cdb-4143-9f07-660012324a00",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Seattle Sneakers",
+                "team1Abbr": "SS",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Salt Lake Turbulence",
+                "team4Abbr": "SLC",
+                "patternName": "sunburst",
+                "description": "Game 3, West League Championship Series",
+                "season": 8,
+                "gameid": "861cea7e-1399-4199-bd70-67a3c7a95ff2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Alewife Arsonists",
+                "team1Abbr": "AA",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Detroit Grape Chews",
+                "team4Abbr": "DET",
+                "patternName": "timebombredux",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 8,
+                "gameid": "9e956151-5e26-4d48-8b7a-ba35cf61b192",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salt Lake Turbulence",
+                "team1Abbr": "SLC",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "sunburst",
+                "description": "Game 4, West League Championship Series",
+                "season": 8,
+                "gameid": "ed423045-678d-413b-8ff3-313c1b9ca128",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Alewife Arsonists",
+                "team4Abbr": "AA",
+                "patternName": "rabbits",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 8,
+                "gameid": "07bd8a7e-7199-47cb-a1dd-64ac74f7d475",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "Phoenix Freshrolls",
+                "team2Abbr": "FF",
+                "team3Name": "Salt Lake Turbulence",
+                "team3Abbr": "SLC",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "sunburst",
+                "description": "Game 5, West League Championship Series",
+                "season": 8,
+                "gameid": "cf5d7f11-a360-46f6-9f38-376ae350662c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Alewife Arsonists",
+                "team4Abbr": "AA",
+                "patternName": "eights",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 8,
+                "gameid": "57e67009-77a7-4cdd-803b-de8b9d048730",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Salt Lake Turbulence",
+                "team2Abbr": "SLC",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "rainbow",
+                "description": "Game 6, West League Championship Series",
+                "season": 8,
+                "gameid": "8e815c3e-1824-4a3b-9002-abb10c6d4869",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Milwaukee Flamingos",
+                "team1Abbr": "MILF",
+                "team2Name": "Alewife Arsonists",
+                "team2Abbr": "AA",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "multum",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 8,
+                "gameid": "a17fe5ae-0ee2-469d-9083-f54dbd661731",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "Salt Lake Turbulence",
+                "team2Abbr": "SLC",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "justyna",
+                "description": "Game 7, West League Championship Series",
+                "season": 8,
+                "gameid": "73c9dafd-937a-42a2-9b44-3f7f92f6b63c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Alewife Arsonists",
+                "team1Abbr": "AA",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Milwaukee Flamingos",
+                "team4Abbr": "MILF",
+                "patternName": "multum",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 8,
+                "gameid": "dc9046b2-ae19-468e-9f5b-fe2f6ba0d2af",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "Salt Lake Turbulence",
+                "team2Abbr": "SLC",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "multum",
+                "description": "Game 8, West League Championship Series",
+                "season": 8,
+                "gameid": "724ee96e-cff3-4d39-a71b-cb71ba8d2baa",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Louisville Illusionists",
+                "team1Abbr": "LIL",
+                "team2Name": "Alewife Arsonists",
+                "team2Abbr": "AA",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Milwaukee Flamingos",
+                "team4Abbr": "MILF",
+                "patternName": "randommethuselahs",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 8,
+                "gameid": "3199feea-0573-4222-a99c-4bb9478f0ee0",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "Salt Lake Turbulence",
+                "team2Abbr": "SLC",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "randommethuselahs",
+                "description": "Game 9, West League Championship Series",
+                "season": 8,
+                "gameid": "d8b50844-90ab-47ce-946e-a60799e07ee0",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 8,
+                "gameid": "094f87a5-b75e-463a-8862-2f2ee957b85c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 8,
+                "gameid": "00972090-2f9a-49b7-9660-11d1cedbfdf6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 8,
+                "gameid": "29e5b345-5f9d-4133-8f93-864bf48a157f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 8,
+                "gameid": "6b2628b3-eac5-4a5b-8793-02e1eb4e7876",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 8,
+                "gameid": "41a9bbcd-2975-4333-926c-fd5363e6324d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 8,
+                "gameid": "cbcdbb97-d830-4ff5-94e1-52ac46ad1abe",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 8,
+                "gameid": "053a7f80-65fa-448f-bfa5-aa48924939c1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 8,
+                "gameid": "67c393b3-78cc-4865-afd6-88c433db884f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 8,
+                "gameid": "a53f0b68-c8cc-4aff-8b9d-d05844152690",
+                "isPostseason": true
+            }
+        ]
+    ]
+}

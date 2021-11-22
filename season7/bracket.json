@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Alewife Arsonists",
+                "team1Abbr": "AA",
+                "team2Name": "Orlando Business Majors",
+                "team2Abbr": "ORL",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "multum",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "102c758d-709e-4279-b4ed-d553f4541446",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "sunburst",
+                "description": "Game 1, West League Championship Series",
+                "season": 7,
+                "gameid": "de7950b7-d8fd-44fb-b92e-706ed1c6666c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Fargo Flea Flickers",
+                "team1Abbr": "FFF",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team2Abbr": "SGE",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Orlando Business Majors",
+                "team4Abbr": "ORL",
+                "patternName": "patiolights",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "2ea9e727-786f-48b8-bf0e-6641b9418656",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Seattle Sneakers",
+                "team2Abbr": "SS",
+                "team3Name": "Long Beach Flightless Birds",
+                "team3Abbr": "LBFB",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "timebombredux",
+                "description": "Game 2, West League Championship Series",
+                "season": 7,
+                "gameid": "d6f56289-fb64-44a2-a5cd-54346ab9468e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Orlando Business Majors",
+                "team1Abbr": "ORL",
+                "team2Name": "Alewife Arsonists",
+                "team2Abbr": "AA",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "patiolights",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "a4f3aaba-e378-41c9-8baf-ee0a15c286ff",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "Seattle Sneakers",
+                "team2Abbr": "SS",
+                "team3Name": "Long Beach Flightless Birds",
+                "team3Abbr": "LBFB",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "justyna",
+                "description": "Game 3, West League Championship Series",
+                "season": 7,
+                "gameid": "9f0a363b-3be7-4f5a-bfc4-504a1f06a84b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Fargo Flea Flickers",
+                "team1Abbr": "FFF",
+                "team2Name": "Alewife Arsonists",
+                "team2Abbr": "AA",
+                "team3Name": "Orlando Business Majors",
+                "team3Abbr": "ORL",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "rabbits",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "652bd22d-d504-4e04-9a0b-ca1535de5f05",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Long Beach Flightless Birds",
+                "team1Abbr": "LBFB",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "multum",
+                "description": "Game 4, West League Championship Series",
+                "season": 7,
+                "gameid": "0cefffd2-4201-4572-a484-dde6260e22bc",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Orlando Business Majors",
+                "team1Abbr": "ORL",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
+                "team4Name": "Alewife Arsonists",
+                "team4Abbr": "AA",
+                "patternName": "rainbow",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "3914e8b6-7843-4d7e-8a9c-0d8b6398e707",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Long Beach Flightless Birds",
+                "team1Abbr": "LBFB",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "orchard",
+                "description": "Game 5, West League Championship Series",
+                "season": 7,
+                "gameid": "eee054c9-45fd-425d-9fda-2497f6d0adf9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Alewife Arsonists",
+                "team1Abbr": "AA",
+                "team2Name": "Orlando Business Majors",
+                "team2Abbr": "ORL",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "patiolights",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "19ac8161-4018-4f15-a8de-96ab65cae904",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Seattle Sneakers",
+                "team1Abbr": "SS",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "timebomb",
+                "description": "Game 6, West League Championship Series",
+                "season": 7,
+                "gameid": "c93b8d76-c15b-4789-843d-60e0d353545b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
+                "team2Name": "Orlando Business Majors",
+                "team2Abbr": "ORL",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "rainbow",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "7e392565-47e0-40d3-ab8e-0458474c8672",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "Seattle Sneakers",
+                "team2Abbr": "SS",
+                "team3Name": "Long Beach Flightless Birds",
+                "team3Abbr": "LBFB",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "orchard",
+                "description": "Game 7, West League Championship Series",
+                "season": 7,
+                "gameid": "1b740aea-c1a4-4567-b904-0ae99383fb5b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Fargo Flea Flickers",
+                "team1Abbr": "FFF",
+                "team2Name": "Alewife Arsonists",
+                "team2Abbr": "AA",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
+                "team4Name": "Orlando Business Majors",
+                "team4Abbr": "ORL",
+                "patternName": "rabbits",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "52dce969-e4a5-4591-b875-9e575e44a320",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "San Diego Balloon Animals",
+                "team3Abbr": "SDBA",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "rabbits",
+                "description": "Game 8, West League Championship Series",
+                "season": 7,
+                "gameid": "a114ef23-cc2d-4397-9e01-ba00a9f37bc3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Orlando Business Majors",
+                "team1Abbr": "ORL",
+                "team2Name": "Alewife Arsonists",
+                "team2Abbr": "AA",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "rabbits",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "42e33de5-35c1-4550-af2c-3aa43b2b9a51",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "random",
+                "description": "Game 9, West League Championship Series",
+                "season": 7,
+                "gameid": "b95afae5-a253-4615-aa9e-c20ecc5dfe35",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "81b08aa9-1759-4733-92a8-bbd8dac1d058",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "1fb0b111-49e4-4941-9a4c-4edca3c556aa",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "20fddf79-aaa5-499e-8b83-01ca1895c3ec",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "68d50ebb-782e-47fe-8dff-5abaf4694c45",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "3d7d2173-8213-4428-afab-0d0afd55b304",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "4c4d1c01-4d0d-4e02-aead-5e04d38a6a4c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "82d0c5b6-0463-48b2-a3f7-62be00de7c94",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "2496571c-3471-43c4-a41f-432d2e3f3fea",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "4c4870fd-4270-4b11-b0a1-3dff13a2d72c",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
