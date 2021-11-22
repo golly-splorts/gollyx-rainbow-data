@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Fargo Flea Flickers",
+                "team1Abbr": "FFF",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Boylston Boogers",
+                "team3Abbr": "BB",
+                "team4Name": "Orlando Business Majors",
+                "team4Abbr": "ORL",
+                "patternName": "multum",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "db18c0f3-5af1-4e84-ac8c-189073ead3d5",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salt Lake Turbulence",
+                "team1Abbr": "SLC",
+                "team2Name": "Vegas Vampires",
+                "team2Abbr": "VV",
+                "team3Name": "Albuquerque Solarpunks",
+                "team3Abbr": "ABQ",
+                "team4Name": "Long Beach Flightless Birds",
+                "team4Abbr": "LBFB",
+                "patternName": "randommethuselahs",
+                "description": "Game 1, West League Championship Series",
+                "season": 6,
+                "gameid": "7a2242dd-c8ad-4373-9b8f-7319b5480431",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Orlando Business Majors",
+                "team1Abbr": "ORL",
+                "team2Name": "Boylston Boogers",
+                "team2Abbr": "BB",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "justyna",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "ec7db262-b446-4d6d-9f6c-231ccba24243",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salt Lake Turbulence",
+                "team1Abbr": "SLC",
+                "team2Name": "Albuquerque Solarpunks",
+                "team2Abbr": "ABQ",
+                "team3Name": "Long Beach Flightless Birds",
+                "team3Abbr": "LBFB",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "orchard",
+                "description": "Game 2, West League Championship Series",
+                "season": 6,
+                "gameid": "4d563e56-10ed-406e-a518-8e2b38a8233a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Boylston Boogers",
+                "team1Abbr": "BB",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Orlando Business Majors",
+                "team3Abbr": "ORL",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "rabbits",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "b5389719-cdae-4dc1-8084-851c243c44b9",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Salt Lake Turbulence",
+                "team2Abbr": "SLC",
+                "team3Name": "Long Beach Flightless Birds",
+                "team3Abbr": "LBFB",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "random",
+                "description": "Game 3, West League Championship Series",
+                "season": 6,
+                "gameid": "1d02365d-d760-4294-8cd0-7c4ca0d00262",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Orlando Business Majors",
+                "team3Abbr": "ORL",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "timebomb",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "a4c6c176-6623-46f9-bcf0-8856b1694558",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Albuquerque Solarpunks",
+                "team2Abbr": "ABQ",
+                "team3Name": "Salt Lake Turbulence",
+                "team3Abbr": "SLC",
+                "team4Name": "Long Beach Flightless Birds",
+                "team4Abbr": "LBFB",
+                "patternName": "random",
+                "description": "Game 4, West League Championship Series",
+                "season": 6,
+                "gameid": "f2b7f2f5-6124-47f2-a08c-cc3510fd7fd1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Boylston Boogers",
+                "team3Abbr": "BB",
+                "team4Name": "Orlando Business Majors",
+                "team4Abbr": "ORL",
+                "patternName": "randommethuselahs",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "524363f5-d95f-48b2-96c3-2e81ca39aea6",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Albuquerque Solarpunks",
+                "team1Abbr": "ABQ",
+                "team2Name": "Salt Lake Turbulence",
+                "team2Abbr": "SLC",
+                "team3Name": "Long Beach Flightless Birds",
+                "team3Abbr": "LBFB",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "timebombredux",
+                "description": "Game 5, West League Championship Series",
+                "season": 6,
+                "gameid": "b05f21fc-1e60-454e-9f1c-d14f96e0c882",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Orlando Business Majors",
+                "team1Abbr": "ORL",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Boylston Boogers",
+                "team3Abbr": "BB",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "sunburst",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "21f16abd-f281-4d18-8a19-83d571bf57b0",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Long Beach Flightless Birds",
+                "team1Abbr": "LBFB",
+                "team2Name": "Vegas Vampires",
+                "team2Abbr": "VV",
+                "team3Name": "Salt Lake Turbulence",
+                "team3Abbr": "SLC",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "rabbits",
+                "description": "Game 6, West League Championship Series",
+                "season": 6,
+                "gameid": "bbdbd32a-a922-429f-8443-0452760effea",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Orlando Business Majors",
+                "team1Abbr": "ORL",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Boylston Boogers",
+                "team3Abbr": "BB",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "timebombredux",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "f7af0937-23e9-4732-a09a-d80922a07a0f",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Long Beach Flightless Birds",
+                "team1Abbr": "LBFB",
+                "team2Name": "Albuquerque Solarpunks",
+                "team2Abbr": "ABQ",
+                "team3Name": "Salt Lake Turbulence",
+                "team3Abbr": "SLC",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "rainbow",
+                "description": "Game 7, West League Championship Series",
+                "season": 6,
+                "gameid": "964f3dad-1875-4d5e-a238-1c2ab16e0791",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Orlando Business Majors",
+                "team1Abbr": "ORL",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "rainbow",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "856a2cf0-2144-44b4-9ea3-f608f2bb1214",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Salt Lake Turbulence",
+                "team2Abbr": "SLC",
+                "team3Name": "Long Beach Flightless Birds",
+                "team3Abbr": "LBFB",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "crabs",
+                "description": "Game 8, West League Championship Series",
+                "season": 6,
+                "gameid": "0e86e719-8568-4959-85e5-93dcd0a59392",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Orlando Business Majors",
+                "team1Abbr": "ORL",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "rabbits",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "0cbee647-de0c-47c0-ba76-61f19fe06083",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "Salt Lake Turbulence",
+                "team3Abbr": "SLC",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "orchard",
+                "description": "Game 9, West League Championship Series",
+                "season": 6,
+                "gameid": "63616908-6a54-43d8-b355-217cc14fde6b",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "92eccd63-0693-4a00-bfca-743ceac0e813",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "3d6487d0-e1f2-4b04-bcb2-752be933837b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "6d43aef8-448d-4ef2-8f4e-3eb413804470",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "a5e5cbbe-b010-4c57-bbfd-856fa829c2b7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "0f4a7c22-885e-42d2-826d-d415b34afb9b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "bccdd5ef-f6dd-4c87-b248-2f7b3dfd426e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "d1fb6ee5-f9df-4482-aac5-1bb8a257c19b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "c9fe0de8-289b-48ea-bb42-671d8bf6f342",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbow",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "10a11b3c-a910-4744-a48b-72515d4897d1",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
