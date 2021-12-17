@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Milwaukee Flamingos",
+                "team1Abbr": "MILF",
+                "team2Name": "Boylston Boogers",
+                "team2Abbr": "BB",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Mobile Wheels",
+                "team4Abbr": "MW",
+                "patternName": "timebomb",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "1b3870fc-9d87-4a88-9a25-7f3e6149edb5",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Albuquerque Solarpunks",
+                "team1Abbr": "ABQ",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
+                "team3Name": "San Diego Balloon Animals",
+                "team3Abbr": "SDBA",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "justyna",
+                "description": "Game 1, West League Championship Series",
+                "season": 10,
+                "gameid": "2d8bb662-9b77-410a-bb7f-3ba9c0571e48",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Boylston Boogers",
+                "team1Abbr": "BB",
+                "team2Name": "Milwaukee Flamingos",
+                "team2Abbr": "MILF",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Mobile Wheels",
+                "team4Abbr": "MW",
+                "patternName": "randommethuselahs",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "3b0df706-88d3-45f6-9a5a-45445a057963",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Tucson Butchers",
+                "team1Abbr": "TB",
+                "team2Name": "Albuquerque Solarpunks",
+                "team2Abbr": "ABQ",
+                "team3Name": "San Diego Balloon Animals",
+                "team3Abbr": "SDBA",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "justyna",
+                "description": "Game 2, West League Championship Series",
+                "season": 10,
+                "gameid": "a6ca3220-0b05-4002-89d0-be216d19d672",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Mobile Wheels",
+                "team1Abbr": "MW",
+                "team2Name": "Boylston Boogers",
+                "team2Abbr": "BB",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Milwaukee Flamingos",
+                "team4Abbr": "MILF",
+                "patternName": "timebomb",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "a234b503-dbfa-47ce-ace2-3dca4b172977",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Albuquerque Solarpunks",
+                "team2Abbr": "ABQ",
+                "team3Name": "Tucson Butchers",
+                "team3Abbr": "TB",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "sunburst",
+                "description": "Game 3, West League Championship Series",
+                "season": 10,
+                "gameid": "694ac1ed-1d93-47dd-82a0-31bbd7d2447d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Mobile Wheels",
+                "team1Abbr": "MW",
+                "team2Name": "Milwaukee Flamingos",
+                "team2Abbr": "MILF",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "sunburst",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "388239b8-32ba-4dbd-98d5-f51cb3350e4c",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Albuquerque Solarpunks",
+                "team2Abbr": "ABQ",
+                "team3Name": "Tucson Butchers",
+                "team3Abbr": "TB",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "timebombredux",
+                "description": "Game 4, West League Championship Series",
+                "season": 10,
+                "gameid": "54970962-f17a-4a4b-a9cb-882315e73a0c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Milwaukee Flamingos",
+                "team1Abbr": "MILF",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Boylston Boogers",
+                "team3Abbr": "BB",
+                "team4Name": "Mobile Wheels",
+                "team4Abbr": "MW",
+                "patternName": "rabbits",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "21e92bdc-5db3-4575-8806-dfaa453fa0d6",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
+                "team3Name": "Albuquerque Solarpunks",
+                "team3Abbr": "ABQ",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "rabbits",
+                "description": "Game 5, West League Championship Series",
+                "season": 10,
+                "gameid": "61489044-90d1-4786-bdfd-a75552c74132",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Milwaukee Flamingos",
+                "team2Abbr": "MILF",
+                "team3Name": "Mobile Wheels",
+                "team3Abbr": "MW",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "timebombredux",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "48e9f76d-0ab6-44c7-8163-9ac4b072dda3",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
+                "team3Name": "Albuquerque Solarpunks",
+                "team3Abbr": "ABQ",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "justyna",
+                "description": "Game 6, West League Championship Series",
+                "season": 10,
+                "gameid": "318bdf6d-2588-49a3-9d03-ec1bcf558e78",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Boylston Boogers",
+                "team1Abbr": "BB",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Mobile Wheels",
+                "team4Abbr": "MW",
+                "patternName": "randommethuselahs",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "9a4429b2-4aea-44c9-b88c-9455b7b6b288",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Tucson Butchers",
+                "team1Abbr": "TB",
+                "team2Name": "Albuquerque Solarpunks",
+                "team2Abbr": "ABQ",
+                "team3Name": "San Diego Balloon Animals",
+                "team3Abbr": "SDBA",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "rabbits",
+                "description": "Game 7, West League Championship Series",
+                "season": 10,
+                "gameid": "c18dd918-6aca-4ee3-8a9d-628e3bf25395",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Milwaukee Flamingos",
+                "team1Abbr": "MILF",
+                "team2Name": "Mobile Wheels",
+                "team2Abbr": "MW",
+                "team3Name": "Boylston Boogers",
+                "team3Abbr": "BB",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "randommethuselahs",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "bb7d7b22-d866-4372-871f-32ad8fd54d55",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Albuquerque Solarpunks",
+                "team1Abbr": "ABQ",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Vegas Vampires",
+                "team3Abbr": "VV",
+                "team4Name": "Tucson Butchers",
+                "team4Abbr": "TB",
+                "patternName": "random",
+                "description": "Game 8, West League Championship Series",
+                "season": 10,
+                "gameid": "c1a2fc5c-2b62-41ef-8261-837615b8075a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Milwaukee Flamingos",
+                "team1Abbr": "MILF",
+                "team2Name": "Mobile Wheels",
+                "team2Abbr": "MW",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "multum",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "93c40f58-8541-4035-b455-b448e3d745e7",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Albuquerque Solarpunks",
+                "team2Abbr": "ABQ",
+                "team3Name": "Vegas Vampires",
+                "team3Abbr": "VV",
+                "team4Name": "Tucson Butchers",
+                "team4Abbr": "TB",
+                "patternName": "timebomb",
+                "description": "Game 9, West League Championship Series",
+                "season": 10,
+                "gameid": "a1144d7a-fe50-4119-9689-0070d04918e0",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "d12b58c8-cea1-4979-9f87-7cf981d27ad5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "a1220b6c-abcb-493b-8d68-06d6a280f5be",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "3ba9e07d-ec54-4b72-ba27-c4d2a83bf4e1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "69c3164f-5287-4605-8e68-0a73e1a0f381",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "c66e7bc3-0a20-4b06-950d-17546c4d8549",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "ef83d95e-2321-458e-8498-653dc625cdaa",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "43ac4ec2-e950-4074-b18e-64adf7ff1e33",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "0065674c-e008-43d2-9bb0-a162970474d4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "1258cc59-7d60-45aa-b4ad-e73e9f77b6f9",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
