@@ -2,6 +2,7 @@ Version 59:
 
 * bespin retired, replaced by randal
 * New batch of data from simulator
+* Move project choke into data repo
 
 Version 50:
 
