@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Louisville Illusionists",
+                "team1Abbr": "LIL",
+                "team2Name": "Jersey OSHA Violations",
+                "team2Abbr": "OSHA",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
+                "patternName": "quadgaussian",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 12,
+                "gameid": "9f35ed0f-c25b-43e3-bc29-12db20953081",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
+                "team3Name": "Vegas Vampires",
+                "team3Abbr": "VV",
+                "team4Name": "Sacramento Boot Lickers",
+                "team4Abbr": "SAC",
+                "patternName": "sunburst",
+                "description": "Game 1, West League Championship Series",
+                "season": 12,
+                "gameid": "9f8cfeda-10e1-4db8-94ea-fb3888531aff",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Alewife Arsonists",
+                "team1Abbr": "AA",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Jersey OSHA Violations",
+                "team3Abbr": "OSHA",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
+                "patternName": "eights",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 12,
+                "gameid": "7679660f-ce74-4a7c-8313-1fb64f84c5ce",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Tucson Butchers",
+                "team1Abbr": "TB",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Vegas Vampires",
+                "team3Abbr": "VV",
+                "team4Name": "Sacramento Boot Lickers",
+                "team4Abbr": "SAC",
+                "patternName": "crabs",
+                "description": "Game 2, West League Championship Series",
+                "season": 12,
+                "gameid": "3c525f99-9964-485a-bc18-66b3bfdeaae0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Alewife Arsonists",
+                "team1Abbr": "AA",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Jersey OSHA Violations",
+                "team3Abbr": "OSHA",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
+                "patternName": "justyna",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 12,
+                "gameid": "09894acd-d1c3-4d1e-9fc2-549173243c2d",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Sacramento Boot Lickers",
+                "team1Abbr": "SAC",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
+                "team3Name": "Vegas Vampires",
+                "team3Abbr": "VV",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "justyna",
+                "description": "Game 3, West League Championship Series",
+                "season": 12,
+                "gameid": "0391a5a6-5cb3-4543-8374-f69bb5e80f95",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Alewife Arsonists",
+                "team1Abbr": "AA",
+                "team2Name": "Jersey OSHA Violations",
+                "team2Abbr": "OSHA",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
+                "patternName": "timebomb",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 12,
+                "gameid": "6b2adb9c-e2a0-4656-8be0-ff7cf274938b",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Tucson Butchers",
+                "team3Abbr": "TB",
+                "team4Name": "Sacramento Boot Lickers",
+                "team4Abbr": "SAC",
+                "patternName": "rabbits",
+                "description": "Game 4, West League Championship Series",
+                "season": 12,
+                "gameid": "c0568f1e-a024-472e-b3ca-49432282366b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Jersey OSHA Violations",
+                "team1Abbr": "OSHA",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Alewife Arsonists",
+                "team4Abbr": "AA",
+                "patternName": "multum",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 12,
+                "gameid": "725a9804-05cd-4d9b-a987-e8f59f76e5e0",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Sacramento Boot Lickers",
+                "team1Abbr": "SAC",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
+                "team3Name": "Vegas Vampires",
+                "team3Abbr": "VV",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "rabbits",
+                "description": "Game 5, West League Championship Series",
+                "season": 12,
+                "gameid": "a5747226-c2e3-4d8a-a9f5-76447d7f5a62",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Jersey OSHA Violations",
+                "team1Abbr": "OSHA",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
+                "patternName": "random",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 12,
+                "gameid": "3a6c35e4-68cc-448a-a102-bee4cededf18",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "Sacramento Boot Lickers",
+                "team2Abbr": "SAC",
+                "team3Name": "Tucson Butchers",
+                "team3Abbr": "TB",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "quadgaussian",
+                "description": "Game 6, West League Championship Series",
+                "season": 12,
+                "gameid": "08428575-0a23-419d-aac8-6f379a3eb88c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Jersey OSHA Violations",
+                "team1Abbr": "OSHA",
+                "team2Name": "Alewife Arsonists",
+                "team2Abbr": "AA",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "multum",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 12,
+                "gameid": "57ac795c-a667-486e-b613-63d6a41fe36a",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Tucson Butchers",
+                "team1Abbr": "TB",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "randommethuselahs",
+                "description": "Game 7, West League Championship Series",
+                "season": 12,
+                "gameid": "2cdbfe88-6813-4545-9e36-502774a721da",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
+                "team2Name": "Alewife Arsonists",
+                "team2Abbr": "AA",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Jersey OSHA Violations",
+                "team4Abbr": "OSHA",
+                "patternName": "multum",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 12,
+                "gameid": "3e946bfb-b821-4cdc-93d3-4b07f97cf864",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Sacramento Boot Lickers",
+                "team2Abbr": "SAC",
+                "team3Name": "Tucson Butchers",
+                "team3Abbr": "TB",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "timebomb",
+                "description": "Game 8, West League Championship Series",
+                "season": 12,
+                "gameid": "ada127ea-5283-4ca0-b8af-5487e89300bf",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Louisville Illusionists",
+                "team1Abbr": "LIL",
+                "team2Name": "Jersey OSHA Violations",
+                "team2Abbr": "OSHA",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Alewife Arsonists",
+                "team4Abbr": "AA",
+                "patternName": "quadgaussian",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 12,
+                "gameid": "21933018-697e-4351-a220-4e85171cb973",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "Vegas Vampires",
+                "team2Abbr": "VV",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Tucson Butchers",
+                "team4Abbr": "TB",
+                "patternName": "crabs",
+                "description": "Game 9, West League Championship Series",
+                "season": 12,
+                "gameid": "5e062b69-cd49-4a0e-b67d-3723e736a9a9",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 12,
+                "gameid": "25d660a2-67b1-4d90-a666-2f75126ccc91",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 12,
+                "gameid": "1ae128ec-c6fc-42a8-9660-59401d82130b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 12,
+                "gameid": "66b18516-0bdc-4908-8d52-705cd4569c46",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 12,
+                "gameid": "69ed0601-ad66-4509-85da-649cfb939403",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 12,
+                "gameid": "e6f82576-dd6d-4e0c-a971-cf16af0615fb",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 12,
+                "gameid": "dbdff925-0e57-4167-a8d1-e479c7519eea",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 12,
+                "gameid": "76c57931-12c6-40d6-9de8-b22335623998",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 12,
+                "gameid": "3397986f-129b-48ed-852b-a880d6dcb014",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 12,
+                "gameid": "871ad8cc-aad4-49b7-8790-7825553f5ea2",
+                "isPostseason": true
+            }
+        ]
+    ]
+}

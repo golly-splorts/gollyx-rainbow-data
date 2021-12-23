@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Boylston Boogers",
+                "team1Abbr": "BB",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "orchard",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "1c8f65a3-7a69-4624-918a-d0e0bf910cf5",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Seattle Sneakers",
+                "team1Abbr": "SS",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "Salt Lake Turbulence",
+                "team4Abbr": "SLC",
+                "patternName": "multum",
+                "description": "Game 1, West League Championship Series",
+                "season": 15,
+                "gameid": "53a2d34f-0a1c-47ec-8afc-0d6dc0cbc7b5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Boylston Boogers",
+                "team1Abbr": "BB",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "crabs",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "f1d9f540-265d-47ee-8366-50b545276f8c",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "Salt Lake Turbulence",
+                "team2Abbr": "SLC",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Long Beach Flightless Birds",
+                "team4Abbr": "LBFB",
+                "patternName": "randommethuselahs",
+                "description": "Game 2, West League Championship Series",
+                "season": 15,
+                "gameid": "9388fe3d-75bb-4dd5-bd5f-39139aca957c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Louisville Illusionists",
+                "team1Abbr": "LIL",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Boylston Boogers",
+                "team3Abbr": "BB",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "timebomb",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "1a6a5da5-b51b-4be3-8141-8e8038a8d852",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Seattle Sneakers",
+                "team1Abbr": "SS",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "Salt Lake Turbulence",
+                "team3Abbr": "SLC",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "rabbits",
+                "description": "Game 3, West League Championship Series",
+                "season": 15,
+                "gameid": "8b1c8adb-a0d1-4d21-9db3-67bfcd8b7416",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Boylston Boogers",
+                "team3Abbr": "BB",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "quadgaussian",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "9ba5d7a7-265a-4101-b421-6d331533381a",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Seattle Sneakers",
+                "team1Abbr": "SS",
+                "team2Name": "Salt Lake Turbulence",
+                "team2Abbr": "SLC",
+                "team3Name": "Long Beach Flightless Birds",
+                "team3Abbr": "LBFB",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "sunburst",
+                "description": "Game 4, West League Championship Series",
+                "season": 15,
+                "gameid": "a1749396-2931-40f7-9195-56273017924b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Fargo Flea Flickers",
+                "team1Abbr": "FFF",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "patiolights",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "eced7faf-d350-4ea3-b8bf-475d13ea113e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Long Beach Flightless Birds",
+                "team1Abbr": "LBFB",
+                "team2Name": "Seattle Sneakers",
+                "team2Abbr": "SS",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "Salt Lake Turbulence",
+                "team4Abbr": "SLC",
+                "patternName": "rabbits",
+                "description": "Game 5, West League Championship Series",
+                "season": 15,
+                "gameid": "bcea61fc-727e-4484-a119-7474d342dfa6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Boylston Boogers",
+                "team1Abbr": "BB",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "patiolights",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "a708b173-8500-4d17-83d8-527b7e26250a",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salt Lake Turbulence",
+                "team1Abbr": "SLC",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "rabbits",
+                "description": "Game 6, West League Championship Series",
+                "season": 15,
+                "gameid": "9beb960a-3dbf-4b0c-b6c4-203ce9b28d79",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Fargo Flea Flickers",
+                "team1Abbr": "FFF",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "timebomb",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "39d97b5a-0a90-4ced-b609-a92ee78f0d73",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Seattle Sneakers",
+                "team1Abbr": "SS",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Long Beach Flightless Birds",
+                "team3Abbr": "LBFB",
+                "team4Name": "Salt Lake Turbulence",
+                "team4Abbr": "SLC",
+                "patternName": "orchard",
+                "description": "Game 7, West League Championship Series",
+                "season": 15,
+                "gameid": "23266ce0-3fc2-46b1-8a48-c54403fd4850",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Boylston Boogers",
+                "team3Abbr": "BB",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "rabbits",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "e69bc6a7-6413-4ff8-886f-bfabbfaa0a96",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salt Lake Turbulence",
+                "team1Abbr": "SLC",
+                "team2Name": "Seattle Sneakers",
+                "team2Abbr": "SS",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "Long Beach Flightless Birds",
+                "team4Abbr": "LBFB",
+                "patternName": "rabbits",
+                "description": "Game 8, West League Championship Series",
+                "season": 15,
+                "gameid": "f38916de-b7d5-4bf8-b351-23b9cf2c03ff",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Boylston Boogers",
+                "team1Abbr": "BB",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "multum",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "121d21b4-3dc1-4e06-92b0-b9d3ddadc3b4",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salt Lake Turbulence",
+                "team1Abbr": "SLC",
+                "team2Name": "Long Beach Flightless Birds",
+                "team2Abbr": "LBFB",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "rainbow",
+                "description": "Game 9, West League Championship Series",
+                "season": 15,
+                "gameid": "250152fd-fc08-4b33-8c6f-67b3ff66ac46",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "944deb64-9125-42fc-966b-b1707ce141f7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "2b3f8b44-e6e4-40b7-a74a-c894f0a6cc2e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "e1d20e76-0107-41ae-a6e8-d34bc51945d8",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "f5d767c8-f54c-44e4-b8ab-42537f1bc81d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "f4642534-a5d9-4b5d-9692-35a598891069",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "7a110f40-0f50-4b5b-a9b7-3d1a0bc1e9b8",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "95544792-3b3e-4cf7-8a93-4193386e821a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "613982e8-c57e-4d96-aa9d-15502ac0ebc9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "d67642ce-995b-444f-a4a7-c32faea3430a",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
