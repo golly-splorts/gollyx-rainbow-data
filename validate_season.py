@@ -440,8 +440,8 @@ for iseason in range(LAST_SEASON0 + 1):
     #
     # Only repair the seed table if iseason is > 15
     # (everything before that has been repaired by hand)
-    #if iseason > 15:
-    if iseason >= 0:
+    #if iseason >= 0:
+    if iseason > 15:
         repair_seed_table_order(season, seed, seedfile)
 
     # -----------
