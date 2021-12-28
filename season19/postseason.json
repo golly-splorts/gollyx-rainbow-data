@@ -3,10 +3,10 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Detroit Grape Chews",
-                "team1Abbr": "DET",
-                "team2Name": "Jersey OSHA Violations",
-                "team2Abbr": "OSHA",
+                "team1Name": "Jersey OSHA Violations",
+                "team1Abbr": "OSHA",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
                 "team3Name": "Sugar Grove Eavesdroppers",
                 "team3Abbr": "SGE",
                 "team4Name": "Mobile Wheels",
@@ -39,7 +39,7 @@
                 "team3Rank": 2,
                 "team4Rank": 1,
                 "generations": 4329,
-                "team1Color": "#9963ab",
+                "team1Color": "#53917e",
                 "team1SeriesW23L": [
                     0,
                     0,
@@ -47,7 +47,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 0,
-                "team2Color": "#53917e",
+                "team2Color": "#9963ab",
                 "team2SeriesW23L": [
                     0,
                     0,
@@ -151,12 +151,12 @@
                 "league": "Unwest League",
                 "team1Name": "Mobile Wheels",
                 "team1Abbr": "MW",
-                "team2Name": "Jersey OSHA Violations",
-                "team2Abbr": "OSHA",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
                 "team3Name": "Sugar Grove Eavesdroppers",
                 "team3Abbr": "SGE",
-                "team4Name": "Detroit Grape Chews",
-                "team4Abbr": "DET",
+                "team4Name": "Jersey OSHA Violations",
+                "team4Abbr": "OSHA",
                 "description": "Game 2, Unwest League Championship Series",
                 "season": 19,
                 "gameid": "63875a55-7efe-42e8-ba37-ae2eda87f1c8",
@@ -193,7 +193,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 168,
-                "team2Color": "#53917e",
+                "team2Color": "#9963ab",
                 "team2SeriesW23L": [
                     0,
                     0,
@@ -209,7 +209,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 48,
-                "team4Color": "#9963ab",
+                "team4Color": "#53917e",
                 "team4SeriesW23L": [
                     1,
                     0,
@@ -297,12 +297,12 @@
                 "league": "Unwest League",
                 "team1Name": "Sugar Grove Eavesdroppers",
                 "team1Abbr": "SGE",
-                "team2Name": "Jersey OSHA Violations",
-                "team2Abbr": "OSHA",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
                 "team3Name": "Mobile Wheels",
                 "team3Abbr": "MW",
-                "team4Name": "Detroit Grape Chews",
-                "team4Abbr": "DET",
+                "team4Name": "Jersey OSHA Violations",
+                "team4Abbr": "OSHA",
                 "description": "Game 3, Unwest League Championship Series",
                 "season": 19,
                 "gameid": "e670ecbd-c33d-41cc-8271-de450c8e6b6e",
@@ -339,7 +339,7 @@
                     1
                 ],
                 "team1SeriesTotalPoints": 68,
-                "team2Color": "#53917e",
+                "team2Color": "#9963ab",
                 "team2SeriesW23L": [
                     0,
                     0,
@@ -355,7 +355,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 387,
-                "team4Color": "#9963ab",
+                "team4Color": "#53917e",
                 "team4SeriesW23L": [
                     2,
                     0,
@@ -441,10 +441,10 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Detroit Grape Chews",
-                "team1Abbr": "DET",
-                "team2Name": "Jersey OSHA Violations",
-                "team2Abbr": "OSHA",
+                "team1Name": "Jersey OSHA Violations",
+                "team1Abbr": "OSHA",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
                 "team3Name": "Sugar Grove Eavesdroppers",
                 "team3Abbr": "SGE",
                 "team4Name": "Mobile Wheels",
@@ -477,7 +477,7 @@
                 "team3Rank": 3,
                 "team4Rank": 0,
                 "generations": 3228,
-                "team1Color": "#9963ab",
+                "team1Color": "#53917e",
                 "team1SeriesW23L": [
                     2,
                     0,
@@ -485,7 +485,7 @@
                     1
                 ],
                 "team1SeriesTotalPoints": 649,
-                "team2Color": "#53917e",
+                "team2Color": "#9963ab",
                 "team2SeriesW23L": [
                     1,
                     0,
@@ -587,10 +587,10 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Detroit Grape Chews",
-                "team1Abbr": "DET",
-                "team2Name": "Jersey OSHA Violations",
-                "team2Abbr": "OSHA",
+                "team1Name": "Jersey OSHA Violations",
+                "team1Abbr": "OSHA",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
                 "team3Name": "Sugar Grove Eavesdroppers",
                 "team3Abbr": "SGE",
                 "team4Name": "Mobile Wheels",
@@ -623,7 +623,7 @@
                 "team3Rank": 1,
                 "team4Rank": 2,
                 "generations": 2291,
-                "team1Color": "#9963ab",
+                "team1Color": "#53917e",
                 "team1SeriesW23L": [
                     2,
                     1,
@@ -631,7 +631,7 @@
                     1
                 ],
                 "team1SeriesTotalPoints": 722,
-                "team2Color": "#53917e",
+                "team2Color": "#9963ab",
                 "team2SeriesW23L": [
                     1,
                     0,
@@ -735,12 +735,12 @@
                 "league": "Unwest League",
                 "team1Name": "Sugar Grove Eavesdroppers",
                 "team1Abbr": "SGE",
-                "team2Name": "Detroit Grape Chews",
-                "team2Abbr": "DET",
+                "team2Name": "Jersey OSHA Violations",
+                "team2Abbr": "OSHA",
                 "team3Name": "Mobile Wheels",
                 "team3Abbr": "MW",
-                "team4Name": "Jersey OSHA Violations",
-                "team4Abbr": "OSHA",
+                "team4Name": "Detroit Grape Chews",
+                "team4Abbr": "DET",
                 "description": "Game 6, Unwest League Championship Series",
                 "season": 19,
                 "gameid": "fc4bde39-2e53-4f6a-a584-fb256209050d",
@@ -777,7 +777,7 @@
                     2
                 ],
                 "team1SeriesTotalPoints": 423,
-                "team2Color": "#9963ab",
+                "team2Color": "#53917e",
                 "team2SeriesW23L": [
                     3,
                     1,
@@ -793,7 +793,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 932,
-                "team4Color": "#53917e",
+                "team4Color": "#9963ab",
                 "team4SeriesW23L": [
                     1,
                     0,
@@ -879,14 +879,14 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Detroit Grape Chews",
-                "team1Abbr": "DET",
+                "team1Name": "Jersey OSHA Violations",
+                "team1Abbr": "OSHA",
                 "team2Name": "Sugar Grove Eavesdroppers",
                 "team2Abbr": "SGE",
                 "team3Name": "Mobile Wheels",
                 "team3Abbr": "MW",
-                "team4Name": "Jersey OSHA Violations",
-                "team4Abbr": "OSHA",
+                "team4Name": "Detroit Grape Chews",
+                "team4Abbr": "DET",
                 "description": "Game 7, Unwest League Championship Series",
                 "season": 19,
                 "gameid": "487a7e16-87ba-44e4-8633-e0e72783f2bd",
@@ -915,7 +915,7 @@
                 "team3Rank": 1,
                 "team4Rank": 0,
                 "generations": 3743,
-                "team1Color": "#9963ab",
+                "team1Color": "#53917e",
                 "team1SeriesW23L": [
                     3,
                     2,
@@ -939,7 +939,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 1139,
-                "team4Color": "#53917e",
+                "team4Color": "#9963ab",
                 "team4SeriesW23L": [
                     1,
                     0,
@@ -1025,10 +1025,10 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Detroit Grape Chews",
-                "team1Abbr": "DET",
-                "team2Name": "Jersey OSHA Violations",
-                "team2Abbr": "OSHA",
+                "team1Name": "Jersey OSHA Violations",
+                "team1Abbr": "OSHA",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
                 "team3Name": "Sugar Grove Eavesdroppers",
                 "team3Abbr": "SGE",
                 "team4Name": "Mobile Wheels",
@@ -1061,7 +1061,7 @@
                 "team3Rank": 0,
                 "team4Rank": 2,
                 "generations": 5034,
-                "team1Color": "#9963ab",
+                "team1Color": "#53917e",
                 "team1SeriesW23L": [
                     3,
                     2,
@@ -1069,7 +1069,7 @@
                     1
                 ],
                 "team1SeriesTotalPoints": 1225,
-                "team2Color": "#53917e",
+                "team2Color": "#9963ab",
                 "team2SeriesW23L": [
                     2,
                     0,
@@ -1175,10 +1175,10 @@
                 "team1Abbr": "SGE",
                 "team2Name": "Mobile Wheels",
                 "team2Abbr": "MW",
-                "team3Name": "Jersey OSHA Violations",
-                "team3Abbr": "OSHA",
-                "team4Name": "Detroit Grape Chews",
-                "team4Abbr": "DET",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Jersey OSHA Violations",
+                "team4Abbr": "OSHA",
                 "description": "Game 9, Unwest League Championship Series",
                 "season": 19,
                 "gameid": "a55dfbc9-5d77-45e7-b23f-32f914cb6458",
@@ -1223,7 +1223,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 1463,
-                "team3Color": "#53917e",
+                "team3Color": "#9963ab",
                 "team3SeriesW23L": [
                     2,
                     1,
@@ -1231,7 +1231,7 @@
                     3
                 ],
                 "team3SeriesTotalPoints": 850,
-                "team4Color": "#9963ab",
+                "team4Color": "#53917e",
                 "team4SeriesW23L": [
                     3,
                     2,
@@ -1322,8 +1322,8 @@
                 "team1Abbr": "SGE",
                 "team2Name": "Long Beach Flightless Birds",
                 "team2Abbr": "LBFB",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
+                "team3Name": "Jersey OSHA Violations",
+                "team3Abbr": "OSHA",
                 "team4Name": "Sacramento Boot Lickers",
                 "team4Abbr": "SAC",
                 "description": "Game 1, Rainbow Cup Series",
@@ -1370,7 +1370,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 0,
-                "team3Color": "#9963ab",
+                "team3Color": "#53917e",
                 "team3SeriesW23L": [
                     0,
                     0,
@@ -1395,8 +1395,8 @@
                 "team1Abbr": "LBFB",
                 "team2Name": "Sacramento Boot Lickers",
                 "team2Abbr": "SAC",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
+                "team3Name": "Jersey OSHA Violations",
+                "team3Abbr": "OSHA",
                 "team4Name": "Sugar Grove Eavesdroppers",
                 "team4Abbr": "SGE",
                 "description": "Game 2, Rainbow Cup Series",
@@ -1443,7 +1443,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 162,
-                "team3Color": "#9963ab",
+                "team3Color": "#53917e",
                 "team3SeriesW23L": [
                     1,
                     0,
@@ -1470,8 +1470,8 @@
                 "team2Abbr": "SGE",
                 "team3Name": "Sacramento Boot Lickers",
                 "team3Abbr": "SAC",
-                "team4Name": "Detroit Grape Chews",
-                "team4Abbr": "DET",
+                "team4Name": "Jersey OSHA Violations",
+                "team4Abbr": "OSHA",
                 "description": "Game 3, Rainbow Cup Series",
                 "season": 19,
                 "gameid": "b949d507-f40c-4782-beaf-4ebe87832468",
@@ -1524,7 +1524,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 523,
-                "team4Color": "#9963ab",
+                "team4Color": "#53917e",
                 "team4SeriesW23L": [
                     1,
                     0,
@@ -1541,8 +1541,8 @@
                 "team1Abbr": "LBFB",
                 "team2Name": "Sacramento Boot Lickers",
                 "team2Abbr": "SAC",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
+                "team3Name": "Jersey OSHA Violations",
+                "team3Abbr": "OSHA",
                 "team4Name": "Sugar Grove Eavesdroppers",
                 "team4Abbr": "SGE",
                 "description": "Game 4, Rainbow Cup Series",
@@ -1589,7 +1589,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 610,
-                "team3Color": "#9963ab",
+                "team3Color": "#53917e",
                 "team3SeriesW23L": [
                     1,
                     0,
@@ -1616,8 +1616,8 @@
                 "team2Abbr": "LBFB",
                 "team3Name": "Sacramento Boot Lickers",
                 "team3Abbr": "SAC",
-                "team4Name": "Detroit Grape Chews",
-                "team4Abbr": "DET",
+                "team4Name": "Jersey OSHA Violations",
+                "team4Abbr": "OSHA",
                 "description": "Game 5, Rainbow Cup Series",
                 "season": 19,
                 "gameid": "23fd03ef-4de8-4b10-bc03-1a38919e44be",
@@ -1670,7 +1670,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 645,
-                "team4Color": "#9963ab",
+                "team4Color": "#53917e",
                 "team4SeriesW23L": [
                     2,
                     0,
@@ -1687,8 +1687,8 @@
                 "team1Abbr": "SGE",
                 "team2Name": "Long Beach Flightless Birds",
                 "team2Abbr": "LBFB",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
+                "team3Name": "Jersey OSHA Violations",
+                "team3Abbr": "OSHA",
                 "team4Name": "Sacramento Boot Lickers",
                 "team4Abbr": "SAC",
                 "description": "Game 6, Rainbow Cup Series",
@@ -1735,7 +1735,7 @@
                     3
                 ],
                 "team2SeriesTotalPoints": 378,
-                "team3Color": "#9963ab",
+                "team3Color": "#53917e",
                 "team3SeriesW23L": [
                     2,
                     0,
@@ -1762,8 +1762,8 @@
                 "team2Abbr": "SAC",
                 "team3Name": "Sugar Grove Eavesdroppers",
                 "team3Abbr": "SGE",
-                "team4Name": "Detroit Grape Chews",
-                "team4Abbr": "DET",
+                "team4Name": "Jersey OSHA Violations",
+                "team4Abbr": "OSHA",
                 "description": "Game 7, Rainbow Cup Series",
                 "season": 19,
                 "gameid": "91c5170d-b4c2-44be-9e5c-2c4a7f7a5934",
@@ -1816,7 +1816,7 @@
                     1
                 ],
                 "team3SeriesTotalPoints": 910,
-                "team4Color": "#9963ab",
+                "team4Color": "#53917e",
                 "team4SeriesW23L": [
                     2,
                     0,
@@ -1829,8 +1829,8 @@
         ],
         [
             {
-                "team1Name": "Detroit Grape Chews",
-                "team1Abbr": "DET",
+                "team1Name": "Jersey OSHA Violations",
+                "team1Abbr": "OSHA",
                 "team2Name": "Long Beach Flightless Birds",
                 "team2Abbr": "LBFB",
                 "team3Name": "Sacramento Boot Lickers",
@@ -1865,7 +1865,7 @@
                 "team3Rank": 1,
                 "team4Rank": 2,
                 "generations": 4152,
-                "team1Color": "#9963ab",
+                "team1Color": "#53917e",
                 "team1SeriesW23L": [
                     2,
                     1,
@@ -1906,8 +1906,8 @@
                 "team1Abbr": "SAC",
                 "team2Name": "Long Beach Flightless Birds",
                 "team2Abbr": "LBFB",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
+                "team3Name": "Jersey OSHA Violations",
+                "team3Abbr": "OSHA",
                 "team4Name": "Sugar Grove Eavesdroppers",
                 "team4Abbr": "SGE",
                 "description": "Game 9, Rainbow Cup Series",
@@ -1954,7 +1954,7 @@
                     3
                 ],
                 "team2SeriesTotalPoints": 1101,
-                "team3Color": "#9963ab",
+                "team3Color": "#53917e",
                 "team3SeriesW23L": [
                     2,
                     1,
