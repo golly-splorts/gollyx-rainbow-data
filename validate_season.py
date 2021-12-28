@@ -2,7 +2,7 @@ import os
 import json
 
 
-LAST_SEASON0 = 15
+LAST_SEASON0 = 16
 
 SERIES_GPD = {"LCS": 2, "RCS": 1}
 
@@ -14,6 +14,9 @@ ABBR_TO_NAME = {
 
 for iseason in range(LAST_SEASON0 + 1):
     seasondir = "season%d" % (iseason)
+
+    if not os.path.exists(seasondir):
+        raise Exception(f"Error: missing season directory {seasondir}")
 
     #####################
     # load team data
@@ -202,6 +205,65 @@ for iseason in range(LAST_SEASON0 + 1):
             err = f"Error: series name {series_name} not found in game description {game['description']}"
             raise Exception(err)
 
+
+    # -----------
+    # check seed table
+
+    def check_seed_table_order(season, seed, seedfile):
+        rainbow_values = [11, 7, 3, 0]
+        f_rainbows = lambda x: 11*x[0] + 7*x[1] + 3*x[2]
+        nteams = 4
+        last_day = season[-1]
+
+        for league in seed:
+            seed_table = seed[league]
+
+            rainbows = {}
+            points = {}
+            # accumulate points and rainbows from last game
+            for game in last_day:
+
+                if game['league'] != league:
+                    continue
+
+                for i in range(nteams):
+
+                    name_key = f"team{i+1}Name"
+                    name_val = game[name_key]
+
+                    w23l_key = f"team{i+1}W23L"
+                    w23l_val = game[w23l_key]
+
+                    rank_key = f"team{i+1}Rank"
+                    rank_val = game[rank_key]
+
+                    tp_key = f"team{i+1}TotalPoints"
+                    tp_val = game[tp_key]
+
+                    score_key = f"team{i+1}Score"
+                    score_val = game[score_key]
+
+                    nrainbows = f_rainbows(w23l_val)
+                    nrainbows += rainbow_values[rank_val]
+
+                    rainbows[name_val] = nrainbows
+
+                    npoints = tp_val
+                    npoints += score_val
+
+                    points[name_val] = npoints
+
+            for i in range(1, len(seed_table)):
+                seed_abbr_k = seed_table[i-1]
+                r_k = rainbows[seed_abbr_k]
+                seed_abbr_kp1 = seed_table[i]
+                r_kp1 = rainbows[seed_abbr_kp1]
+                if r_kp1 > r_k:
+                    err = f"Seed table is out of order! "
+                    err += f"Number of rainbows of {r_k} (seed {i}) is larger than "
+                    err += f"rainbows of {r_kp1} (seed {i+1})."
+                    raise Exception(err)
+
     # -----------
     # schedule
 
@@ -372,6 +434,15 @@ for iseason in range(LAST_SEASON0 + 1):
         err += f"seed.json team names: {', '.join(seed_team_names)}\n"
         err += f"teams.json team names: {', '.join(teams_team_names)}\n"
         raise Exception(err)
+
+    # Check that seed table is in the correct order
+    # (Most rainbows, then most runs as tiebreaker)
+    #
+    # Only repair the seed table if iseason is > 15
+    # (everything before that has been repaired by hand)
+    #if iseason >= 0:
+    if iseason > 15:
+        check_seed_table_order(season, seed, seedfile)
 
     # -----------
     # bracket
