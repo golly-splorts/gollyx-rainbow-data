@@ -259,8 +259,8 @@ for iseason in range(LAST_SEASON0 + 1):
                 r_kp1 = rainbows[seed_abbr_kp1]
                 if r_kp1 > r_k:
                     err = f"Seed table is out of order! "
-                    err += f"Number of rainbows of {r_k} (seed {i}) is larger than "
-                    err += f"rainbows of {r_kp1} (seed {i+1})."
+                    err += f"Number of rainbows of {seed_abbr_k} ({r_k}, seed {i}) is larger than "
+                    err += f"rainbows of {seed_abbr_kp1} ({r_kp1}, seed {i+1})."
                     raise Exception(err)
 
     def repair_seed_table_order(season, seed, seedfile):
@@ -270,6 +270,7 @@ for iseason in range(LAST_SEASON0 + 1):
         last_day = season[-1]
         new_seed = {}
         for league in seed:
+            seed_table = seed[league]
 
             rainbows = {}
             points = {}
@@ -307,13 +308,13 @@ for iseason in range(LAST_SEASON0 + 1):
                     points[name_val] = npoints
 
             tups = []
-            for team in points.keys():
+            for team in seed_table:
                 tups.append((team, rainbows[team], points[team]))
             tups.sort(key = lambda x: (100000-x[1], 100000-x[2]))
 
             new_seed_table = []
-            for i in range(4):
-                new_seed_table.append(tups[i][0])
+            for tup in tups:
+                new_seed_table.append(tup[0])
             new_seed[league] = new_seed_table
 
         # Repair the seed table
@@ -459,11 +460,19 @@ for iseason in range(LAST_SEASON0 + 1):
     # seed
     seedfile = os.path.join(seasondir, "seed.json")
 
-    print("***************************")
-    print(f"Now checking {seedfile}")
-
     if not os.path.exists(seedfile):
         raise Exception(f"Error: missing file: {seedfile}")
+
+    if iseason >= 0:
+        print("***************************")
+        print(f"Now repairing {seedfile}")
+
+        with open(seedfile, "r") as f:
+            seed_ = json.load(f)
+        repair_seed_table_order(season, seed_, seedfile)
+
+    print("***************************")
+    print(f"Now checking {seedfile}")
 
     with open(seedfile, "r") as f:
         seed = json.load(f)
@@ -496,9 +505,6 @@ for iseason in range(LAST_SEASON0 + 1):
     #
     # Only repair the seed table if iseason is > 15
     # (everything before that has been repaired by hand)
-
-    if iseason >= 0:
-        repair_seed_table_order(season, seed, seedfile)
 
     if iseason >= 0:
         check_seed_table_order(season, seed, seedfile)
