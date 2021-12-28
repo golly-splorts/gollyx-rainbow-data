@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Boylston Boogers",
+                "team1Abbr": "BB",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Milwaukee Flamingos",
+                "team4Abbr": "MILF",
+                "patternName": "timebombredux",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 22,
+                "gameid": "17824ad1-9afb-4917-9415-ac9e08714b35",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Vegas Vampires",
+                "team3Abbr": "VV",
+                "team4Name": "Sacramento Boot Lickers",
+                "team4Abbr": "SAC",
+                "patternName": "timebombredux",
+                "description": "Game 1, West League Championship Series",
+                "season": 22,
+                "gameid": "66fbb01d-5076-4cbe-a9ee-847f516557d1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Louisville Illusionists",
+                "team1Abbr": "LIL",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "timebombredux",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 22,
+                "gameid": "73144c35-a467-4917-814f-80ed32d23b58",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "Sacramento Boot Lickers",
+                "team4Abbr": "SAC",
+                "patternName": "timebombredux",
+                "description": "Game 2, West League Championship Series",
+                "season": 22,
+                "gameid": "f6f96ed7-13d1-42d7-bea0-d426fca9a906",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Louisville Illusionists",
+                "team1Abbr": "LIL",
+                "team2Name": "Milwaukee Flamingos",
+                "team2Abbr": "MILF",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "rainbow",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 22,
+                "gameid": "ea2f81f0-7b8d-4395-9605-87c2805b6908",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "Sacramento Boot Lickers",
+                "team4Abbr": "SAC",
+                "patternName": "randommethuselahs",
+                "description": "Game 3, West League Championship Series",
+                "season": 22,
+                "gameid": "7bcf9add-07ed-4ced-a11b-2406292ac90f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Boylston Boogers",
+                "team3Abbr": "BB",
+                "team4Name": "Milwaukee Flamingos",
+                "team4Abbr": "MILF",
+                "patternName": "randommethuselahs",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 22,
+                "gameid": "b2af4a18-6c56-48e7-83e9-7761cf52f4c1",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "San Diego Balloon Animals",
+                "team3Abbr": "SDBA",
+                "team4Name": "Sacramento Boot Lickers",
+                "team4Abbr": "SAC",
+                "patternName": "eights",
+                "description": "Game 4, West League Championship Series",
+                "season": 22,
+                "gameid": "a157c6e1-a044-4460-b451-683f6c291945",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Boylston Boogers",
+                "team4Abbr": "BB",
+                "patternName": "sunburst",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 22,
+                "gameid": "716d1dda-c473-481b-8b62-5a95018f2836",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "San Diego Balloon Animals",
+                "team3Abbr": "SDBA",
+                "team4Name": "Sacramento Boot Lickers",
+                "team4Abbr": "SAC",
+                "patternName": "crabs",
+                "description": "Game 5, West League Championship Series",
+                "season": 22,
+                "gameid": "6bb77b7d-c718-441b-a233-87d133ecaaee",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Milwaukee Flamingos",
+                "team1Abbr": "MILF",
+                "team2Name": "Boylston Boogers",
+                "team2Abbr": "BB",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
+                "patternName": "quadgaussian",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 22,
+                "gameid": "6415725d-18f2-4e0e-9f48-4240d2420bc2",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "Vegas Vampires",
+                "team2Abbr": "VV",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "rabbits",
+                "description": "Game 6, West League Championship Series",
+                "season": 22,
+                "gameid": "fe74399c-05be-46b9-82c9-1d97613f51bc",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Boylston Boogers",
+                "team1Abbr": "BB",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "quadgaussian",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 22,
+                "gameid": "ef5dd595-813a-4ecf-93c9-97d1acae7aa7",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "quadgaussian",
+                "description": "Game 7, West League Championship Series",
+                "season": 22,
+                "gameid": "4a351fdf-7c61-451e-a867-a1141f0b5ca3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Boylston Boogers",
+                "team1Abbr": "BB",
+                "team2Name": "Milwaukee Flamingos",
+                "team2Abbr": "MILF",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
+                "patternName": "rainbow",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 22,
+                "gameid": "29d67a1e-6baa-4288-8d4a-931350791c6e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Sacramento Boot Lickers",
+                "team1Abbr": "SAC",
+                "team2Name": "Vegas Vampires",
+                "team2Abbr": "VV",
+                "team3Name": "San Diego Balloon Animals",
+                "team3Abbr": "SDBA",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "quadgaussian",
+                "description": "Game 8, West League Championship Series",
+                "season": 22,
+                "gameid": "6d176c89-d996-43d1-bd49-d57a18e8f95b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Boylston Boogers",
+                "team1Abbr": "BB",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "patiolights",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 22,
+                "gameid": "077fa7cc-ac82-45da-b22a-c1811c2884b5",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Sacramento Boot Lickers",
+                "team2Abbr": "SAC",
+                "team3Name": "San Diego Balloon Animals",
+                "team3Abbr": "SDBA",
+                "team4Name": "Grand Junction Conjunctions",
+                "team4Abbr": "GJC",
+                "patternName": "rainbow",
+                "description": "Game 9, West League Championship Series",
+                "season": 22,
+                "gameid": "0e1ca965-ceba-485c-bb67-d347e65fa0ec",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 22,
+                "gameid": "0436c305-53ae-4a62-bb50-d42234397b61",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 22,
+                "gameid": "d3eba94a-0fc2-4167-80b3-0e1d0b983c23",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 22,
+                "gameid": "2bec5439-9039-4648-b8d9-239bfcf65925",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 22,
+                "gameid": "687d4f3f-db2e-4a7a-9bb2-2297cdb41db3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 22,
+                "gameid": "de6e5051-d958-4dd6-866b-9cc8f91b1d0d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 22,
+                "gameid": "79c65073-cf96-486a-957c-e5bd2782edce",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 22,
+                "gameid": "7e9e7d71-0f9f-41ad-9d10-3b58d296342f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 22,
+                "gameid": "d2d07937-956e-494c-be30-2f23546e8605",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 22,
+                "gameid": "222e90fd-4283-4297-9fea-f469d6a2542b",
+                "isPostseason": true
+            }
+        ]
+    ]
+}

@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "sunburst",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "0b35bbbb-40fd-4277-ab79-eb7a7ae7e605",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salt Lake Turbulence",
+                "team1Abbr": "SLC",
+                "team2Name": "Seattle Sneakers",
+                "team2Abbr": "SS",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "rabbits",
+                "description": "Game 1, West League Championship Series",
+                "season": 16,
+                "gameid": "c1b3d946-aea9-4045-be35-8b06d6297cc2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "patiolights",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "be259c5e-118d-4623-adf8-5ac83c2c5573",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salt Lake Turbulence",
+                "team1Abbr": "SLC",
+                "team2Name": "San Francisco Boat Shoes",
+                "team2Abbr": "SFBS",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "patiolights",
+                "description": "Game 2, West League Championship Series",
+                "season": 16,
+                "gameid": "652fb7bb-3ad4-493f-ba0a-060083095dcd",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team2Abbr": "SGE",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Alewife Arsonists",
+                "team4Abbr": "AA",
+                "patternName": "justyna",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "d704dbb4-2df6-491e-9ef5-f9840bb83716",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salt Lake Turbulence",
+                "team1Abbr": "SLC",
+                "team2Name": "Seattle Sneakers",
+                "team2Abbr": "SS",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "timebombredux",
+                "description": "Game 3, West League Championship Series",
+                "season": 16,
+                "gameid": "69228d6e-b8cd-4138-a62b-e59d7c055a9d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Alewife Arsonists",
+                "team3Abbr": "AA",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "timebomb",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "31792a1c-cd28-416c-88ce-e090a4509311",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Seattle Sneakers",
+                "team1Abbr": "SS",
+                "team2Name": "Phoenix Freshrolls",
+                "team2Abbr": "FF",
+                "team3Name": "Salt Lake Turbulence",
+                "team3Abbr": "SLC",
+                "team4Name": "San Francisco Boat Shoes",
+                "team4Abbr": "SFBS",
+                "patternName": "rainbowmath",
+                "description": "Game 4, West League Championship Series",
+                "season": 16,
+                "gameid": "71463f09-97b7-420d-af8b-07119c9b60f4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Alewife Arsonists",
+                "team1Abbr": "AA",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team2Abbr": "SGE",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "multum",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "62a98dfe-e6ed-46aa-a461-4eb40720e9e2",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salt Lake Turbulence",
+                "team1Abbr": "SLC",
+                "team2Name": "San Francisco Boat Shoes",
+                "team2Abbr": "SFBS",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "timebombredux",
+                "description": "Game 5, West League Championship Series",
+                "season": 16,
+                "gameid": "790084dc-fe29-47cc-91ff-2f531da02468",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Alewife Arsonists",
+                "team1Abbr": "AA",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "orchard",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "0aca8ff9-5d7a-4af0-9be1-d75920c8c2e6",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salt Lake Turbulence",
+                "team1Abbr": "SLC",
+                "team2Name": "Phoenix Freshrolls",
+                "team2Abbr": "FF",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "quadgaussian",
+                "description": "Game 6, West League Championship Series",
+                "season": 16,
+                "gameid": "7beaa77b-40b8-48f8-ac6c-6b0b21de6eb0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
+                "team2Name": "Alewife Arsonists",
+                "team2Abbr": "AA",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "multum",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "44d9c565-29e0-445b-981f-79055aa06895",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Francisco Boat Shoes",
+                "team1Abbr": "SFBS",
+                "team2Name": "Seattle Sneakers",
+                "team2Abbr": "SS",
+                "team3Name": "Salt Lake Turbulence",
+                "team3Abbr": "SLC",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "rabbits",
+                "description": "Game 7, West League Championship Series",
+                "season": 16,
+                "gameid": "94092b0d-cd23-46db-ba4d-1372be91df27",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team2Abbr": "SGE",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Alewife Arsonists",
+                "team4Abbr": "AA",
+                "patternName": "random",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "8afd62d7-dc00-4c70-86e1-e6f6acce6b0f",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Francisco Boat Shoes",
+                "team1Abbr": "SFBS",
+                "team2Name": "Seattle Sneakers",
+                "team2Abbr": "SS",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Salt Lake Turbulence",
+                "team4Abbr": "SLC",
+                "patternName": "quadgaussian",
+                "description": "Game 8, West League Championship Series",
+                "season": 16,
+                "gameid": "a3bd6d34-249c-4d31-a6c8-5dd9065b1676",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team2Abbr": "SGE",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Alewife Arsonists",
+                "team4Abbr": "AA",
+                "patternName": "justyna",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "20bfdc37-9b07-44aa-85af-28e2de68ccbe",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Francisco Boat Shoes",
+                "team1Abbr": "SFBS",
+                "team2Name": "Salt Lake Turbulence",
+                "team2Abbr": "SLC",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "orchard",
+                "description": "Game 9, West League Championship Series",
+                "season": 16,
+                "gameid": "75932bc7-2e0e-41da-ae1e-3008ef28db17",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "c245acdf-1434-4084-91de-b5de719c775e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "c78b014b-2f94-4f42-96cc-ceabf76f17ca",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "bf98a5c2-e508-4c93-b586-05aceb4f488d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "6d77f023-b24a-4736-a15f-370b99f556f4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "03d8a401-8781-40de-ab60-ab93a9073a0d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "7b99470a-69f7-466d-9e6c-01f8e9d56c6e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "d8242fdb-ab60-4b96-b676-e8def1b7c469",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "9be517d8-f989-4732-a6b2-4bd60eaf0c38",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "6423a3ef-eb88-42a9-a6ed-893c2595e43f",
+                "isPostseason": true
+            }
+        ]
+    ]
+}

@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Milwaukee Flamingos",
+                "team1Abbr": "MILF",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "timebomb",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 20,
+                "gameid": "7a102ff6-5e60-4f5e-9caf-f2d4b8c097da",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salt Lake Turbulence",
+                "team1Abbr": "SLC",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Sacramento Boot Lickers",
+                "team4Abbr": "SAC",
+                "patternName": "rabbits",
+                "description": "Game 1, West League Championship Series",
+                "season": 20,
+                "gameid": "4f2a5047-24ff-42fc-b777-a8bf9bd13dff",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "random",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 20,
+                "gameid": "b917d06f-c8c0-4073-ad7e-2232396075c0",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Sacramento Boot Lickers",
+                "team1Abbr": "SAC",
+                "team2Name": "Phoenix Freshrolls",
+                "team2Abbr": "FF",
+                "team3Name": "Salt Lake Turbulence",
+                "team3Abbr": "SLC",
+                "team4Name": "Tucson Butchers",
+                "team4Abbr": "TB",
+                "patternName": "crabs",
+                "description": "Game 2, West League Championship Series",
+                "season": 20,
+                "gameid": "47c3a00f-b949-4ddc-a776-589f34be3a7f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "patiolights",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 20,
+                "gameid": "ecb5b3b7-39e2-422b-b159-c5186e89a57f",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Tucson Butchers",
+                "team1Abbr": "TB",
+                "team2Name": "Phoenix Freshrolls",
+                "team2Abbr": "FF",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Salt Lake Turbulence",
+                "team4Abbr": "SLC",
+                "patternName": "sunburst",
+                "description": "Game 3, West League Championship Series",
+                "season": 20,
+                "gameid": "cb29a5a9-f580-4708-8b3a-bc79ffa26312",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Milwaukee Flamingos",
+                "team2Abbr": "MILF",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Detroit Grape Chews",
+                "team4Abbr": "DET",
+                "patternName": "multum",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 20,
+                "gameid": "6bab81ec-e85d-435e-894a-d8e7030fb463",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Sacramento Boot Lickers",
+                "team1Abbr": "SAC",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
+                "team3Name": "Salt Lake Turbulence",
+                "team3Abbr": "SLC",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "timebomb",
+                "description": "Game 4, West League Championship Series",
+                "season": 20,
+                "gameid": "0f2f3eb2-5a46-4a4d-a9c7-7025ff8424e1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Milwaukee Flamingos",
+                "team4Abbr": "MILF",
+                "patternName": "eights",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 20,
+                "gameid": "50cdafb3-0719-4f06-8009-4c5452841745",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salt Lake Turbulence",
+                "team1Abbr": "SLC",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "random",
+                "description": "Game 5, West League Championship Series",
+                "season": 20,
+                "gameid": "f4beb815-b960-47c2-b7b0-e0d0512e0997",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "quadgaussian",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 20,
+                "gameid": "1a95b1ac-6a87-403a-9e9d-6af0a405c558",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
+                "team3Name": "Sacramento Boot Lickers",
+                "team3Abbr": "SAC",
+                "team4Name": "Salt Lake Turbulence",
+                "team4Abbr": "SLC",
+                "patternName": "eights",
+                "description": "Game 6, West League Championship Series",
+                "season": 20,
+                "gameid": "4bcfb189-1dd6-4d1b-a588-fb413cfdf8a4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Milwaukee Flamingos",
+                "team1Abbr": "MILF",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "eights",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 20,
+                "gameid": "4b9f3df1-b722-480d-926a-b9582e45c594",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Sacramento Boot Lickers",
+                "team2Abbr": "SAC",
+                "team3Name": "Salt Lake Turbulence",
+                "team3Abbr": "SLC",
+                "team4Name": "Tucson Butchers",
+                "team4Abbr": "TB",
+                "patternName": "quadgaussian",
+                "description": "Game 7, West League Championship Series",
+                "season": 20,
+                "gameid": "9225164e-0bdf-450d-a29d-a4314370ef1c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Milwaukee Flamingos",
+                "team4Abbr": "MILF",
+                "patternName": "orchard",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 20,
+                "gameid": "26c3ae31-cb1c-4dc9-9cde-dbe98f00f5ad",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salt Lake Turbulence",
+                "team1Abbr": "SLC",
+                "team2Name": "Sacramento Boot Lickers",
+                "team2Abbr": "SAC",
+                "team3Name": "Tucson Butchers",
+                "team3Abbr": "TB",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "orchard",
+                "description": "Game 8, West League Championship Series",
+                "season": 20,
+                "gameid": "6d954bce-e3e0-42cb-a7de-eca341c6e5e8",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Milwaukee Flamingos",
+                "team2Abbr": "MILF",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Detroit Grape Chews",
+                "team4Abbr": "DET",
+                "patternName": "crabs",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 20,
+                "gameid": "22a6f6db-b788-4873-9c62-4ca54d177667",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Sacramento Boot Lickers",
+                "team1Abbr": "SAC",
+                "team2Name": "Salt Lake Turbulence",
+                "team2Abbr": "SLC",
+                "team3Name": "Phoenix Freshrolls",
+                "team3Abbr": "FF",
+                "team4Name": "Tucson Butchers",
+                "team4Abbr": "TB",
+                "patternName": "orchard",
+                "description": "Game 9, West League Championship Series",
+                "season": 20,
+                "gameid": "666ce28f-c4b5-4c75-b01f-402f465dc8f8",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 20,
+                "gameid": "5858b149-a3db-49bf-8903-d8ce43306325",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 20,
+                "gameid": "1b31b0e0-6a82-41f0-8eb2-caa5a7672099",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 20,
+                "gameid": "0423dcf4-b3f6-4e27-8f1f-57f8022fcf38",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 20,
+                "gameid": "1866d852-9588-4f86-afbf-bd97dcb1e507",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 20,
+                "gameid": "dac74f86-8649-4a73-9517-c37b523ee648",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 20,
+                "gameid": "30fa5983-95fc-4e83-9c83-2567396e8797",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 20,
+                "gameid": "969eb29a-84e9-49cb-b19f-a218adcfc46b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 20,
+                "gameid": "6f972d70-2ed3-4315-85f6-0479bccc3856",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 20,
+                "gameid": "9e328df0-8054-4847-97d1-dea81503ef13",
+                "isPostseason": true
+            }
+        ]
+    ]
+}

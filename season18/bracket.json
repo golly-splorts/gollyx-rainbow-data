@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Fargo Flea Flickers",
+                "team1Abbr": "FFF",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
+                "team4Name": "Alewife Arsonists",
+                "team4Abbr": "AA",
+                "patternName": "rabbits",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 18,
+                "gameid": "08570c6b-484d-44bc-8ae7-1ac068f358ff",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "San Francisco Boat Shoes",
+                "team2Abbr": "SFBS",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "eights",
+                "description": "Game 1, West League Championship Series",
+                "season": 18,
+                "gameid": "8673f7b5-88e2-4cfe-a732-0336c52f9eb3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Alewife Arsonists",
+                "team1Abbr": "AA",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team2Abbr": "SGE",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "patiolights",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 18,
+                "gameid": "420397b5-5dd3-4a9c-a38c-c82661a072da",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "San Francisco Boat Shoes",
+                "team4Abbr": "SFBS",
+                "patternName": "justyna",
+                "description": "Game 2, West League Championship Series",
+                "season": 18,
+                "gameid": "bbb0f802-add2-42e5-879e-bc80a6f8df0d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
+                "team2Name": "Alewife Arsonists",
+                "team2Abbr": "AA",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "random",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 18,
+                "gameid": "a21f612e-fe4f-4b90-9fd9-16e2d25fc26b",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "sunburst",
+                "description": "Game 3, West League Championship Series",
+                "season": 18,
+                "gameid": "54947e58-a586-4b9e-9a57-3200e6c52f2b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team2Abbr": "SGE",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
+                "team4Name": "Alewife Arsonists",
+                "team4Abbr": "AA",
+                "patternName": "rabbits",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 18,
+                "gameid": "eae7c1cc-1ff3-4cbf-b276-efad30c93b64",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Francisco Boat Shoes",
+                "team1Abbr": "SFBS",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "orchard",
+                "description": "Game 4, West League Championship Series",
+                "season": 18,
+                "gameid": "68b63143-17af-4111-9131-a3baf5b47479",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Alewife Arsonists",
+                "team1Abbr": "AA",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "multum",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 18,
+                "gameid": "c56ed140-9c7a-40c9-b5f1-03673032282b",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Vegas Vampires",
+                "team3Abbr": "VV",
+                "team4Name": "San Francisco Boat Shoes",
+                "team4Abbr": "SFBS",
+                "patternName": "timebomb",
+                "description": "Game 5, West League Championship Series",
+                "season": 18,
+                "gameid": "afa95538-f4f8-4505-b567-52976b760b0f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Alewife Arsonists",
+                "team1Abbr": "AA",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
+                "patternName": "timebomb",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 18,
+                "gameid": "bf664c43-b7c0-457f-a246-6e9210ff0c63",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Vegas Vampires",
+                "team3Abbr": "VV",
+                "team4Name": "San Francisco Boat Shoes",
+                "team4Abbr": "SFBS",
+                "patternName": "rainbow",
+                "description": "Game 6, West League Championship Series",
+                "season": 18,
+                "gameid": "095bf34a-ba0b-4676-80e0-edb47c26a754",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Alewife Arsonists",
+                "team4Abbr": "AA",
+                "patternName": "rainbowmath",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 18,
+                "gameid": "07465285-4fe1-485e-8b0e-76e540f2e78a",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "San Francisco Boat Shoes",
+                "team3Abbr": "SFBS",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "rainbowmath",
+                "description": "Game 7, West League Championship Series",
+                "season": 18,
+                "gameid": "5c1407ab-be59-419c-9a41-b4b3bebf7004",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
+                "team2Name": "Alewife Arsonists",
+                "team2Abbr": "AA",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
+                "patternName": "timebomb",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 18,
+                "gameid": "7a9aca05-9846-48f3-b89d-8399e0942684",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Vegas Vampires",
+                "team3Abbr": "VV",
+                "team4Name": "San Francisco Boat Shoes",
+                "team4Abbr": "SFBS",
+                "patternName": "rainbowmath",
+                "description": "Game 8, West League Championship Series",
+                "season": 18,
+                "gameid": "8feac174-0ffe-48b5-b39d-36860e577a58",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Fargo Flea Flickers",
+                "team1Abbr": "FFF",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team2Abbr": "SGE",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
+                "team4Name": "Alewife Arsonists",
+                "team4Abbr": "AA",
+                "patternName": "rainbow",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 18,
+                "gameid": "cad3f824-a722-4a6d-9f25-3f7c2b4465f0",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Francisco Boat Shoes",
+                "team1Abbr": "SFBS",
+                "team2Name": "Vegas Vampires",
+                "team2Abbr": "VV",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "orchard",
+                "description": "Game 9, West League Championship Series",
+                "season": 18,
+                "gameid": "f5efb501-1bfc-476e-aa3c-f129f85c1b19",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 18,
+                "gameid": "73532f7f-e810-4aa6-ac68-aca5d762038a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 18,
+                "gameid": "9bd7ca23-d668-4a83-a5bd-ee553d8c1086",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 18,
+                "gameid": "f74acef9-919e-4be0-86a4-54c9e961f31a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 18,
+                "gameid": "31ab7871-b5de-4d76-9478-b7777baf4750",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 18,
+                "gameid": "f3ac17de-1ec0-42d1-95db-8e960e584a5e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 18,
+                "gameid": "ed3a6bb6-b1fe-4e5e-be6e-792d33de64a8",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 18,
+                "gameid": "2e771009-1519-4bba-9ef7-4a1ce7bcc95b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 18,
+                "gameid": "90580013-2148-4e63-8639-f987b2f6506e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rabbits",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 18,
+                "gameid": "77db5a6a-878e-4fba-b327-d63fec727dc8",
+                "isPostseason": true
+            }
+        ]
+    ]
+}

@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Mobile Wheels",
+                "team2Abbr": "MW",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "randommethuselahs",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "a181c526-0783-450c-ac15-1e66fde886b7",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "San Francisco Boat Shoes",
+                "team2Abbr": "SFBS",
+                "team3Name": "Tucson Butchers",
+                "team3Abbr": "TB",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "quadgaussian",
+                "description": "Game 1, West League Championship Series",
+                "season": 21,
+                "gameid": "3e11292f-9ed0-4678-825a-471dc7aaf0cf",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Louisville Illusionists",
+                "team1Abbr": "LIL",
+                "team2Name": "Mobile Wheels",
+                "team2Abbr": "MW",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "orchard",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "95b06223-ddf0-4e00-a5c5-b9656be8bea3",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Francisco Boat Shoes",
+                "team1Abbr": "SFBS",
+                "team2Name": "Phoenix Freshrolls",
+                "team2Abbr": "FF",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "Tucson Butchers",
+                "team4Abbr": "TB",
+                "patternName": "rabbits",
+                "description": "Game 2, West League Championship Series",
+                "season": 21,
+                "gameid": "c4ea86ca-3173-487a-a937-94e4cf67cd69",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Louisville Illusionists",
+                "team1Abbr": "LIL",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
+                "team3Name": "Mobile Wheels",
+                "team3Abbr": "MW",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
+                "patternName": "sunburst",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "b1c8bf3b-6987-4a56-8b72-c1d027d3aa09",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Tucson Butchers",
+                "team1Abbr": "TB",
+                "team2Name": "Phoenix Freshrolls",
+                "team2Abbr": "FF",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "San Francisco Boat Shoes",
+                "team4Abbr": "SFBS",
+                "patternName": "sunburst",
+                "description": "Game 3, West League Championship Series",
+                "season": 21,
+                "gameid": "3569ad47-1f80-4841-a027-54937387fbbe",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Mobile Wheels",
+                "team4Abbr": "MW",
+                "patternName": "justyna",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "2b23edb1-980b-41fd-a51b-0079f572ad20",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "San Francisco Boat Shoes",
+                "team2Abbr": "SFBS",
+                "team3Name": "Tucson Butchers",
+                "team3Abbr": "TB",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "rainbow",
+                "description": "Game 4, West League Championship Series",
+                "season": 21,
+                "gameid": "6b71f726-e13c-485c-b014-9ac6dc2dd9e2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Louisville Illusionists",
+                "team1Abbr": "LIL",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Mobile Wheels",
+                "team3Abbr": "MW",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "orchard",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "24b5c932-55e1-4757-9a8c-ef692676abae",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Tucson Butchers",
+                "team1Abbr": "TB",
+                "team2Name": "Phoenix Freshrolls",
+                "team2Abbr": "FF",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "San Francisco Boat Shoes",
+                "team4Abbr": "SFBS",
+                "patternName": "rainbowmath",
+                "description": "Game 5, West League Championship Series",
+                "season": 21,
+                "gameid": "3827eae3-bb7d-42e3-a52d-17303804cc5a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Mobile Wheels",
+                "team3Abbr": "MW",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "justyna",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "126c0bdc-5ec4-4a5b-b108-6e894ac98347",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "Phoenix Freshrolls",
+                "team2Abbr": "FF",
+                "team3Name": "Tucson Butchers",
+                "team3Abbr": "TB",
+                "team4Name": "San Francisco Boat Shoes",
+                "team4Abbr": "SFBS",
+                "patternName": "patiolights",
+                "description": "Game 6, West League Championship Series",
+                "season": 21,
+                "gameid": "f3706fc8-a03f-48f5-be58-1e95fc0695ff",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Mobile Wheels",
+                "team1Abbr": "MW",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Louisville Illusionists",
+                "team3Abbr": "LIL",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
+                "patternName": "random",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "008a9d46-a686-431a-ab59-06a008b9e86c",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Phoenix Freshrolls",
+                "team1Abbr": "FF",
+                "team2Name": "Grand Junction Conjunctions",
+                "team2Abbr": "GJC",
+                "team3Name": "Tucson Butchers",
+                "team3Abbr": "TB",
+                "team4Name": "San Francisco Boat Shoes",
+                "team4Abbr": "SFBS",
+                "patternName": "crabs",
+                "description": "Game 7, West League Championship Series",
+                "season": 21,
+                "gameid": "d391de78-265e-4a9b-85ca-c4cdd4c11470",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Mobile Wheels",
+                "team2Abbr": "MW",
+                "team3Name": "Baltimore Piano Tuners",
+                "team3Abbr": "BPT",
+                "team4Name": "Louisville Illusionists",
+                "team4Abbr": "LIL",
+                "patternName": "quadgaussian",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "92ba3ebd-41c6-4943-b2b6-091a63a652f6",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Francisco Boat Shoes",
+                "team1Abbr": "SFBS",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
+                "team3Name": "Grand Junction Conjunctions",
+                "team3Abbr": "GJC",
+                "team4Name": "Phoenix Freshrolls",
+                "team4Abbr": "FF",
+                "patternName": "rainbowmath",
+                "description": "Game 8, West League Championship Series",
+                "season": 21,
+                "gameid": "0f8767e8-c13a-4b76-957f-5f9bc6b307c1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
+                "team2Name": "Louisville Illusionists",
+                "team2Abbr": "LIL",
+                "team3Name": "Mobile Wheels",
+                "team3Abbr": "MW",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
+                "patternName": "randommethuselahs",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "52e75476-b8d8-4413-a928-89415544ca59",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Grand Junction Conjunctions",
+                "team1Abbr": "GJC",
+                "team2Name": "Phoenix Freshrolls",
+                "team2Abbr": "FF",
+                "team3Name": "Tucson Butchers",
+                "team3Abbr": "TB",
+                "team4Name": "San Francisco Boat Shoes",
+                "team4Abbr": "SFBS",
+                "patternName": "rabbits",
+                "description": "Game 9, West League Championship Series",
+                "season": 21,
+                "gameid": "46cae738-7dc4-4d9d-b5d5-f4551332b237",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "9950f865-fcd1-4ad4-935f-bc8aa5aa8cc5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "9ca04e43-25dd-4ee2-99fc-3b4742c5fcd8",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "14b77075-f33e-4455-ba4e-1e30dac44152",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "e2fa13ed-4906-4734-a992-ffbe2a3f340e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "66e3bf3d-c72f-4047-962c-c86502962141",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "40fe84ff-e5b9-4873-bd0d-5173f444d4ba",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "5d3f2099-08f4-4c21-b546-ed50eed72a5b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "8f2dcbfc-dbd3-425f-80f9-532b15ff9647",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "justyna",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "4a0040bf-4f19-47b9-a07a-4ad82eebd690",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
