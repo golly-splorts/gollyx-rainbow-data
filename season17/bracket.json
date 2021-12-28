@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Milwaukee Flamingos",
+                "team1Abbr": "MILF",
+                "team2Name": "Orlando Business Majors",
+                "team2Abbr": "ORL",
+                "team3Name": "Mobile Wheels",
+                "team3Abbr": "MW",
+                "team4Name": "Jersey OSHA Violations",
+                "team4Abbr": "OSHA",
+                "patternName": "rainbow",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "2bb6503b-d3f9-43a5-b639-c4ab96737d9a",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Seattle Sneakers",
+                "team2Abbr": "SS",
+                "team3Name": "Albuquerque Solarpunks",
+                "team3Abbr": "ABQ",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "sunburst",
+                "description": "Game 1, West League Championship Series",
+                "season": 17,
+                "gameid": "4b48e22f-deaa-4900-a3b8-ea3a8df9167f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Orlando Business Majors",
+                "team1Abbr": "ORL",
+                "team2Name": "Mobile Wheels",
+                "team2Abbr": "MW",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Jersey OSHA Violations",
+                "team4Abbr": "OSHA",
+                "patternName": "rabbits",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "7638911c-b834-4712-aeb3-099747a35222",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Seattle Sneakers",
+                "team1Abbr": "SS",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Vegas Vampires",
+                "team3Abbr": "VV",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "rabbits",
+                "description": "Game 2, West League Championship Series",
+                "season": 17,
+                "gameid": "36175f2d-e37f-48ef-9501-d70728fc1794",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Orlando Business Majors",
+                "team1Abbr": "ORL",
+                "team2Name": "Milwaukee Flamingos",
+                "team2Abbr": "MILF",
+                "team3Name": "Mobile Wheels",
+                "team3Abbr": "MW",
+                "team4Name": "Jersey OSHA Violations",
+                "team4Abbr": "OSHA",
+                "patternName": "rainbowmath",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "8ac19401-6e9b-4ce2-876c-dd73fe22226f",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Seattle Sneakers",
+                "team2Abbr": "SS",
+                "team3Name": "Albuquerque Solarpunks",
+                "team3Abbr": "ABQ",
+                "team4Name": "San Diego Balloon Animals",
+                "team4Abbr": "SDBA",
+                "patternName": "timebombredux",
+                "description": "Game 3, West League Championship Series",
+                "season": 17,
+                "gameid": "8c5c6d5e-739f-4160-903f-1968138369f5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Mobile Wheels",
+                "team1Abbr": "MW",
+                "team2Name": "Jersey OSHA Violations",
+                "team2Abbr": "OSHA",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Orlando Business Majors",
+                "team4Abbr": "ORL",
+                "patternName": "sunburst",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "838125c8-0a5d-4964-96da-4b2d83685b4f",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Albuquerque Solarpunks",
+                "team2Abbr": "ABQ",
+                "team3Name": "Vegas Vampires",
+                "team3Abbr": "VV",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "quadgaussian",
+                "description": "Game 4, West League Championship Series",
+                "season": 17,
+                "gameid": "d1201043-8def-415b-8050-4bf8f3f16743",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Orlando Business Majors",
+                "team1Abbr": "ORL",
+                "team2Name": "Mobile Wheels",
+                "team2Abbr": "MW",
+                "team3Name": "Jersey OSHA Violations",
+                "team3Abbr": "OSHA",
+                "team4Name": "Milwaukee Flamingos",
+                "team4Abbr": "MILF",
+                "patternName": "rainbowmath",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "2315d250-2a8f-4d26-a5e7-6d5d25dad41e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Vegas Vampires",
+                "team2Abbr": "VV",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "random",
+                "description": "Game 5, West League Championship Series",
+                "season": 17,
+                "gameid": "716ce77f-a154-4a1b-9ba6-fbe84090ce77",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Jersey OSHA Violations",
+                "team1Abbr": "OSHA",
+                "team2Name": "Orlando Business Majors",
+                "team2Abbr": "ORL",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Mobile Wheels",
+                "team4Abbr": "MW",
+                "patternName": "rainbow",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "e5397ab1-66b4-4648-9130-d3a515784aef",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Seattle Sneakers",
+                "team1Abbr": "SS",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Albuquerque Solarpunks",
+                "team3Abbr": "ABQ",
+                "team4Name": "Vegas Vampires",
+                "team4Abbr": "VV",
+                "patternName": "rabbits",
+                "description": "Game 6, West League Championship Series",
+                "season": 17,
+                "gameid": "59a9f0f8-a710-4f35-a3d7-86aa239893df",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Jersey OSHA Violations",
+                "team1Abbr": "OSHA",
+                "team2Name": "Orlando Business Majors",
+                "team2Abbr": "ORL",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Mobile Wheels",
+                "team4Abbr": "MW",
+                "patternName": "random",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "e47676fb-7d22-4c5c-8c36-703436346512",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "Albuquerque Solarpunks",
+                "team2Abbr": "ABQ",
+                "team3Name": "San Diego Balloon Animals",
+                "team3Abbr": "SDBA",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "rainbowmath",
+                "description": "Game 7, West League Championship Series",
+                "season": 17,
+                "gameid": "ea81cafa-24ff-452d-a4f1-da706dab81ad",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Mobile Wheels",
+                "team1Abbr": "MW",
+                "team2Name": "Orlando Business Majors",
+                "team2Abbr": "ORL",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Jersey OSHA Violations",
+                "team4Abbr": "OSHA",
+                "patternName": "rabbits",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "0fbcaf74-839b-4e8f-bab4-f4145e6d1194",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "San Diego Balloon Animals",
+                "team1Abbr": "SDBA",
+                "team2Name": "Vegas Vampires",
+                "team2Abbr": "VV",
+                "team3Name": "Seattle Sneakers",
+                "team3Abbr": "SS",
+                "team4Name": "Albuquerque Solarpunks",
+                "team4Abbr": "ABQ",
+                "patternName": "rabbits",
+                "description": "Game 8, West League Championship Series",
+                "season": 17,
+                "gameid": "7a8e20d2-bbad-46d1-a5d5-87464c5bd23f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Mobile Wheels",
+                "team1Abbr": "MW",
+                "team2Name": "Orlando Business Majors",
+                "team2Abbr": "ORL",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Jersey OSHA Violations",
+                "team4Abbr": "OSHA",
+                "patternName": "quadgaussian",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "c316f83e-caec-44db-b888-e7611d5e7b65",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Vegas Vampires",
+                "team1Abbr": "VV",
+                "team2Name": "San Diego Balloon Animals",
+                "team2Abbr": "SDBA",
+                "team3Name": "Albuquerque Solarpunks",
+                "team3Abbr": "ABQ",
+                "team4Name": "Seattle Sneakers",
+                "team4Abbr": "SS",
+                "patternName": "orchard",
+                "description": "Game 9, West League Championship Series",
+                "season": 17,
+                "gameid": "bb207762-9afe-4a60-bc54-e08fce256e8c",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "69e7f844-00e6-42a3-89fb-f86c4f19c75d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "9971f3d4-48d5-4316-a2ef-4281a271e3e9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "fa474e3e-dd4e-4bf2-aad5-181fc3c754e9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "9f2a9b51-eb79-4855-b3aa-6ad41e7d7124",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "08505ea0-f6cb-4d77-9f70-f62dce5446f1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "a0c0f7f4-c13d-4afc-8a8d-6d241b89e0a7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "853f6640-2841-472f-8beb-2cddd5e99ade",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "d18e9c50-e624-4ac6-a6f6-161978ddd843",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "69f85202-8c0d-4440-a2be-07fda7b11c5e",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
