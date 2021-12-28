@@ -2,7 +2,7 @@ import os
 import json
 
 
-LAST_SEASON0 = 15
+LAST_SEASON0 = 23
 
 SERIES_GPD = {"LCS": 2, "RCS": 1}
 
@@ -463,7 +463,8 @@ for iseason in range(LAST_SEASON0 + 1):
     if not os.path.exists(seedfile):
         raise Exception(f"Error: missing file: {seedfile}")
 
-    if iseason >= 0:
+    #if iseason >= 0:
+    if False:
         print("***************************")
         print(f"Now repairing {seedfile}")
 
