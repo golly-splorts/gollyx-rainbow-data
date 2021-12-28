@@ -3,27 +3,29 @@ import os
 import copy
 
 
-WHICH_SEASON0 = 14
-
-
 def main():
+    which = 16
+    fix_season(which)
+
+
+def fix_season(which_season0):
     nteams = 4
 
     loser_abbrs = ['BPT', 'DET']
 
-    postseason_json_file = os.path.join(f'season{WHICH_SEASON0}', 'postseason.json')
+    postseason_json_file = os.path.join(f'season{which_season0}', 'postseason.json')
     if not os.path.exists(postseason_json_file):
         raise Exception(f"Error: could not find json file: {postseason_json_file}")
     with open(postseason_json_file, 'r') as f:
         post = json.load(f)
 
-    teams_json_file = os.path.join(f'season{WHICH_SEASON0}', 'teams.json')
+    teams_json_file = os.path.join(f'season{which_season0}', 'teams.json')
     if not os.path.exists(teams_json_file):
         raise Exception(f"Error: could not find json file: {teams_json_file}")
     with open(teams_json_file, 'r') as f:
         teams = json.load(f)
 
-    new_postseason_json_file = os.path.join(f'season{WHICH_SEASON0}', 'new_postseason.json')
+    new_postseason_json_file = os.path.join(f'season{which_season0}', 'new_postseason.json')
 
     # Start by getting sorted tuples (team, rainbows, points)
     lcs_tup = []
