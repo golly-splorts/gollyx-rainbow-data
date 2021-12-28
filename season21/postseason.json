@@ -3,12 +3,12 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Delaware Corporate Shells",
-                "team1Abbr": "DECO",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
                 "team2Name": "Mobile Wheels",
                 "team2Abbr": "MW",
-                "team3Name": "Baltimore Piano Tuners",
-                "team3Abbr": "BPT",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
                 "team4Name": "Louisville Illusionists",
                 "team4Abbr": "LIL",
                 "description": "Game 1, Unwest League Championship Series",
@@ -39,7 +39,7 @@
                 "team3Rank": 2,
                 "team4Rank": 0,
                 "generations": 4183,
-                "team1Color": "#e8a0e7",
+                "team1Color": "#3e92cc",
                 "team1SeriesW23L": [
                     0,
                     0,
@@ -55,7 +55,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 0,
-                "team3Color": "#3e92cc",
+                "team3Color": "#e8a0e7",
                 "team3SeriesW23L": [
                     0,
                     0,
@@ -153,10 +153,10 @@
                 "team1Abbr": "LIL",
                 "team2Name": "Mobile Wheels",
                 "team2Abbr": "MW",
-                "team3Name": "Baltimore Piano Tuners",
-                "team3Abbr": "BPT",
-                "team4Name": "Delaware Corporate Shells",
-                "team4Abbr": "DECO",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
                 "description": "Game 2, Unwest League Championship Series",
                 "season": 21,
                 "gameid": "95b06223-ddf0-4e00-a5c5-b9656be8bea3",
@@ -201,7 +201,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 106,
-                "team3Color": "#3e92cc",
+                "team3Color": "#e8a0e7",
                 "team3SeriesW23L": [
                     0,
                     0,
@@ -209,7 +209,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 87,
-                "team4Color": "#e8a0e7",
+                "team4Color": "#3e92cc",
                 "team4SeriesW23L": [
                     0,
                     0,
@@ -297,12 +297,12 @@
                 "league": "Unwest League",
                 "team1Name": "Louisville Illusionists",
                 "team1Abbr": "LIL",
-                "team2Name": "Delaware Corporate Shells",
-                "team2Abbr": "DECO",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
                 "team3Name": "Mobile Wheels",
                 "team3Abbr": "MW",
-                "team4Name": "Baltimore Piano Tuners",
-                "team4Abbr": "BPT",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
                 "description": "Game 3, Unwest League Championship Series",
                 "season": 21,
                 "gameid": "b1c8bf3b-6987-4a56-8b72-c1d027d3aa09",
@@ -339,7 +339,7 @@
                     1
                 ],
                 "team1SeriesTotalPoints": 485,
-                "team2Color": "#e8a0e7",
+                "team2Color": "#3e92cc",
                 "team2SeriesW23L": [
                     0,
                     1,
@@ -355,7 +355,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 449,
-                "team4Color": "#3e92cc",
+                "team4Color": "#e8a0e7",
                 "team4SeriesW23L": [
                     0,
                     0,
@@ -441,12 +441,12 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Delaware Corporate Shells",
-                "team1Abbr": "DECO",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
                 "team2Name": "Louisville Illusionists",
                 "team2Abbr": "LIL",
-                "team3Name": "Baltimore Piano Tuners",
-                "team3Abbr": "BPT",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
                 "team4Name": "Mobile Wheels",
                 "team4Abbr": "MW",
                 "description": "Game 4, Unwest League Championship Series",
@@ -477,7 +477,7 @@
                 "team3Rank": 3,
                 "team4Rank": 2,
                 "generations": 5635,
-                "team1Color": "#e8a0e7",
+                "team1Color": "#3e92cc",
                 "team1SeriesW23L": [
                     0,
                     1,
@@ -493,7 +493,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 859,
-                "team3Color": "#3e92cc",
+                "team3Color": "#e8a0e7",
                 "team3SeriesW23L": [
                     0,
                     1,
@@ -589,12 +589,12 @@
                 "league": "Unwest League",
                 "team1Name": "Louisville Illusionists",
                 "team1Abbr": "LIL",
-                "team2Name": "Baltimore Piano Tuners",
-                "team2Abbr": "BPT",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
                 "team3Name": "Mobile Wheels",
                 "team3Abbr": "MW",
-                "team4Name": "Delaware Corporate Shells",
-                "team4Abbr": "DECO",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
                 "description": "Game 5, Unwest League Championship Series",
                 "season": 21,
                 "gameid": "24b5c932-55e1-4757-9a8c-ef692676abae",
@@ -631,7 +631,7 @@
                     1
                 ],
                 "team1SeriesTotalPoints": 1031,
-                "team2Color": "#3e92cc",
+                "team2Color": "#e8a0e7",
                 "team2SeriesW23L": [
                     0,
                     1,
@@ -647,7 +647,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 506,
-                "team4Color": "#e8a0e7",
+                "team4Color": "#3e92cc",
                 "team4SeriesW23L": [
                     1,
                     1,
@@ -733,14 +733,14 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Baltimore Piano Tuners",
-                "team1Abbr": "BPT",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
                 "team2Name": "Louisville Illusionists",
                 "team2Abbr": "LIL",
                 "team3Name": "Mobile Wheels",
                 "team3Abbr": "MW",
-                "team4Name": "Delaware Corporate Shells",
-                "team4Abbr": "DECO",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
                 "description": "Game 6, Unwest League Championship Series",
                 "season": 21,
                 "gameid": "126c0bdc-5ec4-4a5b-b108-6e894ac98347",
@@ -769,7 +769,7 @@
                 "team3Rank": 2,
                 "team4Rank": 3,
                 "generations": 2704,
-                "team1Color": "#3e92cc",
+                "team1Color": "#e8a0e7",
                 "team1SeriesW23L": [
                     0,
                     1,
@@ -793,7 +793,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 659,
-                "team4Color": "#e8a0e7",
+                "team4Color": "#3e92cc",
                 "team4SeriesW23L": [
                     1,
                     1,
@@ -881,12 +881,12 @@
                 "league": "Unwest League",
                 "team1Name": "Mobile Wheels",
                 "team1Abbr": "MW",
-                "team2Name": "Baltimore Piano Tuners",
-                "team2Abbr": "BPT",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
                 "team3Name": "Louisville Illusionists",
                 "team3Abbr": "LIL",
-                "team4Name": "Delaware Corporate Shells",
-                "team4Abbr": "DECO",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
                 "description": "Game 7, Unwest League Championship Series",
                 "season": 21,
                 "gameid": "008a9d46-a686-431a-ab59-06a008b9e86c",
@@ -923,7 +923,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 796,
-                "team2Color": "#3e92cc",
+                "team2Color": "#e8a0e7",
                 "team2SeriesW23L": [
                     1,
                     1,
@@ -939,7 +939,7 @@
                     1
                 ],
                 "team3SeriesTotalPoints": 1466,
-                "team4Color": "#e8a0e7",
+                "team4Color": "#3e92cc",
                 "team4SeriesW23L": [
                     1,
                     1,
@@ -1025,12 +1025,12 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Delaware Corporate Shells",
-                "team1Abbr": "DECO",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
                 "team2Name": "Mobile Wheels",
                 "team2Abbr": "MW",
-                "team3Name": "Baltimore Piano Tuners",
-                "team3Abbr": "BPT",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
                 "team4Name": "Louisville Illusionists",
                 "team4Abbr": "LIL",
                 "description": "Game 8, Unwest League Championship Series",
@@ -1061,7 +1061,7 @@
                 "team3Rank": 0,
                 "team4Rank": 2,
                 "generations": 5381,
-                "team1Color": "#e8a0e7",
+                "team1Color": "#3e92cc",
                 "team1SeriesW23L": [
                     1,
                     1,
@@ -1077,7 +1077,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 920,
-                "team3Color": "#3e92cc",
+                "team3Color": "#e8a0e7",
                 "team3SeriesW23L": [
                     2,
                     1,
@@ -1171,14 +1171,14 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Delaware Corporate Shells",
-                "team1Abbr": "DECO",
+                "team1Name": "Baltimore Piano Tuners",
+                "team1Abbr": "BPT",
                 "team2Name": "Louisville Illusionists",
                 "team2Abbr": "LIL",
                 "team3Name": "Mobile Wheels",
                 "team3Abbr": "MW",
-                "team4Name": "Baltimore Piano Tuners",
-                "team4Abbr": "BPT",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
                 "description": "Game 9, Unwest League Championship Series",
                 "season": 21,
                 "gameid": "52e75476-b8d8-4413-a928-89415544ca59",
@@ -1207,7 +1207,7 @@
                 "team3Rank": 2,
                 "team4Rank": 0,
                 "generations": 2390,
-                "team1Color": "#e8a0e7",
+                "team1Color": "#3e92cc",
                 "team1SeriesW23L": [
                     1,
                     2,
@@ -1231,7 +1231,7 @@
                     1
                 ],
                 "team3SeriesTotalPoints": 927,
-                "team4Color": "#3e92cc",
+                "team4Color": "#e8a0e7",
                 "team4SeriesW23L": [
                     3,
                     1,
@@ -1322,8 +1322,8 @@
                 "team1Abbr": "GJC",
                 "team2Name": "Louisville Illusionists",
                 "team2Abbr": "LIL",
-                "team3Name": "Baltimore Piano Tuners",
-                "team3Abbr": "BPT",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
                 "team4Name": "San Francisco Boat Shoes",
                 "team4Abbr": "SFBS",
                 "description": "Game 1, Rainbow Cup Series",
@@ -1370,7 +1370,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 0,
-                "team3Color": "#3e92cc",
+                "team3Color": "#e8a0e7",
                 "team3SeriesW23L": [
                     0,
                     0,
@@ -1393,8 +1393,8 @@
             {
                 "team1Name": "Grand Junction Conjunctions",
                 "team1Abbr": "GJC",
-                "team2Name": "Baltimore Piano Tuners",
-                "team2Abbr": "BPT",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
                 "team3Name": "Louisville Illusionists",
                 "team3Abbr": "LIL",
                 "team4Name": "San Francisco Boat Shoes",
@@ -1435,7 +1435,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 4,
-                "team2Color": "#3e92cc",
+                "team2Color": "#e8a0e7",
                 "team2SeriesW23L": [
                     0,
                     1,
@@ -1470,8 +1470,8 @@
                 "team2Abbr": "GJC",
                 "team3Name": "San Francisco Boat Shoes",
                 "team3Abbr": "SFBS",
-                "team4Name": "Baltimore Piano Tuners",
-                "team4Abbr": "BPT",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
                 "description": "Game 3, Rainbow Cup Series",
                 "season": 21,
                 "gameid": "14b77075-f33e-4455-ba4e-1e30dac44152",
@@ -1524,7 +1524,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 680,
-                "team4Color": "#3e92cc",
+                "team4Color": "#e8a0e7",
                 "team4SeriesW23L": [
                     1,
                     1,
@@ -1537,8 +1537,8 @@
         ],
         [
             {
-                "team1Name": "Baltimore Piano Tuners",
-                "team1Abbr": "BPT",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
                 "team2Name": "Louisville Illusionists",
                 "team2Abbr": "LIL",
                 "team3Name": "Grand Junction Conjunctions",
@@ -1573,7 +1573,7 @@
                 "team3Rank": 0,
                 "team4Rank": 3,
                 "generations": 3939,
-                "team1Color": "#3e92cc",
+                "team1Color": "#e8a0e7",
                 "team1SeriesW23L": [
                     1,
                     1,
@@ -1616,8 +1616,8 @@
                 "team2Abbr": "LIL",
                 "team3Name": "Grand Junction Conjunctions",
                 "team3Abbr": "GJC",
-                "team4Name": "Baltimore Piano Tuners",
-                "team4Abbr": "BPT",
+                "team4Name": "Delaware Corporate Shells",
+                "team4Abbr": "DECO",
                 "description": "Game 5, Rainbow Cup Series",
                 "season": 21,
                 "gameid": "66e3bf3d-c72f-4047-962c-c86502962141",
@@ -1670,7 +1670,7 @@
                     1
                 ],
                 "team3SeriesTotalPoints": 743,
-                "team4Color": "#3e92cc",
+                "team4Color": "#e8a0e7",
                 "team4SeriesW23L": [
                     1,
                     2,
@@ -1683,8 +1683,8 @@
         ],
         [
             {
-                "team1Name": "Baltimore Piano Tuners",
-                "team1Abbr": "BPT",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
                 "team2Name": "San Francisco Boat Shoes",
                 "team2Abbr": "SFBS",
                 "team3Name": "Grand Junction Conjunctions",
@@ -1719,7 +1719,7 @@
                 "team3Rank": 1,
                 "team4Rank": 0,
                 "generations": 2379,
-                "team1Color": "#3e92cc",
+                "team1Color": "#e8a0e7",
                 "team1SeriesW23L": [
                     2,
                     2,
@@ -1758,8 +1758,8 @@
             {
                 "team1Name": "San Francisco Boat Shoes",
                 "team1Abbr": "SFBS",
-                "team2Name": "Baltimore Piano Tuners",
-                "team2Abbr": "BPT",
+                "team2Name": "Delaware Corporate Shells",
+                "team2Abbr": "DECO",
                 "team3Name": "Grand Junction Conjunctions",
                 "team3Abbr": "GJC",
                 "team4Name": "Louisville Illusionists",
@@ -1800,7 +1800,7 @@
                     1
                 ],
                 "team1SeriesTotalPoints": 1018,
-                "team2Color": "#3e92cc",
+                "team2Color": "#e8a0e7",
                 "team2SeriesW23L": [
                     2,
                     2,
@@ -1829,8 +1829,8 @@
         ],
         [
             {
-                "team1Name": "Baltimore Piano Tuners",
-                "team1Abbr": "BPT",
+                "team1Name": "Delaware Corporate Shells",
+                "team1Abbr": "DECO",
                 "team2Name": "Louisville Illusionists",
                 "team2Abbr": "LIL",
                 "team3Name": "Grand Junction Conjunctions",
@@ -1865,7 +1865,7 @@
                 "team3Rank": 2,
                 "team4Rank": 1,
                 "generations": 6489,
-                "team1Color": "#3e92cc",
+                "team1Color": "#e8a0e7",
                 "team1SeriesW23L": [
                     3,
                     2,
@@ -1906,8 +1906,8 @@
                 "team1Abbr": "SFBS",
                 "team2Name": "Grand Junction Conjunctions",
                 "team2Abbr": "GJC",
-                "team3Name": "Baltimore Piano Tuners",
-                "team3Abbr": "BPT",
+                "team3Name": "Delaware Corporate Shells",
+                "team3Abbr": "DECO",
                 "team4Name": "Louisville Illusionists",
                 "team4Abbr": "LIL",
                 "description": "Game 9, Rainbow Cup Series",
@@ -1954,7 +1954,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 1291,
-                "team3Color": "#3e92cc",
+                "team3Color": "#e8a0e7",
                 "team3SeriesW23L": [
                     3,
                     2,

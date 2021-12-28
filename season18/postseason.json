@@ -3,10 +3,10 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Fargo Flea Flickers",
-                "team1Abbr": "FFF",
-                "team2Name": "Detroit Grape Chews",
-                "team2Abbr": "DET",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
                 "team3Name": "Sugar Grove Eavesdroppers",
                 "team3Abbr": "SGE",
                 "team4Name": "Alewife Arsonists",
@@ -39,7 +39,7 @@
                 "team3Rank": 3,
                 "team4Rank": 0,
                 "generations": 3008,
-                "team1Color": "#daed20",
+                "team1Color": "#9963ab",
                 "team1SeriesW23L": [
                     0,
                     0,
@@ -47,7 +47,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 0,
-                "team2Color": "#9963ab",
+                "team2Color": "#daed20",
                 "team2SeriesW23L": [
                     0,
                     0,
@@ -153,10 +153,10 @@
                 "team1Abbr": "AA",
                 "team2Name": "Sugar Grove Eavesdroppers",
                 "team2Abbr": "SGE",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
-                "team4Name": "Fargo Flea Flickers",
-                "team4Abbr": "FFF",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
+                "team4Name": "Detroit Grape Chews",
+                "team4Abbr": "DET",
                 "description": "Game 2, Unwest League Championship Series",
                 "season": 18,
                 "gameid": "420397b5-5dd3-4a9c-a38c-c82661a072da",
@@ -201,7 +201,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 4,
-                "team3Color": "#9963ab",
+                "team3Color": "#daed20",
                 "team3SeriesW23L": [
                     0,
                     1,
@@ -209,7 +209,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 109,
-                "team4Color": "#daed20",
+                "team4Color": "#9963ab",
                 "team4SeriesW23L": [
                     0,
                     0,
@@ -299,10 +299,10 @@
                 "team1Abbr": "SGE",
                 "team2Name": "Alewife Arsonists",
                 "team2Abbr": "AA",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
-                "team4Name": "Fargo Flea Flickers",
-                "team4Abbr": "FFF",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
+                "team4Name": "Detroit Grape Chews",
+                "team4Abbr": "DET",
                 "description": "Game 3, Unwest League Championship Series",
                 "season": 18,
                 "gameid": "a21f612e-fe4f-4b90-9fd9-16e2d25fc26b",
@@ -347,7 +347,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 547,
-                "team3Color": "#9963ab",
+                "team3Color": "#daed20",
                 "team3SeriesW23L": [
                     0,
                     1,
@@ -355,7 +355,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 174,
-                "team4Color": "#daed20",
+                "team4Color": "#9963ab",
                 "team4SeriesW23L": [
                     0,
                     0,
@@ -441,12 +441,12 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Detroit Grape Chews",
-                "team1Abbr": "DET",
+                "team1Name": "Fargo Flea Flickers",
+                "team1Abbr": "FFF",
                 "team2Name": "Sugar Grove Eavesdroppers",
                 "team2Abbr": "SGE",
-                "team3Name": "Fargo Flea Flickers",
-                "team3Abbr": "FFF",
+                "team3Name": "Detroit Grape Chews",
+                "team3Abbr": "DET",
                 "team4Name": "Alewife Arsonists",
                 "team4Abbr": "AA",
                 "description": "Game 4, Unwest League Championship Series",
@@ -477,7 +477,7 @@
                 "team3Rank": 2,
                 "team4Rank": 3,
                 "generations": 4957,
-                "team1Color": "#9963ab",
+                "team1Color": "#daed20",
                 "team1SeriesW23L": [
                     0,
                     1,
@@ -493,7 +493,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 721,
-                "team3Color": "#daed20",
+                "team3Color": "#9963ab",
                 "team3SeriesW23L": [
                     0,
                     1,
@@ -589,10 +589,10 @@
                 "league": "Unwest League",
                 "team1Name": "Alewife Arsonists",
                 "team1Abbr": "AA",
-                "team2Name": "Fargo Flea Flickers",
-                "team2Abbr": "FFF",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
                 "team4Name": "Sugar Grove Eavesdroppers",
                 "team4Abbr": "SGE",
                 "description": "Game 5, Unwest League Championship Series",
@@ -631,7 +631,7 @@
                     2
                 ],
                 "team1SeriesTotalPoints": 625,
-                "team2Color": "#daed20",
+                "team2Color": "#9963ab",
                 "team2SeriesW23L": [
                     0,
                     1,
@@ -639,7 +639,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 318,
-                "team3Color": "#9963ab",
+                "team3Color": "#daed20",
                 "team3SeriesW23L": [
                     0,
                     2,
@@ -735,10 +735,10 @@
                 "league": "Unwest League",
                 "team1Name": "Alewife Arsonists",
                 "team1Abbr": "AA",
-                "team2Name": "Fargo Flea Flickers",
-                "team2Abbr": "FFF",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
                 "team4Name": "Sugar Grove Eavesdroppers",
                 "team4Abbr": "SGE",
                 "description": "Game 6, Unwest League Championship Series",
@@ -777,7 +777,7 @@
                     3
                 ],
                 "team1SeriesTotalPoints": 656,
-                "team2Color": "#daed20",
+                "team2Color": "#9963ab",
                 "team2SeriesW23L": [
                     0,
                     1,
@@ -785,7 +785,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 454,
-                "team3Color": "#9963ab",
+                "team3Color": "#daed20",
                 "team3SeriesW23L": [
                     0,
                     3,
@@ -881,10 +881,10 @@
                 "league": "Unwest League",
                 "team1Name": "Sugar Grove Eavesdroppers",
                 "team1Abbr": "SGE",
-                "team2Name": "Fargo Flea Flickers",
-                "team2Abbr": "FFF",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
+                "team2Name": "Detroit Grape Chews",
+                "team2Abbr": "DET",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
                 "team4Name": "Alewife Arsonists",
                 "team4Abbr": "AA",
                 "description": "Game 7, Unwest League Championship Series",
@@ -923,7 +923,7 @@
                     1
                 ],
                 "team1SeriesTotalPoints": 1387,
-                "team2Color": "#daed20",
+                "team2Color": "#9963ab",
                 "team2SeriesW23L": [
                     0,
                     1,
@@ -931,7 +931,7 @@
                     2
                 ],
                 "team2SeriesTotalPoints": 477,
-                "team3Color": "#9963ab",
+                "team3Color": "#daed20",
                 "team3SeriesW23L": [
                     1,
                     3,
@@ -1029,10 +1029,10 @@
                 "team1Abbr": "SGE",
                 "team2Name": "Alewife Arsonists",
                 "team2Abbr": "AA",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
-                "team4Name": "Fargo Flea Flickers",
-                "team4Abbr": "FFF",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
+                "team4Name": "Detroit Grape Chews",
+                "team4Abbr": "DET",
                 "description": "Game 8, Unwest League Championship Series",
                 "season": 18,
                 "gameid": "7a9aca05-9846-48f3-b89d-8399e0942684",
@@ -1077,7 +1077,7 @@
                     3
                 ],
                 "team2SeriesTotalPoints": 1130,
-                "team3Color": "#9963ab",
+                "team3Color": "#daed20",
                 "team3SeriesW23L": [
                     1,
                     3,
@@ -1085,7 +1085,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 886,
-                "team4Color": "#daed20",
+                "team4Color": "#9963ab",
                 "team4SeriesW23L": [
                     0,
                     2,
@@ -1171,12 +1171,12 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Fargo Flea Flickers",
-                "team1Abbr": "FFF",
+                "team1Name": "Detroit Grape Chews",
+                "team1Abbr": "DET",
                 "team2Name": "Sugar Grove Eavesdroppers",
                 "team2Abbr": "SGE",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
                 "team4Name": "Alewife Arsonists",
                 "team4Abbr": "AA",
                 "description": "Game 9, Unwest League Championship Series",
@@ -1207,7 +1207,7 @@
                 "team3Rank": 2,
                 "team4Rank": 3,
                 "generations": 3624,
-                "team1Color": "#daed20",
+                "team1Color": "#9963ab",
                 "team1SeriesW23L": [
                     0,
                     2,
@@ -1223,7 +1223,7 @@
                     2
                 ],
                 "team2SeriesTotalPoints": 1806,
-                "team3Color": "#9963ab",
+                "team3Color": "#daed20",
                 "team3SeriesW23L": [
                     1,
                     3,
@@ -1322,8 +1322,8 @@
                 "team1Abbr": "SGE",
                 "team2Name": "Grand Junction Conjunctions",
                 "team2Abbr": "GJC",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
                 "team4Name": "San Diego Balloon Animals",
                 "team4Abbr": "SDBA",
                 "description": "Game 1, Rainbow Cup Series",
@@ -1370,7 +1370,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 0,
-                "team3Color": "#9963ab",
+                "team3Color": "#daed20",
                 "team3SeriesW23L": [
                     0,
                     0,
@@ -1397,8 +1397,8 @@
                 "team2Abbr": "SDBA",
                 "team3Name": "Sugar Grove Eavesdroppers",
                 "team3Abbr": "SGE",
-                "team4Name": "Detroit Grape Chews",
-                "team4Abbr": "DET",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
                 "description": "Game 2, Rainbow Cup Series",
                 "season": 18,
                 "gameid": "9bd7ca23-d668-4a83-a5bd-ee553d8c1086",
@@ -1451,7 +1451,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 48,
-                "team4Color": "#9963ab",
+                "team4Color": "#daed20",
                 "team4SeriesW23L": [
                     0,
                     0,
@@ -1468,8 +1468,8 @@
                 "team1Abbr": "SDBA",
                 "team2Name": "Grand Junction Conjunctions",
                 "team2Abbr": "GJC",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
                 "team4Name": "Sugar Grove Eavesdroppers",
                 "team4Abbr": "SGE",
                 "description": "Game 3, Rainbow Cup Series",
@@ -1516,7 +1516,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 273,
-                "team3Color": "#9963ab",
+                "team3Color": "#daed20",
                 "team3SeriesW23L": [
                     0,
                     0,
@@ -1539,8 +1539,8 @@
             {
                 "team1Name": "Sugar Grove Eavesdroppers",
                 "team1Abbr": "SGE",
-                "team2Name": "Detroit Grape Chews",
-                "team2Abbr": "DET",
+                "team2Name": "Fargo Flea Flickers",
+                "team2Abbr": "FFF",
                 "team3Name": "San Diego Balloon Animals",
                 "team3Abbr": "SDBA",
                 "team4Name": "Grand Junction Conjunctions",
@@ -1581,7 +1581,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 483,
-                "team2Color": "#9963ab",
+                "team2Color": "#daed20",
                 "team2SeriesW23L": [
                     0,
                     0,
@@ -1614,8 +1614,8 @@
                 "team1Abbr": "GJC",
                 "team2Name": "San Diego Balloon Animals",
                 "team2Abbr": "SDBA",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
                 "team4Name": "Sugar Grove Eavesdroppers",
                 "team4Abbr": "SGE",
                 "description": "Game 5, Rainbow Cup Series",
@@ -1662,7 +1662,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 901,
-                "team3Color": "#9963ab",
+                "team3Color": "#daed20",
                 "team3SeriesW23L": [
                     0,
                     0,
@@ -1683,8 +1683,8 @@
         ],
         [
             {
-                "team1Name": "Detroit Grape Chews",
-                "team1Abbr": "DET",
+                "team1Name": "Fargo Flea Flickers",
+                "team1Abbr": "FFF",
                 "team2Name": "Grand Junction Conjunctions",
                 "team2Abbr": "GJC",
                 "team3Name": "Sugar Grove Eavesdroppers",
@@ -1719,7 +1719,7 @@
                 "team3Rank": 2,
                 "team4Rank": 0,
                 "generations": 2434,
-                "team1Color": "#9963ab",
+                "team1Color": "#daed20",
                 "team1SeriesW23L": [
                     0,
                     0,
@@ -1762,8 +1762,8 @@
                 "team2Abbr": "SGE",
                 "team3Name": "Grand Junction Conjunctions",
                 "team3Abbr": "GJC",
-                "team4Name": "Detroit Grape Chews",
-                "team4Abbr": "DET",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
                 "description": "Game 7, Rainbow Cup Series",
                 "season": 18,
                 "gameid": "2e771009-1519-4bba-9ef7-4a1ce7bcc95b",
@@ -1816,7 +1816,7 @@
                     4
                 ],
                 "team3SeriesTotalPoints": 633,
-                "team4Color": "#9963ab",
+                "team4Color": "#daed20",
                 "team4SeriesW23L": [
                     0,
                     1,
@@ -1833,8 +1833,8 @@
                 "team1Abbr": "SDBA",
                 "team2Name": "Sugar Grove Eavesdroppers",
                 "team2Abbr": "SGE",
-                "team3Name": "Detroit Grape Chews",
-                "team3Abbr": "DET",
+                "team3Name": "Fargo Flea Flickers",
+                "team3Abbr": "FFF",
                 "team4Name": "Grand Junction Conjunctions",
                 "team4Abbr": "GJC",
                 "description": "Game 8, Rainbow Cup Series",
@@ -1881,7 +1881,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 1332,
-                "team3Color": "#9963ab",
+                "team3Color": "#daed20",
                 "team3SeriesW23L": [
                     0,
                     2,
@@ -1908,8 +1908,8 @@
                 "team2Abbr": "SGE",
                 "team3Name": "San Diego Balloon Animals",
                 "team3Abbr": "SDBA",
-                "team4Name": "Detroit Grape Chews",
-                "team4Abbr": "DET",
+                "team4Name": "Fargo Flea Flickers",
+                "team4Abbr": "FFF",
                 "description": "Game 9, Rainbow Cup Series",
                 "season": 18,
                 "gameid": "77db5a6a-878e-4fba-b327-d63fec727dc8",
@@ -1962,7 +1962,7 @@
                     1
                 ],
                 "team3SeriesTotalPoints": 1595,
-                "team4Color": "#9963ab",
+                "team4Color": "#daed20",
                 "team4SeriesW23L": [
                     0,
                     2,

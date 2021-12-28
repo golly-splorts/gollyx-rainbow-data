@@ -5,12 +5,12 @@
                 "league": "Unwest League",
                 "team1Name": "Delaware Corporate Shells",
                 "team1Abbr": "DECO",
-                "team2Name": "Baltimore Piano Tuners",
-                "team2Abbr": "BPT",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team2Abbr": "SGE",
                 "team3Name": "Alewife Arsonists",
                 "team3Abbr": "AA",
-                "team4Name": "Sugar Grove Eavesdroppers",
-                "team4Abbr": "SGE",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
                 "description": "Game 1, Unwest League Championship Series",
                 "season": 16,
                 "gameid": "0b35bbbb-40fd-4277-ab79-eb7a7ae7e605",
@@ -47,7 +47,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 0,
-                "team2Color": "#3e92cc",
+                "team2Color": "#fefe67",
                 "team2SeriesW23L": [
                     0,
                     0,
@@ -63,7 +63,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 0,
-                "team4Color": "#fefe67",
+                "team4Color": "#3e92cc",
                 "team4SeriesW23L": [
                     0,
                     0,
@@ -149,14 +149,14 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Baltimore Piano Tuners",
-                "team1Abbr": "BPT",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
                 "team2Name": "Delaware Corporate Shells",
                 "team2Abbr": "DECO",
                 "team3Name": "Alewife Arsonists",
                 "team3Abbr": "AA",
-                "team4Name": "Sugar Grove Eavesdroppers",
-                "team4Abbr": "SGE",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
                 "description": "Game 2, Unwest League Championship Series",
                 "season": 16,
                 "gameid": "be259c5e-118d-4623-adf8-5ac83c2c5573",
@@ -185,7 +185,7 @@
                 "team3Rank": 3,
                 "team4Rank": 1,
                 "generations": 3601,
-                "team1Color": "#3e92cc",
+                "team1Color": "#fefe67",
                 "team1SeriesW23L": [
                     1,
                     0,
@@ -209,7 +209,7 @@
                     1
                 ],
                 "team3SeriesTotalPoints": 0,
-                "team4Color": "#fefe67",
+                "team4Color": "#3e92cc",
                 "team4SeriesW23L": [
                     0,
                     0,
@@ -297,10 +297,10 @@
                 "league": "Unwest League",
                 "team1Name": "Delaware Corporate Shells",
                 "team1Abbr": "DECO",
-                "team2Name": "Sugar Grove Eavesdroppers",
-                "team2Abbr": "SGE",
-                "team3Name": "Baltimore Piano Tuners",
-                "team3Abbr": "BPT",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
                 "team4Name": "Alewife Arsonists",
                 "team4Abbr": "AA",
                 "description": "Game 3, Unwest League Championship Series",
@@ -339,7 +339,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 256,
-                "team2Color": "#fefe67",
+                "team2Color": "#3e92cc",
                 "team2SeriesW23L": [
                     0,
                     1,
@@ -347,7 +347,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 312,
-                "team3Color": "#3e92cc",
+                "team3Color": "#fefe67",
                 "team3SeriesW23L": [
                     2,
                     0,
@@ -441,14 +441,14 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Baltimore Piano Tuners",
-                "team1Abbr": "BPT",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
                 "team2Name": "Delaware Corporate Shells",
                 "team2Abbr": "DECO",
                 "team3Name": "Alewife Arsonists",
                 "team3Abbr": "AA",
-                "team4Name": "Sugar Grove Eavesdroppers",
-                "team4Abbr": "SGE",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
                 "description": "Game 4, Unwest League Championship Series",
                 "season": 16,
                 "gameid": "31792a1c-cd28-416c-88ce-e090a4509311",
@@ -477,7 +477,7 @@
                 "team3Rank": 3,
                 "team4Rank": 1,
                 "generations": 4131,
-                "team1Color": "#3e92cc",
+                "team1Color": "#fefe67",
                 "team1SeriesW23L": [
                     2,
                     0,
@@ -501,7 +501,7 @@
                     2
                 ],
                 "team3SeriesTotalPoints": 189,
-                "team4Color": "#fefe67",
+                "team4Color": "#3e92cc",
                 "team4SeriesW23L": [
                     0,
                     1,
@@ -589,10 +589,10 @@
                 "league": "Unwest League",
                 "team1Name": "Alewife Arsonists",
                 "team1Abbr": "AA",
-                "team2Name": "Sugar Grove Eavesdroppers",
-                "team2Abbr": "SGE",
-                "team3Name": "Baltimore Piano Tuners",
-                "team3Abbr": "BPT",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
                 "team4Name": "Delaware Corporate Shells",
                 "team4Abbr": "DECO",
                 "description": "Game 5, Unwest League Championship Series",
@@ -631,7 +631,7 @@
                     3
                 ],
                 "team1SeriesTotalPoints": 261,
-                "team2Color": "#fefe67",
+                "team2Color": "#3e92cc",
                 "team2SeriesW23L": [
                     0,
                     2,
@@ -639,7 +639,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 596,
-                "team3Color": "#3e92cc",
+                "team3Color": "#fefe67",
                 "team3SeriesW23L": [
                     3,
                     0,
@@ -735,12 +735,12 @@
                 "league": "Unwest League",
                 "team1Name": "Alewife Arsonists",
                 "team1Abbr": "AA",
-                "team2Name": "Baltimore Piano Tuners",
-                "team2Abbr": "BPT",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team2Abbr": "SGE",
                 "team3Name": "Delaware Corporate Shells",
                 "team3Abbr": "DECO",
-                "team4Name": "Sugar Grove Eavesdroppers",
-                "team4Abbr": "SGE",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
                 "description": "Game 6, Unwest League Championship Series",
                 "season": 16,
                 "gameid": "0aca8ff9-5d7a-4af0-9be1-d75920c8c2e6",
@@ -777,7 +777,7 @@
                     3
                 ],
                 "team1SeriesTotalPoints": 627,
-                "team2Color": "#3e92cc",
+                "team2Color": "#fefe67",
                 "team2SeriesW23L": [
                     3,
                     0,
@@ -793,7 +793,7 @@
                     1
                 ],
                 "team3SeriesTotalPoints": 679,
-                "team4Color": "#fefe67",
+                "team4Color": "#3e92cc",
                 "team4SeriesW23L": [
                     0,
                     3,
@@ -879,14 +879,14 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Baltimore Piano Tuners",
-                "team1Abbr": "BPT",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
                 "team2Name": "Alewife Arsonists",
                 "team2Abbr": "AA",
                 "team3Name": "Delaware Corporate Shells",
                 "team3Abbr": "DECO",
-                "team4Name": "Sugar Grove Eavesdroppers",
-                "team4Abbr": "SGE",
+                "team4Name": "Baltimore Piano Tuners",
+                "team4Abbr": "BPT",
                 "description": "Game 7, Unwest League Championship Series",
                 "season": 16,
                 "gameid": "44d9c565-29e0-445b-981f-79055aa06895",
@@ -915,7 +915,7 @@
                 "team3Rank": 3,
                 "team4Rank": 1,
                 "generations": 2195,
-                "team1Color": "#3e92cc",
+                "team1Color": "#fefe67",
                 "team1SeriesW23L": [
                     3,
                     0,
@@ -939,7 +939,7 @@
                     1
                 ],
                 "team3SeriesTotalPoints": 991,
-                "team4Color": "#fefe67",
+                "team4Color": "#3e92cc",
                 "team4SeriesW23L": [
                     0,
                     4,
@@ -1027,10 +1027,10 @@
                 "league": "Unwest League",
                 "team1Name": "Delaware Corporate Shells",
                 "team1Abbr": "DECO",
-                "team2Name": "Sugar Grove Eavesdroppers",
-                "team2Abbr": "SGE",
-                "team3Name": "Baltimore Piano Tuners",
-                "team3Abbr": "BPT",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
                 "team4Name": "Alewife Arsonists",
                 "team4Abbr": "AA",
                 "description": "Game 8, Unwest League Championship Series",
@@ -1069,7 +1069,7 @@
                     2
                 ],
                 "team1SeriesTotalPoints": 1046,
-                "team2Color": "#fefe67",
+                "team2Color": "#3e92cc",
                 "team2SeriesW23L": [
                     0,
                     5,
@@ -1077,7 +1077,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 1013,
-                "team3Color": "#3e92cc",
+                "team3Color": "#fefe67",
                 "team3SeriesW23L": [
                     4,
                     0,
@@ -1171,10 +1171,10 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Baltimore Piano Tuners",
-                "team1Abbr": "BPT",
-                "team2Name": "Sugar Grove Eavesdroppers",
-                "team2Abbr": "SGE",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
+                "team2Name": "Baltimore Piano Tuners",
+                "team2Abbr": "BPT",
                 "team3Name": "Delaware Corporate Shells",
                 "team3Abbr": "DECO",
                 "team4Name": "Alewife Arsonists",
@@ -1207,7 +1207,7 @@
                 "team3Rank": 0,
                 "team4Rank": 1,
                 "generations": 3383,
-                "team1Color": "#3e92cc",
+                "team1Color": "#fefe67",
                 "team1SeriesW23L": [
                     4,
                     0,
@@ -1215,7 +1215,7 @@
                     2
                 ],
                 "team1SeriesTotalPoints": 1440,
-                "team2Color": "#fefe67",
+                "team2Color": "#3e92cc",
                 "team2SeriesW23L": [
                     0,
                     5,
@@ -1318,8 +1318,8 @@
     "RCS": [
         [
             {
-                "team1Name": "Baltimore Piano Tuners",
-                "team1Abbr": "BPT",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
                 "team2Name": "San Francisco Boat Shoes",
                 "team2Abbr": "SFBS",
                 "team3Name": "Seattle Sneakers",
@@ -1354,7 +1354,7 @@
                 "team3Rank": 1,
                 "team4Rank": 3,
                 "generations": 3304,
-                "team1Color": "#3e92cc",
+                "team1Color": "#fefe67",
                 "team1SeriesW23L": [
                     0,
                     0,
@@ -1395,8 +1395,8 @@
                 "team1Abbr": "SFBS",
                 "team2Name": "Delaware Corporate Shells",
                 "team2Abbr": "DECO",
-                "team3Name": "Baltimore Piano Tuners",
-                "team3Abbr": "BPT",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
                 "team4Name": "Seattle Sneakers",
                 "team4Abbr": "SS",
                 "description": "Game 2, Rainbow Cup Series",
@@ -1443,7 +1443,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 22,
-                "team3Color": "#3e92cc",
+                "team3Color": "#fefe67",
                 "team3SeriesW23L": [
                     1,
                     0,
@@ -1468,8 +1468,8 @@
                 "team1Abbr": "DECO",
                 "team2Name": "San Francisco Boat Shoes",
                 "team2Abbr": "SFBS",
-                "team3Name": "Baltimore Piano Tuners",
-                "team3Abbr": "BPT",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
                 "team4Name": "Seattle Sneakers",
                 "team4Abbr": "SS",
                 "description": "Game 3, Rainbow Cup Series",
@@ -1516,7 +1516,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 218,
-                "team3Color": "#3e92cc",
+                "team3Color": "#fefe67",
                 "team3SeriesW23L": [
                     1,
                     1,
@@ -1541,8 +1541,8 @@
                 "team1Abbr": "SFBS",
                 "team2Name": "Seattle Sneakers",
                 "team2Abbr": "SS",
-                "team3Name": "Baltimore Piano Tuners",
-                "team3Abbr": "BPT",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
                 "team4Name": "Delaware Corporate Shells",
                 "team4Abbr": "DECO",
                 "description": "Game 4, Rainbow Cup Series",
@@ -1589,7 +1589,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 467,
-                "team3Color": "#3e92cc",
+                "team3Color": "#fefe67",
                 "team3SeriesW23L": [
                     1,
                     1,
@@ -1612,8 +1612,8 @@
             {
                 "team1Name": "Delaware Corporate Shells",
                 "team1Abbr": "DECO",
-                "team2Name": "Baltimore Piano Tuners",
-                "team2Abbr": "BPT",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team2Abbr": "SGE",
                 "team3Name": "San Francisco Boat Shoes",
                 "team3Abbr": "SFBS",
                 "team4Name": "Seattle Sneakers",
@@ -1654,7 +1654,7 @@
                     4
                 ],
                 "team1SeriesTotalPoints": 118,
-                "team2Color": "#3e92cc",
+                "team2Color": "#fefe67",
                 "team2SeriesW23L": [
                     2,
                     1,
@@ -1687,8 +1687,8 @@
                 "team1Abbr": "SS",
                 "team2Name": "Delaware Corporate Shells",
                 "team2Abbr": "DECO",
-                "team3Name": "Baltimore Piano Tuners",
-                "team3Abbr": "BPT",
+                "team3Name": "Sugar Grove Eavesdroppers",
+                "team3Abbr": "SGE",
                 "team4Name": "San Francisco Boat Shoes",
                 "team4Abbr": "SFBS",
                 "description": "Game 6, Rainbow Cup Series",
@@ -1735,7 +1735,7 @@
                     4
                 ],
                 "team2SeriesTotalPoints": 304,
-                "team3Color": "#3e92cc",
+                "team3Color": "#fefe67",
                 "team3SeriesW23L": [
                     3,
                     1,
@@ -1762,8 +1762,8 @@
                 "team2Abbr": "DECO",
                 "team3Name": "San Francisco Boat Shoes",
                 "team3Abbr": "SFBS",
-                "team4Name": "Baltimore Piano Tuners",
-                "team4Abbr": "BPT",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
                 "description": "Game 7, Rainbow Cup Series",
                 "season": 16,
                 "gameid": "d8242fdb-ab60-4b96-b676-e8def1b7c469",
@@ -1816,7 +1816,7 @@
                     1
                 ],
                 "team3SeriesTotalPoints": 682,
-                "team4Color": "#3e92cc",
+                "team4Color": "#fefe67",
                 "team4SeriesW23L": [
                     4,
                     1,
@@ -1835,8 +1835,8 @@
                 "team2Abbr": "SS",
                 "team3Name": "San Francisco Boat Shoes",
                 "team3Abbr": "SFBS",
-                "team4Name": "Baltimore Piano Tuners",
-                "team4Abbr": "BPT",
+                "team4Name": "Sugar Grove Eavesdroppers",
+                "team4Abbr": "SGE",
                 "description": "Game 8, Rainbow Cup Series",
                 "season": 16,
                 "gameid": "9be517d8-f989-4732-a6b2-4bd60eaf0c38",
@@ -1889,7 +1889,7 @@
                     1
                 ],
                 "team3SeriesTotalPoints": 744,
-                "team4Color": "#3e92cc",
+                "team4Color": "#fefe67",
                 "team4SeriesW23L": [
                     4,
                     2,
@@ -1902,8 +1902,8 @@
         ],
         [
             {
-                "team1Name": "Baltimore Piano Tuners",
-                "team1Abbr": "BPT",
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "SGE",
                 "team2Name": "Delaware Corporate Shells",
                 "team2Abbr": "DECO",
                 "team3Name": "Seattle Sneakers",
@@ -1938,7 +1938,7 @@
                 "team3Rank": 1,
                 "team4Rank": 2,
                 "generations": 2502,
-                "team1Color": "#3e92cc",
+                "team1Color": "#fefe67",
                 "team1SeriesW23L": [
                     4,
                     2,
