@@ -1,12 +1,12 @@
 [
     [
         {
-            "team1Name": "Fargo Flea Flickers",
-            "team1Abbr": "FFF",
+            "team1Name": "Milwaukee Flamingos",
+            "team1Abbr": "MILF",
             "team2Name": "Detroit Grape Chews",
             "team2Abbr": "DET",
-            "team3Name": "Milwaukee Flamingos",
-            "team3Abbr": "MILF",
+            "team3Name": "Fargo Flea Flickers",
+            "team3Abbr": "FFF",
             "team4Name": "Baltimore Piano Tuners",
             "team4Abbr": "BPT",
             "patternName": "patiolights",
@@ -15,9 +15,9 @@
             "day": 0,
             "gameid": "b1323b05-52fa-4502-b382-deef39a9cb35",
             "isPostseason": false,
-            "team1Color": "#daed20",
+            "team1Color": "#ff66cc",
             "team2Color": "#9963ab",
-            "team3Color": "#ff66cc",
+            "team3Color": "#daed20",
             "team4Color": "#3e92cc"
         },
         {
@@ -101,34 +101,34 @@
             "team4Color": "#ffb627"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team1Abbr": "SDBA",
+            "team1Name": "Tucson Butchers",
+            "team1Abbr": "TB",
             "team2Name": "Phoenix Freshrolls",
             "team2Abbr": "FF",
             "team3Name": "Long Beach Flightless Birds",
             "team3Abbr": "LBFB",
-            "team4Name": "Tucson Butchers",
-            "team4Abbr": "TB",
+            "team4Name": "San Diego Balloon Animals",
+            "team4Abbr": "SDBA",
             "patternName": "multum",
             "league": "West League",
             "season": 18,
             "day": 0,
             "gameid": "b332f6d6-0324-4884-9691-106e8e16d89e",
             "isPostseason": false,
-            "team1Color": "#f08700",
+            "team1Color": "#bb0000",
             "team2Color": "#b0b0b0",
             "team3Color": "#f2c57c",
-            "team4Color": "#bb0000"
+            "team4Color": "#f08700"
         }
     ],
     [
         {
             "team1Name": "Detroit Grape Chews",
             "team1Abbr": "DET",
-            "team2Name": "Milwaukee Flamingos",
-            "team2Abbr": "MILF",
-            "team3Name": "Fargo Flea Flickers",
-            "team3Abbr": "FFF",
+            "team2Name": "Fargo Flea Flickers",
+            "team2Abbr": "FFF",
+            "team3Name": "Milwaukee Flamingos",
+            "team3Abbr": "MILF",
             "team4Name": "Baltimore Piano Tuners",
             "team4Abbr": "BPT",
             "patternName": "patiolights",
@@ -138,8 +138,8 @@
             "gameid": "9dcd669a-a41b-4de8-9ebe-39604c07c6e3",
             "isPostseason": false,
             "team1Color": "#9963ab",
-            "team2Color": "#ff66cc",
-            "team3Color": "#daed20",
+            "team2Color": "#daed20",
+            "team3Color": "#ff66cc",
             "team4Color": "#3e92cc"
         },
         {
@@ -223,10 +223,10 @@
             "team4Color": "#e86215"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team1Abbr": "TB",
-            "team2Name": "San Diego Balloon Animals",
-            "team2Abbr": "SDBA",
+            "team1Name": "San Diego Balloon Animals",
+            "team1Abbr": "SDBA",
+            "team2Name": "Tucson Butchers",
+            "team2Abbr": "TB",
             "team3Name": "Phoenix Freshrolls",
             "team3Abbr": "FF",
             "team4Name": "Long Beach Flightless Birds",
@@ -237,20 +237,20 @@
             "day": 1,
             "gameid": "26c89a94-4aef-4bfd-b869-9fd660a54193",
             "isPostseason": false,
-            "team1Color": "#bb0000",
-            "team2Color": "#f08700",
+            "team1Color": "#f08700",
+            "team2Color": "#bb0000",
             "team3Color": "#b0b0b0",
             "team4Color": "#f2c57c"
         }
     ],
     [
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team1Abbr": "MILF",
+            "team1Name": "Fargo Flea Flickers",
+            "team1Abbr": "FFF",
             "team2Name": "Detroit Grape Chews",
             "team2Abbr": "DET",
-            "team3Name": "Fargo Flea Flickers",
-            "team3Abbr": "FFF",
+            "team3Name": "Milwaukee Flamingos",
+            "team3Abbr": "MILF",
             "team4Name": "Baltimore Piano Tuners",
             "team4Abbr": "BPT",
             "patternName": "justyna",
@@ -259,9 +259,9 @@
             "day": 2,
             "gameid": "e0005b95-f0b4-43f5-85a0-7a53afda3a28",
             "isPostseason": false,
-            "team1Color": "#ff66cc",
+            "team1Color": "#daed20",
             "team2Color": "#9963ab",
-            "team3Color": "#daed20",
+            "team3Color": "#ff66cc",
             "team4Color": "#3e92cc"
         },
         {
@@ -345,24 +345,24 @@
             "team4Color": "#e86215"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team1Abbr": "SDBA",
+            "team1Name": "Tucson Butchers",
+            "team1Abbr": "TB",
             "team2Name": "Long Beach Flightless Birds",
             "team2Abbr": "LBFB",
             "team3Name": "Phoenix Freshrolls",
             "team3Abbr": "FF",
-            "team4Name": "Tucson Butchers",
-            "team4Abbr": "TB",
+            "team4Name": "San Diego Balloon Animals",
+            "team4Abbr": "SDBA",
             "patternName": "rabbits",
             "league": "West League",
             "season": 18,
             "day": 2,
             "gameid": "c66c0cd3-9ce2-429d-9fd7-512a5b93c45c",
             "isPostseason": false,
-            "team1Color": "#f08700",
+            "team1Color": "#bb0000",
             "team2Color": "#f2c57c",
             "team3Color": "#b0b0b0",
-            "team4Color": "#bb0000"
+            "team4Color": "#f08700"
         }
     ],
     [
@@ -391,8 +391,8 @@
             "team1Abbr": "BB",
             "team2Name": "Baltimore Piano Tuners",
             "team2Abbr": "BPT",
-            "team3Name": "Fargo Flea Flickers",
-            "team3Abbr": "FFF",
+            "team3Name": "Milwaukee Flamingos",
+            "team3Abbr": "MILF",
             "team4Name": "Sugar Grove Eavesdroppers",
             "team4Abbr": "SGE",
             "patternName": "randommethuselahs",
@@ -403,7 +403,7 @@
             "isPostseason": false,
             "team1Color": "#697a21",
             "team2Color": "#3e92cc",
-            "team3Color": "#daed20",
+            "team3Color": "#ff66cc",
             "team4Color": "#fefe67"
         },
         {
@@ -413,8 +413,8 @@
             "team2Abbr": "DET",
             "team3Name": "Alewife Arsonists",
             "team3Abbr": "AA",
-            "team4Name": "Milwaukee Flamingos",
-            "team4Abbr": "MILF",
+            "team4Name": "Fargo Flea Flickers",
+            "team4Abbr": "FFF",
             "patternName": "orchard",
             "league": "Unwest League",
             "season": 18,
@@ -424,7 +424,7 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#9963ab",
             "team3Color": "#ff1717",
-            "team4Color": "#ff66cc"
+            "team4Color": "#daed20"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -467,12 +467,12 @@
             "team4Color": "#ffb627"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team1Abbr": "TB",
+            "team1Name": "San Diego Balloon Animals",
+            "team1Abbr": "SDBA",
             "team2Name": "Vegas Vampires",
             "team2Abbr": "VV",
-            "team3Name": "San Diego Balloon Animals",
-            "team3Abbr": "SDBA",
+            "team3Name": "Tucson Butchers",
+            "team3Abbr": "TB",
             "team4Name": "Phoenix Freshrolls",
             "team4Abbr": "FF",
             "patternName": "randommethuselahs",
@@ -481,16 +481,16 @@
             "day": 3,
             "gameid": "2ec458bc-0010-482f-b139-40cc08e7368d",
             "isPostseason": false,
-            "team1Color": "#bb0000",
+            "team1Color": "#f08700",
             "team2Color": "#aa8040",
-            "team3Color": "#f08700",
+            "team3Color": "#bb0000",
             "team4Color": "#b0b0b0"
         }
     ],
     [
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team1Abbr": "MILF",
+            "team1Name": "Fargo Flea Flickers",
+            "team1Abbr": "FFF",
             "team2Name": "Louisville Illusionists",
             "team2Abbr": "LIL",
             "team3Name": "Sugar Grove Eavesdroppers",
@@ -503,7 +503,7 @@
             "day": 4,
             "gameid": "f2b82ccb-e74f-4d2c-a198-78140c342cf3",
             "isPostseason": false,
-            "team1Color": "#ff66cc",
+            "team1Color": "#daed20",
             "team2Color": "#ef6f6c",
             "team3Color": "#fefe67",
             "team4Color": "#53917e"
@@ -515,8 +515,8 @@
             "team2Abbr": "BPT",
             "team3Name": "Alewife Arsonists",
             "team3Abbr": "AA",
-            "team4Name": "Fargo Flea Flickers",
-            "team4Abbr": "FFF",
+            "team4Name": "Milwaukee Flamingos",
+            "team4Abbr": "MILF",
             "patternName": "patiolights",
             "league": "Unwest League",
             "season": 18,
@@ -526,7 +526,7 @@
             "team1Color": "#0dab76",
             "team2Color": "#3e92cc",
             "team3Color": "#ff1717",
-            "team4Color": "#daed20"
+            "team4Color": "#ff66cc"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -549,8 +549,8 @@
             "team4Color": "#6060bb"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team1Abbr": "TB",
+            "team1Name": "San Diego Balloon Animals",
+            "team1Abbr": "SDBA",
             "team2Name": "San Francisco Boat Shoes",
             "team2Abbr": "SFBS",
             "team3Name": "Phoenix Freshrolls",
@@ -563,7 +563,7 @@
             "day": 4,
             "gameid": "e23a7a45-a4ab-454e-801b-631ad60f5c35",
             "isPostseason": false,
-            "team1Color": "#bb0000",
+            "team1Color": "#f08700",
             "team2Color": "#e7d7c1",
             "team3Color": "#b0b0b0",
             "team4Color": "#aa8040"
@@ -591,8 +591,8 @@
         {
             "team1Name": "Long Beach Flightless Birds",
             "team1Abbr": "LBFB",
-            "team2Name": "San Diego Balloon Animals",
-            "team2Abbr": "SDBA",
+            "team2Name": "Tucson Butchers",
+            "team2Abbr": "TB",
             "team3Name": "Grand Junction Conjunctions",
             "team3Abbr": "GJC",
             "team4Name": "Elko Astronauts",
@@ -604,7 +604,7 @@
             "gameid": "9e8b9eb4-5c15-4d66-baaa-09c29543154d",
             "isPostseason": false,
             "team1Color": "#f2c57c",
-            "team2Color": "#f08700",
+            "team2Color": "#bb0000",
             "team3Color": "#8080ff",
             "team4Color": "#a0e7e5"
         }
@@ -635,8 +635,8 @@
             "team1Abbr": "AA",
             "team2Name": "Baltimore Piano Tuners",
             "team2Abbr": "BPT",
-            "team3Name": "Fargo Flea Flickers",
-            "team3Abbr": "FFF",
+            "team3Name": "Milwaukee Flamingos",
+            "team3Abbr": "MILF",
             "team4Name": "Boylston Boogers",
             "team4Abbr": "BB",
             "patternName": "random",
@@ -647,14 +647,14 @@
             "isPostseason": false,
             "team1Color": "#ff1717",
             "team2Color": "#3e92cc",
-            "team3Color": "#daed20",
+            "team3Color": "#ff66cc",
             "team4Color": "#697a21"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team1Abbr": "DET",
-            "team2Name": "Milwaukee Flamingos",
-            "team2Abbr": "MILF",
+            "team2Name": "Fargo Flea Flickers",
+            "team2Abbr": "FFF",
             "team3Name": "Sugar Grove Eavesdroppers",
             "team3Abbr": "SGE",
             "team4Name": "Mobile Wheels",
@@ -666,7 +666,7 @@
             "gameid": "1a5c269e-ba3b-446e-be6a-e74eca928c4f",
             "isPostseason": false,
             "team1Color": "#9963ab",
-            "team2Color": "#ff66cc",
+            "team2Color": "#daed20",
             "team3Color": "#fefe67",
             "team4Color": "#6060bb"
         },
@@ -693,12 +693,12 @@
         {
             "team1Name": "Vegas Vampires",
             "team1Abbr": "VV",
-            "team2Name": "Tucson Butchers",
-            "team2Abbr": "TB",
+            "team2Name": "San Diego Balloon Animals",
+            "team2Abbr": "SDBA",
             "team3Name": "Albuquerque Solarpunks",
             "team3Abbr": "ABQ",
-            "team4Name": "San Diego Balloon Animals",
-            "team4Abbr": "SDBA",
+            "team4Name": "Tucson Butchers",
+            "team4Abbr": "TB",
             "patternName": "orchard",
             "league": "West League",
             "season": 18,
@@ -706,9 +706,9 @@
             "gameid": "851049f0-0716-4b68-b572-9faca506854e",
             "isPostseason": false,
             "team1Color": "#aa8040",
-            "team2Color": "#bb0000",
+            "team2Color": "#f08700",
             "team3Color": "#d41199",
-            "team4Color": "#f08700"
+            "team4Color": "#bb0000"
         },
         {
             "team1Name": "Grand Junction Conjunctions",
@@ -737,10 +737,10 @@
             "team1Abbr": "DET",
             "team2Name": "Baltimore Piano Tuners",
             "team2Abbr": "BPT",
-            "team3Name": "Fargo Flea Flickers",
-            "team3Abbr": "FFF",
-            "team4Name": "Milwaukee Flamingos",
-            "team4Abbr": "MILF",
+            "team3Name": "Milwaukee Flamingos",
+            "team3Abbr": "MILF",
+            "team4Name": "Fargo Flea Flickers",
+            "team4Abbr": "FFF",
             "patternName": "orchard",
             "league": "Unwest League",
             "season": 18,
@@ -749,8 +749,8 @@
             "isPostseason": false,
             "team1Color": "#9963ab",
             "team2Color": "#3e92cc",
-            "team3Color": "#daed20",
-            "team4Color": "#ff66cc"
+            "team3Color": "#ff66cc",
+            "team4Color": "#daed20"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -833,34 +833,34 @@
             "team4Color": "#aa8040"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team1Abbr": "SDBA",
+            "team1Name": "Tucson Butchers",
+            "team1Abbr": "TB",
             "team2Name": "Long Beach Flightless Birds",
             "team2Abbr": "LBFB",
             "team3Name": "Phoenix Freshrolls",
             "team3Abbr": "FF",
-            "team4Name": "Tucson Butchers",
-            "team4Abbr": "TB",
+            "team4Name": "San Diego Balloon Animals",
+            "team4Abbr": "SDBA",
             "patternName": "patiolights",
             "league": "West League",
             "season": 18,
             "day": 6,
             "gameid": "25a31a4d-6ada-44ae-b71a-046517e7987e",
             "isPostseason": false,
-            "team1Color": "#f08700",
+            "team1Color": "#bb0000",
             "team2Color": "#f2c57c",
             "team3Color": "#b0b0b0",
-            "team4Color": "#bb0000"
+            "team4Color": "#f08700"
         }
     ],
     [
         {
-            "team1Name": "Fargo Flea Flickers",
-            "team1Abbr": "FFF",
+            "team1Name": "Milwaukee Flamingos",
+            "team1Abbr": "MILF",
             "team2Name": "Detroit Grape Chews",
             "team2Abbr": "DET",
-            "team3Name": "Milwaukee Flamingos",
-            "team3Abbr": "MILF",
+            "team3Name": "Fargo Flea Flickers",
+            "team3Abbr": "FFF",
             "team4Name": "Baltimore Piano Tuners",
             "team4Abbr": "BPT",
             "patternName": "multum",
@@ -869,9 +869,9 @@
             "day": 7,
             "gameid": "c762d30d-8de4-4de0-8a9a-fa55318a177b",
             "isPostseason": false,
-            "team1Color": "#daed20",
+            "team1Color": "#ff66cc",
             "team2Color": "#9963ab",
-            "team3Color": "#ff66cc",
+            "team3Color": "#daed20",
             "team4Color": "#3e92cc"
         },
         {
@@ -955,34 +955,34 @@
             "team4Color": "#e86215"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team1Abbr": "TB",
+            "team1Name": "San Diego Balloon Animals",
+            "team1Abbr": "SDBA",
             "team2Name": "Phoenix Freshrolls",
             "team2Abbr": "FF",
             "team3Name": "Long Beach Flightless Birds",
             "team3Abbr": "LBFB",
-            "team4Name": "San Diego Balloon Animals",
-            "team4Abbr": "SDBA",
+            "team4Name": "Tucson Butchers",
+            "team4Abbr": "TB",
             "patternName": "timebomb",
             "league": "West League",
             "season": 18,
             "day": 7,
             "gameid": "21eadd57-38ab-4799-8559-a2001ff7714b",
             "isPostseason": false,
-            "team1Color": "#bb0000",
+            "team1Color": "#f08700",
             "team2Color": "#b0b0b0",
             "team3Color": "#f2c57c",
-            "team4Color": "#f08700"
+            "team4Color": "#bb0000"
         }
     ],
     [
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team1Abbr": "MILF",
+            "team1Name": "Fargo Flea Flickers",
+            "team1Abbr": "FFF",
             "team2Name": "Baltimore Piano Tuners",
             "team2Abbr": "BPT",
-            "team3Name": "Fargo Flea Flickers",
-            "team3Abbr": "FFF",
+            "team3Name": "Milwaukee Flamingos",
+            "team3Abbr": "MILF",
             "team4Name": "Detroit Grape Chews",
             "team4Abbr": "DET",
             "patternName": "justyna",
@@ -991,9 +991,9 @@
             "day": 8,
             "gameid": "00498e7a-6e95-425e-9f2f-f50430a1881d",
             "isPostseason": false,
-            "team1Color": "#ff66cc",
+            "team1Color": "#daed20",
             "team2Color": "#3e92cc",
-            "team3Color": "#daed20",
+            "team3Color": "#ff66cc",
             "team4Color": "#9963ab"
         },
         {
@@ -1077,12 +1077,12 @@
             "team4Color": "#ffb627"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team1Abbr": "TB",
+            "team1Name": "San Diego Balloon Animals",
+            "team1Abbr": "SDBA",
             "team2Name": "Phoenix Freshrolls",
             "team2Abbr": "FF",
-            "team3Name": "San Diego Balloon Animals",
-            "team3Abbr": "SDBA",
+            "team3Name": "Tucson Butchers",
+            "team3Abbr": "TB",
             "team4Name": "Long Beach Flightless Birds",
             "team4Abbr": "LBFB",
             "patternName": "crabs",
@@ -1091,9 +1091,9 @@
             "day": 8,
             "gameid": "3282691a-7b32-4211-be72-6f9b0d307549",
             "isPostseason": false,
-            "team1Color": "#bb0000",
+            "team1Color": "#f08700",
             "team2Color": "#b0b0b0",
-            "team3Color": "#f08700",
+            "team3Color": "#bb0000",
             "team4Color": "#f2c57c"
         }
     ]

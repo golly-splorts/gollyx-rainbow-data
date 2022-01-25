@@ -5,8 +5,8 @@
                 "league": "Unwest League",
                 "team1Name": "Detroit Grape Chews",
                 "team1Abbr": "DET",
-                "team2Name": "Fargo Flea Flickers",
-                "team2Abbr": "FFF",
+                "team2Name": "Milwaukee Flamingos",
+                "team2Abbr": "MILF",
                 "team3Name": "Sugar Grove Eavesdroppers",
                 "team3Abbr": "SGE",
                 "team4Name": "Alewife Arsonists",
@@ -47,7 +47,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 0,
-                "team2Color": "#daed20",
+                "team2Color": "#ff66cc",
                 "team2SeriesW23L": [
                     0,
                     0,
@@ -81,8 +81,8 @@
                 "team2Abbr": "SFBS",
                 "team3Name": "Grand Junction Conjunctions",
                 "team3Abbr": "GJC",
-                "team4Name": "San Diego Balloon Animals",
-                "team4Abbr": "SDBA",
+                "team4Name": "Tucson Butchers",
+                "team4Abbr": "TB",
                 "description": "Game 1, West League Championship Series",
                 "season": 18,
                 "gameid": "8673f7b5-88e2-4cfe-a732-0336c52f9eb3",
@@ -135,7 +135,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 0,
-                "team4Color": "#f08700",
+                "team4Color": "#bb0000",
                 "team4SeriesW23L": [
                     0,
                     0,
@@ -153,8 +153,8 @@
                 "team1Abbr": "AA",
                 "team2Name": "Sugar Grove Eavesdroppers",
                 "team2Abbr": "SGE",
-                "team3Name": "Fargo Flea Flickers",
-                "team3Abbr": "FFF",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
                 "team4Name": "Detroit Grape Chews",
                 "team4Abbr": "DET",
                 "description": "Game 2, Unwest League Championship Series",
@@ -201,7 +201,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 4,
-                "team3Color": "#daed20",
+                "team3Color": "#ff66cc",
                 "team3SeriesW23L": [
                     0,
                     1,
@@ -223,8 +223,8 @@
                 "league": "West League",
                 "team1Name": "Vegas Vampires",
                 "team1Abbr": "VV",
-                "team2Name": "San Diego Balloon Animals",
-                "team2Abbr": "SDBA",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
                 "team3Name": "Grand Junction Conjunctions",
                 "team3Abbr": "GJC",
                 "team4Name": "San Francisco Boat Shoes",
@@ -265,7 +265,7 @@
                     1
                 ],
                 "team1SeriesTotalPoints": 0,
-                "team2Color": "#f08700",
+                "team2Color": "#bb0000",
                 "team2SeriesW23L": [
                     0,
                     1,
@@ -299,8 +299,8 @@
                 "team1Abbr": "SGE",
                 "team2Name": "Alewife Arsonists",
                 "team2Abbr": "AA",
-                "team3Name": "Fargo Flea Flickers",
-                "team3Abbr": "FFF",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
                 "team4Name": "Detroit Grape Chews",
                 "team4Abbr": "DET",
                 "description": "Game 3, Unwest League Championship Series",
@@ -347,7 +347,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 547,
-                "team3Color": "#daed20",
+                "team3Color": "#ff66cc",
                 "team3SeriesW23L": [
                     0,
                     1,
@@ -369,8 +369,8 @@
                 "league": "West League",
                 "team1Name": "Grand Junction Conjunctions",
                 "team1Abbr": "GJC",
-                "team2Name": "San Diego Balloon Animals",
-                "team2Abbr": "SDBA",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
                 "team3Name": "San Francisco Boat Shoes",
                 "team3Abbr": "SFBS",
                 "team4Name": "Vegas Vampires",
@@ -411,7 +411,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 552,
-                "team2Color": "#f08700",
+                "team2Color": "#bb0000",
                 "team2SeriesW23L": [
                     1,
                     1,
@@ -441,8 +441,8 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Fargo Flea Flickers",
-                "team1Abbr": "FFF",
+                "team1Name": "Milwaukee Flamingos",
+                "team1Abbr": "MILF",
                 "team2Name": "Sugar Grove Eavesdroppers",
                 "team2Abbr": "SGE",
                 "team3Name": "Detroit Grape Chews",
@@ -477,7 +477,7 @@
                 "team3Rank": 2,
                 "team4Rank": 3,
                 "generations": 4957,
-                "team1Color": "#daed20",
+                "team1Color": "#ff66cc",
                 "team1SeriesW23L": [
                     0,
                     1,
@@ -515,8 +515,8 @@
                 "league": "West League",
                 "team1Name": "San Francisco Boat Shoes",
                 "team1Abbr": "SFBS",
-                "team2Name": "San Diego Balloon Animals",
-                "team2Abbr": "SDBA",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
                 "team3Name": "Grand Junction Conjunctions",
                 "team3Abbr": "GJC",
                 "team4Name": "Vegas Vampires",
@@ -557,7 +557,7 @@
                     1
                 ],
                 "team1SeriesTotalPoints": 192,
-                "team2Color": "#f08700",
+                "team2Color": "#bb0000",
                 "team2SeriesW23L": [
                     1,
                     2,
@@ -591,8 +591,8 @@
                 "team1Abbr": "AA",
                 "team2Name": "Detroit Grape Chews",
                 "team2Abbr": "DET",
-                "team3Name": "Fargo Flea Flickers",
-                "team3Abbr": "FFF",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
                 "team4Name": "Sugar Grove Eavesdroppers",
                 "team4Abbr": "SGE",
                 "description": "Game 5, Unwest League Championship Series",
@@ -639,7 +639,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 318,
-                "team3Color": "#daed20",
+                "team3Color": "#ff66cc",
                 "team3SeriesW23L": [
                     0,
                     2,
@@ -659,8 +659,8 @@
             },
             {
                 "league": "West League",
-                "team1Name": "San Diego Balloon Animals",
-                "team1Abbr": "SDBA",
+                "team1Name": "Tucson Butchers",
+                "team1Abbr": "TB",
                 "team2Name": "Grand Junction Conjunctions",
                 "team2Abbr": "GJC",
                 "team3Name": "Vegas Vampires",
@@ -695,7 +695,7 @@
                 "team3Rank": 2,
                 "team4Rank": 1,
                 "generations": 4733,
-                "team1Color": "#f08700",
+                "team1Color": "#bb0000",
                 "team1SeriesW23L": [
                     1,
                     3,
@@ -737,8 +737,8 @@
                 "team1Abbr": "AA",
                 "team2Name": "Detroit Grape Chews",
                 "team2Abbr": "DET",
-                "team3Name": "Fargo Flea Flickers",
-                "team3Abbr": "FFF",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
                 "team4Name": "Sugar Grove Eavesdroppers",
                 "team4Abbr": "SGE",
                 "description": "Game 6, Unwest League Championship Series",
@@ -785,7 +785,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 454,
-                "team3Color": "#daed20",
+                "team3Color": "#ff66cc",
                 "team3SeriesW23L": [
                     0,
                     3,
@@ -807,8 +807,8 @@
                 "league": "West League",
                 "team1Name": "Grand Junction Conjunctions",
                 "team1Abbr": "GJC",
-                "team2Name": "San Diego Balloon Animals",
-                "team2Abbr": "SDBA",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
                 "team3Name": "Vegas Vampires",
                 "team3Abbr": "VV",
                 "team4Name": "San Francisco Boat Shoes",
@@ -849,7 +849,7 @@
                     2
                 ],
                 "team1SeriesTotalPoints": 893,
-                "team2Color": "#f08700",
+                "team2Color": "#bb0000",
                 "team2SeriesW23L": [
                     2,
                     3,
@@ -883,8 +883,8 @@
                 "team1Abbr": "SGE",
                 "team2Name": "Detroit Grape Chews",
                 "team2Abbr": "DET",
-                "team3Name": "Fargo Flea Flickers",
-                "team3Abbr": "FFF",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
                 "team4Name": "Alewife Arsonists",
                 "team4Abbr": "AA",
                 "description": "Game 7, Unwest League Championship Series",
@@ -931,7 +931,7 @@
                     2
                 ],
                 "team2SeriesTotalPoints": 477,
-                "team3Color": "#daed20",
+                "team3Color": "#ff66cc",
                 "team3SeriesW23L": [
                     1,
                     3,
@@ -951,8 +951,8 @@
             },
             {
                 "league": "West League",
-                "team1Name": "San Diego Balloon Animals",
-                "team1Abbr": "SDBA",
+                "team1Name": "Tucson Butchers",
+                "team1Abbr": "TB",
                 "team2Name": "Grand Junction Conjunctions",
                 "team2Abbr": "GJC",
                 "team3Name": "San Francisco Boat Shoes",
@@ -987,7 +987,7 @@
                 "team3Rank": 0,
                 "team4Rank": 1,
                 "generations": 3230,
-                "team1Color": "#f08700",
+                "team1Color": "#bb0000",
                 "team1SeriesW23L": [
                     3,
                     3,
@@ -1029,8 +1029,8 @@
                 "team1Abbr": "SGE",
                 "team2Name": "Alewife Arsonists",
                 "team2Abbr": "AA",
-                "team3Name": "Fargo Flea Flickers",
-                "team3Abbr": "FFF",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
                 "team4Name": "Detroit Grape Chews",
                 "team4Abbr": "DET",
                 "description": "Game 8, Unwest League Championship Series",
@@ -1077,7 +1077,7 @@
                     3
                 ],
                 "team2SeriesTotalPoints": 1130,
-                "team3Color": "#daed20",
+                "team3Color": "#ff66cc",
                 "team3SeriesW23L": [
                     1,
                     3,
@@ -1097,8 +1097,8 @@
             },
             {
                 "league": "West League",
-                "team1Name": "San Diego Balloon Animals",
-                "team1Abbr": "SDBA",
+                "team1Name": "Tucson Butchers",
+                "team1Abbr": "TB",
                 "team2Name": "Grand Junction Conjunctions",
                 "team2Abbr": "GJC",
                 "team3Name": "Vegas Vampires",
@@ -1133,7 +1133,7 @@
                 "team3Rank": 2,
                 "team4Rank": 3,
                 "generations": 3743,
-                "team1Color": "#f08700",
+                "team1Color": "#bb0000",
                 "team1SeriesW23L": [
                     3,
                     3,
@@ -1175,8 +1175,8 @@
                 "team1Abbr": "DET",
                 "team2Name": "Sugar Grove Eavesdroppers",
                 "team2Abbr": "SGE",
-                "team3Name": "Fargo Flea Flickers",
-                "team3Abbr": "FFF",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
                 "team4Name": "Alewife Arsonists",
                 "team4Abbr": "AA",
                 "description": "Game 9, Unwest League Championship Series",
@@ -1223,7 +1223,7 @@
                     2
                 ],
                 "team2SeriesTotalPoints": 1806,
-                "team3Color": "#daed20",
+                "team3Color": "#ff66cc",
                 "team3SeriesW23L": [
                     1,
                     3,
@@ -1249,8 +1249,8 @@
                 "team2Abbr": "VV",
                 "team3Name": "Grand Junction Conjunctions",
                 "team3Abbr": "GJC",
-                "team4Name": "San Diego Balloon Animals",
-                "team4Abbr": "SDBA",
+                "team4Name": "Tucson Butchers",
+                "team4Abbr": "TB",
                 "description": "Game 9, West League Championship Series",
                 "season": 18,
                 "gameid": "f5efb501-1bfc-476e-aa3c-f129f85c1b19",
@@ -1303,7 +1303,7 @@
                     3
                 ],
                 "team3SeriesTotalPoints": 1165,
-                "team4Color": "#f08700",
+                "team4Color": "#bb0000",
                 "team4SeriesW23L": [
                     3,
                     4,
@@ -1322,10 +1322,10 @@
                 "team1Abbr": "SGE",
                 "team2Name": "Grand Junction Conjunctions",
                 "team2Abbr": "GJC",
-                "team3Name": "Fargo Flea Flickers",
-                "team3Abbr": "FFF",
-                "team4Name": "San Diego Balloon Animals",
-                "team4Abbr": "SDBA",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
+                "team4Name": "Tucson Butchers",
+                "team4Abbr": "TB",
                 "description": "Game 1, Rainbow Cup Series",
                 "season": 18,
                 "gameid": "73532f7f-e810-4aa6-ac68-aca5d762038a",
@@ -1370,7 +1370,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 0,
-                "team3Color": "#daed20",
+                "team3Color": "#ff66cc",
                 "team3SeriesW23L": [
                     0,
                     0,
@@ -1378,7 +1378,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 0,
-                "team4Color": "#f08700",
+                "team4Color": "#bb0000",
                 "team4SeriesW23L": [
                     0,
                     0,
@@ -1393,12 +1393,12 @@
             {
                 "team1Name": "Grand Junction Conjunctions",
                 "team1Abbr": "GJC",
-                "team2Name": "San Diego Balloon Animals",
-                "team2Abbr": "SDBA",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
                 "team3Name": "Sugar Grove Eavesdroppers",
                 "team3Abbr": "SGE",
-                "team4Name": "Fargo Flea Flickers",
-                "team4Abbr": "FFF",
+                "team4Name": "Milwaukee Flamingos",
+                "team4Abbr": "MILF",
                 "description": "Game 2, Rainbow Cup Series",
                 "season": 18,
                 "gameid": "9bd7ca23-d668-4a83-a5bd-ee553d8c1086",
@@ -1435,7 +1435,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 195,
-                "team2Color": "#f08700",
+                "team2Color": "#bb0000",
                 "team2SeriesW23L": [
                     1,
                     0,
@@ -1451,7 +1451,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 48,
-                "team4Color": "#daed20",
+                "team4Color": "#ff66cc",
                 "team4SeriesW23L": [
                     0,
                     0,
@@ -1464,12 +1464,12 @@
         ],
         [
             {
-                "team1Name": "San Diego Balloon Animals",
-                "team1Abbr": "SDBA",
+                "team1Name": "Tucson Butchers",
+                "team1Abbr": "TB",
                 "team2Name": "Grand Junction Conjunctions",
                 "team2Abbr": "GJC",
-                "team3Name": "Fargo Flea Flickers",
-                "team3Abbr": "FFF",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
                 "team4Name": "Sugar Grove Eavesdroppers",
                 "team4Abbr": "SGE",
                 "description": "Game 3, Rainbow Cup Series",
@@ -1500,7 +1500,7 @@
                 "team3Rank": 2,
                 "team4Rank": 0,
                 "generations": 3009,
-                "team1Color": "#f08700",
+                "team1Color": "#bb0000",
                 "team1SeriesW23L": [
                     1,
                     1,
@@ -1516,7 +1516,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 273,
-                "team3Color": "#daed20",
+                "team3Color": "#ff66cc",
                 "team3SeriesW23L": [
                     0,
                     0,
@@ -1539,10 +1539,10 @@
             {
                 "team1Name": "Sugar Grove Eavesdroppers",
                 "team1Abbr": "SGE",
-                "team2Name": "Fargo Flea Flickers",
-                "team2Abbr": "FFF",
-                "team3Name": "San Diego Balloon Animals",
-                "team3Abbr": "SDBA",
+                "team2Name": "Milwaukee Flamingos",
+                "team2Abbr": "MILF",
+                "team3Name": "Tucson Butchers",
+                "team3Abbr": "TB",
                 "team4Name": "Grand Junction Conjunctions",
                 "team4Abbr": "GJC",
                 "description": "Game 4, Rainbow Cup Series",
@@ -1581,7 +1581,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 483,
-                "team2Color": "#daed20",
+                "team2Color": "#ff66cc",
                 "team2SeriesW23L": [
                     0,
                     0,
@@ -1589,7 +1589,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 240,
-                "team3Color": "#f08700",
+                "team3Color": "#bb0000",
                 "team3SeriesW23L": [
                     1,
                     2,
@@ -1612,10 +1612,10 @@
             {
                 "team1Name": "Grand Junction Conjunctions",
                 "team1Abbr": "GJC",
-                "team2Name": "San Diego Balloon Animals",
-                "team2Abbr": "SDBA",
-                "team3Name": "Fargo Flea Flickers",
-                "team3Abbr": "FFF",
+                "team2Name": "Tucson Butchers",
+                "team2Abbr": "TB",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
                 "team4Name": "Sugar Grove Eavesdroppers",
                 "team4Abbr": "SGE",
                 "description": "Game 5, Rainbow Cup Series",
@@ -1654,7 +1654,7 @@
                     3
                 ],
                 "team1SeriesTotalPoints": 325,
-                "team2Color": "#f08700",
+                "team2Color": "#bb0000",
                 "team2SeriesW23L": [
                     2,
                     2,
@@ -1662,7 +1662,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 901,
-                "team3Color": "#daed20",
+                "team3Color": "#ff66cc",
                 "team3SeriesW23L": [
                     0,
                     0,
@@ -1683,14 +1683,14 @@
         ],
         [
             {
-                "team1Name": "Fargo Flea Flickers",
-                "team1Abbr": "FFF",
+                "team1Name": "Milwaukee Flamingos",
+                "team1Abbr": "MILF",
                 "team2Name": "Grand Junction Conjunctions",
                 "team2Abbr": "GJC",
                 "team3Name": "Sugar Grove Eavesdroppers",
                 "team3Abbr": "SGE",
-                "team4Name": "San Diego Balloon Animals",
-                "team4Abbr": "SDBA",
+                "team4Name": "Tucson Butchers",
+                "team4Abbr": "TB",
                 "description": "Game 6, Rainbow Cup Series",
                 "season": 18,
                 "gameid": "ed3a6bb6-b1fe-4e5e-be6e-792d33de64a8",
@@ -1719,7 +1719,7 @@
                 "team3Rank": 2,
                 "team4Rank": 0,
                 "generations": 2434,
-                "team1Color": "#daed20",
+                "team1Color": "#ff66cc",
                 "team1SeriesW23L": [
                     0,
                     0,
@@ -1743,7 +1743,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 678,
-                "team4Color": "#f08700",
+                "team4Color": "#bb0000",
                 "team4SeriesW23L": [
                     2,
                     3,
@@ -1756,14 +1756,14 @@
         ],
         [
             {
-                "team1Name": "San Diego Balloon Animals",
-                "team1Abbr": "SDBA",
+                "team1Name": "Tucson Butchers",
+                "team1Abbr": "TB",
                 "team2Name": "Sugar Grove Eavesdroppers",
                 "team2Abbr": "SGE",
                 "team3Name": "Grand Junction Conjunctions",
                 "team3Abbr": "GJC",
-                "team4Name": "Fargo Flea Flickers",
-                "team4Abbr": "FFF",
+                "team4Name": "Milwaukee Flamingos",
+                "team4Abbr": "MILF",
                 "description": "Game 7, Rainbow Cup Series",
                 "season": 18,
                 "gameid": "2e771009-1519-4bba-9ef7-4a1ce7bcc95b",
@@ -1792,7 +1792,7 @@
                 "team3Rank": 2,
                 "team4Rank": 1,
                 "generations": 8030,
-                "team1Color": "#f08700",
+                "team1Color": "#bb0000",
                 "team1SeriesW23L": [
                     3,
                     3,
@@ -1816,7 +1816,7 @@
                     4
                 ],
                 "team3SeriesTotalPoints": 633,
-                "team4Color": "#daed20",
+                "team4Color": "#ff66cc",
                 "team4SeriesW23L": [
                     0,
                     1,
@@ -1829,12 +1829,12 @@
         ],
         [
             {
-                "team1Name": "San Diego Balloon Animals",
-                "team1Abbr": "SDBA",
+                "team1Name": "Tucson Butchers",
+                "team1Abbr": "TB",
                 "team2Name": "Sugar Grove Eavesdroppers",
                 "team2Abbr": "SGE",
-                "team3Name": "Fargo Flea Flickers",
-                "team3Abbr": "FFF",
+                "team3Name": "Milwaukee Flamingos",
+                "team3Abbr": "MILF",
                 "team4Name": "Grand Junction Conjunctions",
                 "team4Abbr": "GJC",
                 "description": "Game 8, Rainbow Cup Series",
@@ -1865,7 +1865,7 @@
                 "team3Rank": 3,
                 "team4Rank": 1,
                 "generations": 4518,
-                "team1Color": "#f08700",
+                "team1Color": "#bb0000",
                 "team1SeriesW23L": [
                     3,
                     3,
@@ -1881,7 +1881,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 1332,
-                "team3Color": "#daed20",
+                "team3Color": "#ff66cc",
                 "team3SeriesW23L": [
                     0,
                     2,
@@ -1906,10 +1906,10 @@
                 "team1Abbr": "GJC",
                 "team2Name": "Sugar Grove Eavesdroppers",
                 "team2Abbr": "SGE",
-                "team3Name": "San Diego Balloon Animals",
-                "team3Abbr": "SDBA",
-                "team4Name": "Fargo Flea Flickers",
-                "team4Abbr": "FFF",
+                "team3Name": "Tucson Butchers",
+                "team3Abbr": "TB",
+                "team4Name": "Milwaukee Flamingos",
+                "team4Abbr": "MILF",
                 "description": "Game 9, Rainbow Cup Series",
                 "season": 18,
                 "gameid": "77db5a6a-878e-4fba-b327-d63fec727dc8",
@@ -1954,7 +1954,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 1561,
-                "team3Color": "#f08700",
+                "team3Color": "#bb0000",
                 "team3SeriesW23L": [
                     3,
                     3,
@@ -1962,7 +1962,7 @@
                     1
                 ],
                 "team3SeriesTotalPoints": 1595,
-                "team4Color": "#daed20",
+                "team4Color": "#ff66cc",
                 "team4SeriesW23L": [
                     0,
                     2,
