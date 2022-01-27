@@ -12,7 +12,7 @@
                 "team4Name": "Jersey OSHA Violations",
                 "team4Abbr": "OSHA",
                 "description": "Game 1, Unwest League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "2bb6503b-d3f9-43a5-b639-c4ab96737d9a",
                 "isPostseason": true,
                 "map": {
@@ -84,7 +84,7 @@
                 "team4Name": "San Diego Balloon Animals",
                 "team4Abbr": "SDBA",
                 "description": "Game 1, West League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "4b48e22f-deaa-4900-a3b8-ea3a8df9167f",
                 "isPostseason": true,
                 "map": {
@@ -158,7 +158,7 @@
                 "team4Name": "Jersey OSHA Violations",
                 "team4Abbr": "OSHA",
                 "description": "Game 2, Unwest League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "7638911c-b834-4712-aeb3-099747a35222",
                 "isPostseason": true,
                 "map": {
@@ -230,7 +230,7 @@
                 "team4Name": "Albuquerque Solarpunks",
                 "team4Abbr": "ABQ",
                 "description": "Game 2, West League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "36175f2d-e37f-48ef-9501-d70728fc1794",
                 "isPostseason": true,
                 "map": {
@@ -304,7 +304,7 @@
                 "team4Name": "Jersey OSHA Violations",
                 "team4Abbr": "OSHA",
                 "description": "Game 3, Unwest League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "8ac19401-6e9b-4ce2-876c-dd73fe22226f",
                 "isPostseason": true,
                 "map": {
@@ -376,7 +376,7 @@
                 "team4Name": "San Diego Balloon Animals",
                 "team4Abbr": "SDBA",
                 "description": "Game 3, West League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "8c5c6d5e-739f-4160-903f-1968138369f5",
                 "isPostseason": true,
                 "map": {
@@ -450,7 +450,7 @@
                 "team4Name": "Orlando Business Majors",
                 "team4Abbr": "ORL",
                 "description": "Game 4, Unwest League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "838125c8-0a5d-4964-96da-4b2d83685b4f",
                 "isPostseason": true,
                 "map": {
@@ -522,7 +522,7 @@
                 "team4Name": "San Francisco Boat Shoes",
                 "team4Abbr": "SFBS",
                 "description": "Game 4, West League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "d1201043-8def-415b-8050-4bf8f3f16743",
                 "isPostseason": true,
                 "map": {
@@ -596,7 +596,7 @@
                 "team4Name": "Milwaukee Flamingos",
                 "team4Abbr": "MILF",
                 "description": "Game 5, Unwest League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "2315d250-2a8f-4d26-a5e7-6d5d25dad41e",
                 "isPostseason": true,
                 "map": {
@@ -668,7 +668,7 @@
                 "team4Name": "Albuquerque Solarpunks",
                 "team4Abbr": "ABQ",
                 "description": "Game 5, West League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "716ce77f-a154-4a1b-9ba6-fbe84090ce77",
                 "isPostseason": true,
                 "map": {
@@ -742,7 +742,7 @@
                 "team4Name": "Mobile Wheels",
                 "team4Abbr": "MW",
                 "description": "Game 6, Unwest League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "e5397ab1-66b4-4648-9130-d3a515784aef",
                 "isPostseason": true,
                 "map": {
@@ -814,7 +814,7 @@
                 "team4Name": "Sacramento Boot Lickers",
                 "team4Abbr": "SAC",
                 "description": "Game 6, West League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "59a9f0f8-a710-4f35-a3d7-86aa239893df",
                 "isPostseason": true,
                 "map": {
@@ -888,7 +888,7 @@
                 "team4Name": "Mobile Wheels",
                 "team4Abbr": "MW",
                 "description": "Game 7, Unwest League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "e47676fb-7d22-4c5c-8c36-703436346512",
                 "isPostseason": true,
                 "map": {
@@ -960,7 +960,7 @@
                 "team4Name": "San Francisco Boat Shoes",
                 "team4Abbr": "SFBS",
                 "description": "Game 7, West League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "ea81cafa-24ff-452d-a4f1-da706dab81ad",
                 "isPostseason": true,
                 "map": {
@@ -1034,7 +1034,7 @@
                 "team4Name": "Jersey OSHA Violations",
                 "team4Abbr": "OSHA",
                 "description": "Game 8, Unwest League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "0fbcaf74-839b-4e8f-bab4-f4145e6d1194",
                 "isPostseason": true,
                 "map": {
@@ -1106,7 +1106,7 @@
                 "team4Name": "Albuquerque Solarpunks",
                 "team4Abbr": "ABQ",
                 "description": "Game 8, West League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "7a8e20d2-bbad-46d1-a5d5-87464c5bd23f",
                 "isPostseason": true,
                 "map": {
@@ -1180,7 +1180,7 @@
                 "team4Name": "Jersey OSHA Violations",
                 "team4Abbr": "OSHA",
                 "description": "Game 9, Unwest League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "c316f83e-caec-44db-b888-e7611d5e7b65",
                 "isPostseason": true,
                 "map": {
@@ -1252,7 +1252,7 @@
                 "team4Name": "San Francisco Boat Shoes",
                 "team4Abbr": "SFBS",
                 "description": "Game 9, West League Championship Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "bb207762-9afe-4a60-bc54-e08fce256e8c",
                 "isPostseason": true,
                 "map": {
@@ -1327,7 +1327,7 @@
                 "team4Name": "Milwaukee Flamingos",
                 "team4Abbr": "MILF",
                 "description": "Game 1, Rainbow Cup Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "69e7f844-00e6-42a3-89fb-f86c4f19c75d",
                 "isPostseason": true,
                 "map": {
@@ -1400,7 +1400,7 @@
                 "team4Name": "Milwaukee Flamingos",
                 "team4Abbr": "MILF",
                 "description": "Game 2, Rainbow Cup Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "9971f3d4-48d5-4316-a2ef-4281a271e3e9",
                 "isPostseason": true,
                 "map": {
@@ -1473,7 +1473,7 @@
                 "team4Name": "Mobile Wheels",
                 "team4Abbr": "MW",
                 "description": "Game 3, Rainbow Cup Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "fa474e3e-dd4e-4bf2-aad5-181fc3c754e9",
                 "isPostseason": true,
                 "map": {
@@ -1546,7 +1546,7 @@
                 "team4Name": "Sacramento Boot Lickers",
                 "team4Abbr": "SAC",
                 "description": "Game 4, Rainbow Cup Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "9f2a9b51-eb79-4855-b3aa-6ad41e7d7124",
                 "isPostseason": true,
                 "map": {
@@ -1619,7 +1619,7 @@
                 "team4Name": "San Francisco Boat Shoes",
                 "team4Abbr": "SFBS",
                 "description": "Game 5, Rainbow Cup Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "08505ea0-f6cb-4d77-9f70-f62dce5446f1",
                 "isPostseason": true,
                 "map": {
@@ -1692,7 +1692,7 @@
                 "team4Name": "Mobile Wheels",
                 "team4Abbr": "MW",
                 "description": "Game 6, Rainbow Cup Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "a0c0f7f4-c13d-4afc-8a8d-6d241b89e0a7",
                 "isPostseason": true,
                 "map": {
@@ -1765,7 +1765,7 @@
                 "team4Name": "Mobile Wheels",
                 "team4Abbr": "MW",
                 "description": "Game 7, Rainbow Cup Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "853f6640-2841-472f-8beb-2cddd5e99ade",
                 "isPostseason": true,
                 "map": {
@@ -1838,7 +1838,7 @@
                 "team4Name": "Milwaukee Flamingos",
                 "team4Abbr": "MILF",
                 "description": "Game 8, Rainbow Cup Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "d18e9c50-e624-4ac6-a6f6-161978ddd843",
                 "isPostseason": true,
                 "map": {
@@ -1911,7 +1911,7 @@
                 "team4Name": "Mobile Wheels",
                 "team4Abbr": "MW",
                 "description": "Game 9, Rainbow Cup Series",
-                "season": 17,
+                "season": 23,
                 "gameid": "69f85202-8c0d-4440-a2be-07fda7b11c5e",
                 "isPostseason": true,
                 "map": {
