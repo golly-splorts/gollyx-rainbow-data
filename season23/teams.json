@@ -1,12 +1,5 @@
 [
     {
-        "teamAbbr": "SS",
-        "teamName": "Seattle Sneakers",
-        "teamColor": "#e86215",
-        "league": "West League",
-        "division": "Pacific Division"
-    },
-    {
         "teamAbbr": "SFBS",
         "teamName": "San Francisco Boat Shoes",
         "teamColor": "#e7d7c1",
@@ -14,9 +7,9 @@
         "division": "Pacific Division"
     },
     {
-        "teamAbbr": "SAC",
-        "teamName": "Sacramento Boot Lickers",
-        "teamColor": "#ffb627",
+        "teamAbbr": "SS",
+        "teamName": "Seattle Sneakers",
+        "teamColor": "#e86215",
         "league": "West League",
         "division": "Pacific Division"
     },
@@ -24,6 +17,13 @@
         "teamAbbr": "VV",
         "teamName": "Vegas Vampires",
         "teamColor": "#aa8040",
+        "league": "West League",
+        "division": "Pacific Division"
+    },
+    {
+        "teamAbbr": "SAC",
+        "teamName": "Sacramento Boot Lickers",
+        "teamColor": "#ffb627",
         "league": "West League",
         "division": "Pacific Division"
     },
