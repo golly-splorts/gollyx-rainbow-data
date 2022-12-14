@@ -140,9 +140,9 @@
         "division": "South Division"
     },
     {
-        "teamAbbr": "MILF",
-        "teamName": "Milwaukee Flamingos",
-        "teamColor": "#ff66cc",
+        "teamAbbr": "FFF",
+        "teamName": "Fargo Flea Flickers",
+        "teamColor": "#daed20",
         "league": "Unwest League",
         "division": "Cold Division"
     },
@@ -154,9 +154,9 @@
         "division": "Cold Division"
     },
     {
-        "teamAbbr": "FFF",
-        "teamName": "Fargo Flea Flickers",
-        "teamColor": "#daed20",
+        "teamAbbr": "MILF",
+        "teamName": "Milwaukee Flamingos",
+        "teamColor": "#ff66cc",
         "league": "Unwest League",
         "division": "Cold Division"
     },
